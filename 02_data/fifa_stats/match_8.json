@@ -1,0 +1,118 @@
+{
+  "matchId": 8,
+  "fifaMatchId": "400021447",
+  "fetchTime": "2026-06-24 17:20:47",
+  "home": "Qatar",
+  "away": "Switzerland",
+  "score": "1-1",
+  "date": "2026-06-13",
+  "venue": "San Francisco Bay Area Stadium",
+  "attendance": "67966",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-3-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        2
+      ],
+      "away": [
+        14,
+        12
+      ]
+    },
+    "corners": {
+      "home": 3,
+      "away": 10
+    },
+    "fouls": {
+      "home": 10,
+      "away": 10
+    },
+    "offsides": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "90'+4'",
+      "side": "away",
+      "desc": "Miro MUHEIM (Switzerland) scores an own goal."
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "AHMED FATHY (in) comes off the bench to replace AYOUB ALOUI (out) (Qatar)"
+    },
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "KARIM BOUDIAF (in) comes off the bench to replace JASSEM GABER (out) (Qatar)"
+    },
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "AHMED ALAAELDIN (in) comes off the bench to replace YUSUF ABDURISAG (out) (Qatar)"
+    },
+    {
+      "minute": "65'",
+      "side": "away",
+      "desc": "Johan MANZAMBI (in) comes off the bench to replace Dan NDOYE (out) (Switzerland)"
+    },
+    {
+      "minute": "65'",
+      "side": "away",
+      "desc": "Fabian RIEDER (in) comes off the bench to replace Michel AEBISCHER (out) (Switzerland)"
+    },
+    {
+      "minute": "78'",
+      "side": "home",
+      "desc": "MOHAMED MANAI (in) comes off the bench to replace ASSIM MADIBO (out) (Qatar)"
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "desc": "Zeki AMDOUNI (in) comes off the bench to replace Ruben VARGAS (out) (Switzerland)"
+    },
+    {
+      "minute": "88'",
+      "side": "home",
+      "desc": "HASSAN ALHAYDOS (in) comes off the bench to replace EDMILSON JUNIOR (out) (Qatar)"
+    },
+    {
+      "minute": "89'",
+      "side": "away",
+      "desc": "Miro MUHEIM (in) comes off the bench to replace Ricardo RODRIGUEZ (out) (Switzerland)"
+    },
+    {
+      "minute": "89'",
+      "side": "away",
+      "desc": "Ardon JASHARI (in) comes off the bench to replace Remo FREULER (out) (Switzerland)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "13'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "MAHMOUD ABUNADA (Qatar) is booked by the referee."
+    },
+    {
+      "minute": "23'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "JASSEM GABER (Qatar) is booked by the referee."
+    },
+    {
+      "minute": "42'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Denis ZAKARIA (Switzerland) is booked by the referee."
+    }
+  ]
+}

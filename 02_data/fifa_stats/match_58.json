@@ -1,0 +1,122 @@
+{
+  "matchId": 58,
+  "fifaMatchId": "400021499",
+  "fetchTime": "2026-06-23 16:42:04",
+  "home": "Jordan",
+  "away": "Algeria",
+  "score": "1-2",
+  "date": "2026-06-23",
+  "venue": "San Francisco Bay Area Stadium",
+  "attendance": "68371",
+  "tactics": {
+    "home": "3-4-3",
+    "away": "4-2-1-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        6,
+        2
+      ],
+      "away": [
+        4,
+        13
+      ]
+    },
+    "corners": {
+      "home": 1,
+      "away": 10
+    },
+    "fouls": {
+      "home": 10,
+      "away": 5
+    },
+    "offsides": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "36'",
+      "side": "home",
+      "desc": "NIZAR ALRASHDAN (Jordan) scores!!"
+    },
+    {
+      "minute": "69'",
+      "side": "away",
+      "desc": "Nadhir BENBOUALI (Algeria) scores!!"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "Amine GOUIRI (Algeria) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Nadhir BENBOUALI (in) comes off the bench to replace Hicham BOUDAOUI (out) (Algeria)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Nabil BENTALEB (in) comes off the bench to replace Ramiz ZERROUKI (out) (Algeria)"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "Anis HADJ MOUSSA (in) comes off the bench to replace Riyad MAHREZ (out) (Algeria)"
+    },
+    {
+      "minute": "76'",
+      "side": "home",
+      "desc": "ODEH FAKHOURY (in) comes off the bench to replace MAHMOUD ALMARDI (out) (Jordan)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "ALI AZAIZEH (in) comes off the bench to replace MOUSA ALTAMARI (out) (Jordan)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "MOHAMMAD ABUHASHEESH (in) comes off the bench to replace MOHANNAD ABUTAHA (out) (Jordan)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Zineddine BELAID (in) comes off the bench to replace Amine GOUIRI (out) (Algeria)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Jaouen HADJAM (in) comes off the bench to replace Rayan AIT-NOURI (out) (Algeria)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "home",
+      "desc": "MOHAMMAD ABUZRAIQ (in) comes off the bench to replace ALI OLWAN (out) (Jordan)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "home",
+      "desc": "SALEEM OBAID (in) comes off the bench to replace HUSAM ABUDAHAB (out) (Jordan)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "44'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Ramiz ZERROUKI (Algeria) is booked by the referee."
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "HUSAM ABUDAHAB (Jordan) is booked by the referee."
+    }
+  ]
+}

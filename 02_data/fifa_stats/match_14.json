@@ -1,0 +1,114 @@
+{
+  "matchId": 14,
+  "fifaMatchId": "400021453",
+  "fetchTime": "2026-06-24 17:22:36",
+  "home": "Haiti",
+  "away": "Scotland",
+  "score": "0-1",
+  "date": "2026-06-14",
+  "venue": "Boston Stadium",
+  "attendance": "64146",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        8,
+        7
+      ],
+      "away": [
+        7,
+        2
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 3
+    },
+    "fouls": {
+      "home": 22,
+      "away": 18
+    },
+    "offsides": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "28'",
+      "side": "away",
+      "desc": "John McGINN (Scotland) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "61'",
+      "side": "home",
+      "desc": "Josue CASIMIR (in) comes off the bench to replace Louicius DEEDSON (out) (Haiti)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Lyndon DYKES (in) comes off the bench to replace Che ADAMS (out) (Scotland)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Ryan CHRISTIE (in) comes off the bench to replace Ben GANNON-DOAK (out) (Scotland)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Nathan PATTERSON (in) comes off the bench to replace Aaron HICKEY (out) (Scotland)"
+    },
+    {
+      "minute": "75'",
+      "side": "home",
+      "desc": "Lenny JOSEPH (in) comes off the bench to replace Wilson ISIDOR (out) (Haiti)"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "Findlay CURTIS (in) comes off the bench to replace John McGINN (out) (Scotland)"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "Kenny McLEAN (in) comes off the bench to replace Lawrence SHANKLAND (out) (Scotland)"
+    },
+    {
+      "minute": "85'",
+      "side": "home",
+      "desc": "Yassin FORTUNE (in) comes off the bench to replace Ruben PROVIDENCE (out) (Haiti)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "39'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Jean-Ricner BELLEGARDE (Haiti) is booked by the referee."
+    },
+    {
+      "minute": "46'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Aaron HICKEY (Scotland) is booked by the referee."
+    },
+    {
+      "minute": "90'+1'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Findlay CURTIS (Scotland) is booked by the referee."
+    },
+    {
+      "minute": "90'+5'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Kenny McLEAN (Scotland) is booked by the referee."
+    }
+  ]
+}

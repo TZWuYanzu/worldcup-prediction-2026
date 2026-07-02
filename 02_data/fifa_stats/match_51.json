@@ -1,0 +1,116 @@
+{
+  "matchId": 51,
+  "fifaMatchId": "400021492",
+  "fetchTime": "2026-06-23 16:42:42",
+  "home": "France",
+  "away": "Iraq",
+  "score": "3-0",
+  "date": "2026-06-22",
+  "venue": "Philadelphia Stadium",
+  "attendance": "68324",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        7,
+        12
+      ],
+      "away": [
+        2,
+        2
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 2
+    },
+    "fouls": {
+      "home": 8,
+      "away": 3
+    },
+    "offsides": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "14'",
+      "side": "home",
+      "desc": "Kylian MBAPPE (France) scores!!"
+    },
+    {
+      "minute": "54'",
+      "side": "home",
+      "desc": "Kylian MBAPPE (France) scores!!"
+    },
+    {
+      "minute": "66'",
+      "side": "home",
+      "desc": "Ousmane DEMBELE (France) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "26'",
+      "side": "away",
+      "desc": "ALI ALHAMADI (in) comes off the bench to replace AYMEN HUSSEIN (out) (Iraq)"
+    },
+    {
+      "minute": "60'",
+      "side": "away",
+      "desc": "REBIN SULAKA (in) comes off the bench to replace ZAID TAHSEEN (out) (Iraq)"
+    },
+    {
+      "minute": "60'",
+      "side": "away",
+      "desc": "YOUSSEF AMYN (in) comes off the bench to replace ZAID ISMAEL (out) (Iraq)"
+    },
+    {
+      "minute": "68'",
+      "side": "home",
+      "desc": "Desire DOUE (in) comes off the bench to replace Ousmane DEMBELE (out) (France)"
+    },
+    {
+      "minute": "68'",
+      "side": "home",
+      "desc": "Rayan CHERKI (in) comes off the bench to replace Michael OLISE (out) (France)"
+    },
+    {
+      "minute": "68'",
+      "side": "away",
+      "desc": "MARKO FARJI (in) comes off the bench to replace IBRAHIM BAYESH (out) (Iraq)"
+    },
+    {
+      "minute": "68'",
+      "side": "away",
+      "desc": "AIMAR SHER (in) comes off the bench to replace AMIR ALAMMARI (out) (Iraq)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Maghnes AKLIOUCHE (in) comes off the bench to replace Bradley BARCOLA (out) (France)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Malo GUSTO (in) comes off the bench to replace Jules KOUNDE (out) (France)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "home",
+      "desc": "Marcus THURAM (in) comes off the bench to replace Kylian MBAPPE (out) (France)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "6'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "AMIR ALAMMARI (Iraq) is booked by the referee."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "matchId": 69,
+  "fifaMatchId": "400021506",
+  "fetchTime": "2026-06-24 16:00:42",
+  "home": "England",
+  "away": "Ghana",
+  "score": "0-0",
+  "date": "2026-06-23",
+  "venue": "Boston Stadium",
+  "attendance": "63983",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        6,
+        13
+      ],
+      "away": [
+        0,
+        2
+      ]
+    },
+    "corners": {
+      "home": 9,
+      "away": 2
+    },
+    "fouls": {
+      "home": 13,
+      "away": 23
+    },
+    "offsides": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "goals": [],
+  "substitutions": [
+    {
+      "minute": "65'",
+      "side": "home",
+      "desc": "Bukayo SAKA (in) comes off the bench to replace Anthony GORDON (out) (England)"
+    },
+    {
+      "minute": "65'",
+      "side": "home",
+      "desc": "Nico OREILLY (in) comes off the bench to replace Djed SPENCE (out) (England)"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "Abdul FATAWU (in) comes off the bench to replace Inaki WILLIAMS (out) (Ghana)"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "Prince ADU (in) comes off the bench to replace Jordan AYEW (out) (Ghana)"
+    },
+    {
+      "minute": "74'",
+      "side": "home",
+      "desc": "Morgan ROGERS (in) comes off the bench to replace Jude BELLINGHAM (out) (England)"
+    },
+    {
+      "minute": "74'",
+      "side": "home",
+      "desc": "Eberechi EZE (in) comes off the bench to replace Elliot ANDERSON (out) (England)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Marcus RASHFORD (in) comes off the bench to replace Noni MADUEKE (out) (England)"
+    },
+    {
+      "minute": "87'",
+      "side": "away",
+      "desc": "Kojo Peprah OPPONG (in) comes off the bench to replace Marvin SENAYA (out) (Ghana)"
+    },
+    {
+      "minute": "90'+5'",
+      "side": "away",
+      "desc": "Baba RAHMAN (in) comes off the bench to replace Prince ADU (out) (Ghana)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "41'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Declan RICE (England) is booked by the referee."
+    },
+    {
+      "minute": "60'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Inaki WILLIAMS (Ghana) is booked by the referee."
+    }
+  ]
+}

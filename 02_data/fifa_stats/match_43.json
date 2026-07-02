@@ -1,0 +1,101 @@
+{
+  "matchId": 43,
+  "fifaMatchId": "400021482",
+  "fetchTime": "2026-06-22 15:04:53",
+  "home": "Spain",
+  "away": "Cape Verde",
+  "score": "0-0",
+  "date": "2026-06-15",
+  "venue": "Atlanta Stadium",
+  "attendance": "67640",
+  "tactics": {
+    "home": "4-1-2-3",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        13,
+        14
+      ],
+      "away": [
+        3,
+        3
+      ]
+    },
+    "corners": {
+      "home": 11,
+      "away": 1
+    },
+    "fouls": {
+      "home": 9,
+      "away": 0
+    },
+    "offsides": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  "goals": [],
+  "substitutions": [
+    {
+      "minute": "61'",
+      "side": "away",
+      "desc": "NUNO DA COSTA (in) comes off the bench to replace DAILON LIVRAMENTO (out) (Cabo Verde)"
+    },
+    {
+      "minute": "61'",
+      "side": "away",
+      "desc": "WILLY SEMEDO (in) comes off the bench to replace JOVANE CABRAL (out) (Cabo Verde)"
+    },
+    {
+      "minute": "61'",
+      "side": "away",
+      "desc": "DEROY DUARTE (in) comes off the bench to replace LAROS DUARTE (out) (Cabo Verde)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Mikel MERINO (in) comes off the bench to replace Fabian RUIZ (out) (Spain)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Lamine YAMAL (in) comes off the bench to replace GAVI (out) (Spain)"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "JOAO PAULO (in) comes off the bench to replace SIDNY LOPES CABRAL (out) (Cabo Verde)"
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "desc": "TELMO ARCANJO (in) comes off the bench to replace JAMIRO MONTEIRO (out) (Cabo Verde)"
+    },
+    {
+      "minute": "81'",
+      "side": "home",
+      "desc": "Dani OLMO (in) comes off the bench to replace Ferran TORRES (out) (Spain)"
+    },
+    {
+      "minute": "87'",
+      "side": "home",
+      "desc": "Nico WILLIAMS (in) comes off the bench to replace RODRI (out) (Spain)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "16'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "SIDNY LOPES CABRAL (Cabo Verde) is booked by the referee."
+    },
+    {
+      "minute": "90'+3'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "PEDRI (Spain) is booked by the referee."
+    }
+  ]
+}

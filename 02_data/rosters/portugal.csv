@@ -1,0 +1,38 @@
+number,player,position,club,verified_via,note
+⚠️,Diogo Costa,GK,FC Porto,wiki_diogo_costa_page,波尔图 #99 & 队长；sweeper-keeper；squad 编号未核实
+2,Cancelo,DF,Barcelona,wiki_cancelo_page,João Cancelo 2026/01/13 自利雅得新月租借回巴萨 #2；右后/左后均可（更正：训练记忆中的"利雅得新月"已过时）
+3,Rúben Dias,DF,Manchester City,wiki_ruben_dias_page,葡萄牙 2026 WC #3
+14,Inácio,DF,Sporting CP,wiki_inacio_page,Gonçalo Inácio 葡萄牙 2026 WC #14
+⚠️,Nuno Mendes,DF,Paris Saint-Germain,wiki_nuno_mendes_page,PSG #25；2025 金球第 10；欧国联决赛 26' 破门 + 决赛最佳球员；squad 编号未核实
+13,Renato Veiga,DF,Villarreal,wiki_veiga_page,2025/08 自切尔西加盟比利亚雷亚尔 7 年合约；葡萄牙 2026 WC #13；中卫/左后/防中多面手
+⚠️,António Silva,DF,Benfica,wiki_antonio_silva_page,本菲卡 CB；squad 编号未核实
+⚠️,Bruno Fernandes,MF,Manchester United,wiki_bruno_page,曼联队长 #8；2025-26 创英超单季 21 助攻纪录 + FWA 年度足球先生；squad 编号未核实
+⚠️,Vitinha,MF,Paris Saint-Germain,wiki_vitinha_page,2025 金球第 3；2024-25 欧冠冠军；deep-lying playmaker；squad 编号未核实
+⚠️,Bernardo Silva,MF,Manchester City,wiki_bernardo_page,曼城 2026/06/30 合约到期已宣布离队（WC 期间仍为曼城球员）；squad 编号未核实
+21,Rúben Neves,MF,Al-Hilal,wiki_ruben_neves_page,葡萄牙 2026 WC #21（致敬亡友 Jota）
+15,João Neves,MF,Paris Saint-Germain,wiki_joao_neves_page,葡萄牙 2026 WC #15；中前卫/防中/右后
+⚠️,Palhinha,MF,Bayern Munich,wiki_palhinha_page,João Palhinha 拜仁球员 2025-26 整赛季租借至热刺；squad 编号未核实
+7,Ronaldo (c),FW,Al-Nassr,wiki_ronaldo_page,Cristiano Ronaldo 41 岁 #7 & 队长；226 场 143 球双世界纪录；2025-26 助利雅得胜利夺沙特联赛冠军
+9,Gonçalo Ramos,FW,Paris Saint-Germain,wiki_ramos_page,葡萄牙 2026 WC #9
+⚠️,Leão,FW,AC Milan,wiki_leao_page,Rafael Leão 左路边锋；2025-26 因米兰连续无缘欧冠已宣布将离队，新东家未定 —— WC 期间仍为米兰球员；squad 编号未核实
+⚠️,João Félix,FW,Al-Nassr,wiki_felix_page,2025/07/29 自切尔西转会 £26.2M（与 C 罗同队）；2025-26 沙特联赛 MVP；squad 编号未核实
+18,Pedro Neto,FW,Chelsea,wiki_pedro_neto_page,葡萄牙 2026 WC #18；边路
+26,Francisco Conceição,FW,Juventus,wiki_conceicao_page,葡萄牙 2026 WC #26；右路边锋（俱乐部 #7）
+⚠️,Trincão,FW,⚠️ unconfirmed,⚠️ unverified,Francisco Trincão 训练记忆推测：葡萄牙体育；未单独 Wiki 核实
+~~Diogo Jota~~,~~FW~~,~~Liverpool~~,wiki_obit,2025/07/03 西班牙车祸离世；利物浦退役其 20 号球衣
+# 以下 6 人留空待补完整 26 人名单：
+⚠️,⚠️ unconfirmed_GK_2,GK,⚠️ unconfirmed,⚠️ unverified,可能为 Rui Patrício/José Sá/Rui Silva 之一
+⚠️,⚠️ unconfirmed_GK_3,GK,⚠️ unconfirmed,⚠️ unverified,
+⚠️,⚠️ unconfirmed_DF,DF,⚠️ unconfirmed,⚠️ unverified,可能为 Diogo Dalot/Nélson Semedo 之一
+⚠️,⚠️ unconfirmed,⚠️,⚠️ unconfirmed,⚠️ unverified,
+⚠️,⚠️ unconfirmed,⚠️,⚠️ unconfirmed,⚠️ unverified,
+⚠️,⚠️ unconfirmed,⚠️,⚠️ unconfirmed,⚠️ unverified,
+
+# 数据来源：各球员个人 Wikipedia 页面（fetched 2026/06/04）。
+# 2026 FIFA World Cup squads 集中页与葡萄牙国家队主页的 squad 表格均被 WebFetch 截断，未拿到完整 26 人编号列表。
+# 已通过个人页明确确认入选 2026 WC squad：Cancelo(#2), Dias(#3), Inácio(#14), Nuno Mendes(隐含), Veiga(#13), Rúben Neves(#21), João Neves(#15), Ramos(#9), Pedro Neto(#18), Conceição(#26)
+# 训练记忆 vs Wiki 关键冲突：
+#   1) Cancelo —— 训练记忆"利雅得新月"已过时；Wiki 确认 2026/01/13 租借回巴萨 #2
+#   2) Palhinha —— 训练记忆只知拜仁；Wiki 确认 2025-26 整赛季租借热刺
+#   3) Félix —— 训练记忆已正确（利雅得胜利 = Al-Nassr）；Wiki 进一步确认 £26.2M 转会费 + 沙特联赛 MVP
+# 抓取日期：2026/06/04

@@ -1,0 +1,32 @@
+number,player,position,club,verified_via,note
+1,Courtois,GK,Real Madrid,wiki_courtois_page,Thibaut Courtois 2025/03/20 vs 乌克兰复出 国家队
+2,Debast,DF,Sporting CP,wiki_debast_page,Zeno Debast 2024 自安德莱赫特加盟签 5 年
+3,Theate,DF,Eintracht Frankfurt,wiki_theate_page,Arthur Theate 2024/08 租借 2025/02/02 永久买断
+4,Mechele,DF,⚠️ unverified,wiki_tielemans_squad_list,Brandon Mechele 大概率 Club Brugge 未独立核对
+5,De Cuyper,DF,Brighton & Hove Albion,wiki_decuyper_page,Maxim De Cuyper 自布鲁日加盟
+6,Witsel,MF,⚠️ unverified,wiki_tielemans_squad_list,Axel Witsel 老将 大概率 Girona/Atlético 未独立核对
+7,De Bruyne,MF,Napoli,wiki_kdb_page,Kevin De Bruyne 2025/06/12 自曼城自由身加盟 2025/09 让出队长袖标 2025-26 21 场 5 球
+8,Tielemans (c),MF,Aston Villa,wiki_tielemans_page,Youri Tielemans 2025/09/03 由 Garcia 任命永久队长
+9,Lukaku,FW,Napoli,wiki_lukaku_page,Romelu Lukaku 2024/08/29 永久加盟 国家队史射手王 90 球 125 场 2025-26 季前赛大腿伤
+10,Trossard,FW,Arsenal,wiki_trossard_page,Leandro Trossard 阿森纳 #19 国家队 #10
+11,Doku,FW,Manchester City,wiki_doku_page,Jérémy Doku 曼城 #11
+12,Lammens,GK,Manchester United,wiki_lammens_page,Senne Lammens 曼联 #31 国家队 #12
+13,Penders,GK,⚠️ unverified,wiki_tielemans_squad_list,Mike Penders 大概率 Genk 或 Chelsea youth 未独立核对
+14,Lukébakio,FW,⚠️ unverified,wiki_tielemans_squad_list,Dodi Lukébakio 大概率 Sevilla 或新转 Benfica 未独立核对
+15,Meunier,DF,Lille,wiki_meunier_page,Thomas Meunier 2024/07 自由身加盟里尔签 2 年
+16,De Winter,DF,⚠️ unverified,wiki_tielemans_squad_list,Koni De Winter 大概率 Genoa 未独立核对
+17,De Ketelaere,FW/MF,Atalanta,wiki_dk_page,Charles De Ketelaere 亚特兰大 #17
+18,Seys,DF,⚠️ unverified,wiki_tielemans_squad_list,Joaquín Seys 大概率 Club Brugge 未独立核对
+19,Moreira,⚠️ unverified,⚠️ unverified,wiki_tielemans_squad_list,可能 Mathias Moreira 或同名 未独立核对
+20,Vanaken,MF,Club Brugge,wiki_vanaken_page,Hans Vanaken 布鲁日 攻击型中场
+21,Castagne,DF,Fulham,wiki_castagne_page,Timothy Castagne 富勒姆 #21
+22,Saelemaekers,FW/MF,⚠️ unverified,wiki_tielemans_squad_list,Alexis Saelemaekers 大概率 AC Milan (Roma 租借结束回归) 未独立核对
+23,Raskin,MF,Rangers,wiki_raskin_page,Nicolas Raskin 流浪者 #43
+24,Onana,MF,Aston Villa,wiki_onana_page,Amadou Onana 2024/07 自埃弗顿加盟约 £50M 签 5 年
+25,Ngoy,⚠️ unverified,⚠️ unverified,wiki_tielemans_squad_list,可能 Stanis Idumbo-Muzambo 或 Jorthy Mokio Ngoy 类型新秀 未独立核对
+26,Fernandez-Pardo,⚠️ unverified,⚠️ unverified,wiki_tielemans_squad_list,Mathys Fernandez-Pardo? 大概率根特 (Gent) 新秀 未独立核对
+
+# 数据来源：Wikipedia Youri Tielemans 个人页与 Charles De Ketelaere 个人页 "Belgium squad – 2026 FIFA World Cup" 模板（完整 26 人编号+姓氏；两页完全一致）。
+# 教练 Rudi Garcia (2025/01/24 接替 Domenico Tedesco)，于 2026/05/15 公布 26 人。
+# 关键核对球员（#1, 2, 3, 5, 7-12, 15, 17, 20, 21, 23, 24）已 Wikipedia 个人页交叉核对。
+# 落选名单（前文 .md 提及但未入 26 人）：Koen Casteels (2025/03 因 Courtois 回归宣布退出国家队)、Matz Sels (诺丁汉森林)、Wout Faes (摩纳哥租借)、Loïs Openda (尤文租借含 €40.6M 强制买断)、Malick Fofana (里昂)。

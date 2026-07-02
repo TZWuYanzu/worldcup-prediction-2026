@@ -1,0 +1,151 @@
+{
+  "matchId": 19,
+  "fifaMatchId": "400021458",
+  "fetchTime": "2026-06-25 20:05:53",
+  "home": "United States",
+  "away": "Paraguay",
+  "score": "4-1",
+  "date": "2026-06-13",
+  "venue": "Los Angeles Stadium",
+  "attendance": "70492",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        7,
+        9
+      ],
+      "away": [
+        2,
+        7
+      ]
+    },
+    "corners": {
+      "home": 3,
+      "away": 1
+    },
+    "fouls": {
+      "home": 12,
+      "away": 12
+    },
+    "offsides": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "7'",
+      "side": "away",
+      "desc": "Damian BOBADILLA (Paraguay) scores an own goal."
+    },
+    {
+      "minute": "31'",
+      "side": "home",
+      "desc": "Folarin BALOGUN (USA) scores!!"
+    },
+    {
+      "minute": "45'+5'",
+      "side": "home",
+      "desc": "Folarin BALOGUN (USA) scores!!"
+    },
+    {
+      "minute": "73'",
+      "side": "away",
+      "desc": "MAURICIO (Paraguay) scores!!"
+    },
+    {
+      "minute": "90'+8'",
+      "side": "home",
+      "desc": "Giovanni REYNA (USA) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins MAURICIO (in) comes off the bench to replace Damian BOBADILLA (out) (Paraguay)"
+    },
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Sebastian BERHALTER (in) comes off the bench to replace Christian PULISIC (out) (USA)"
+    },
+    {
+      "minute": "62'",
+      "side": "away",
+      "desc": "Alex ARCE (in) comes off the bench to replace Antonio SANABRIA (out) (Paraguay)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Timothy WEAH (in) comes off the bench to replace Sergino DEST (out) (USA)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Ricardo PEPI (in) comes off the bench to replace Folarin BALOGUN (out) (USA)"
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "desc": "Ramon SOSA (in) comes off the bench to replace Miguel ALMIRON (out) (Paraguay)"
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "desc": "Gustavo VELAZQUEZ (in) comes off the bench to replace Juan Jose CACERES (out) (Paraguay)"
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "desc": "Alejandro ROMERO GAMARRA (in) comes off the bench to replace Diego GOMEZ (out) (Paraguay)"
+    },
+    {
+      "minute": "82'",
+      "side": "home",
+      "desc": "Giovanni REYNA (in) comes off the bench to replace Malik TILLMAN (out) (USA)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "9'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Juan Jose CACERES (Paraguay) is booked by the referee."
+    },
+    {
+      "minute": "53'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Miguel ALMIRON (Paraguay) is booked by the referee."
+    },
+    {
+      "minute": "59'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Tyler ADAMS (USA) is booked by the referee."
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Diego GOMEZ (Paraguay) is booked by the referee."
+    },
+    {
+      "minute": "88'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Alex ARCE (Paraguay) is booked by the referee."
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Junior ALONSO (Paraguay) is booked by the referee."
+    }
+  ]
+}

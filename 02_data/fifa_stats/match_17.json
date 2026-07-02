@@ -1,0 +1,450 @@
+{
+  "matchId": 17,
+  "fifaMatchId": "400021455",
+  "fetchTime": "2026-06-29 14:23:35",
+  "home": "Scotland",
+  "away": "Brazil",
+  "score": "0-3",
+  "date": "2026-06-24",
+  "venue": "Miami Stadium",
+  "attendance": "64478",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-3-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        10
+      ],
+      "away": [
+        11,
+        10
+      ]
+    },
+    "corners": {
+      "home": 7,
+      "away": 6
+    },
+    "fouls": {
+      "home": 9,
+      "away": 9
+    },
+    "offsides": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "7'",
+      "side": "away",
+      "desc": "VINICIUS JUNIOR (Brazil) scores!!"
+    },
+    {
+      "minute": "45'+3'",
+      "side": "away",
+      "desc": "VINICIUS JUNIOR (Brazil) scores!!"
+    },
+    {
+      "minute": "60'",
+      "side": "away",
+      "desc": "MATHEUS CUNHA (Brazil) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Kieran TIERNEY (in) comes off the bench to replace Andy ROBERTSON (out) (Scotland)"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "FABINHO (in) comes off the bench to replace CASEMIRO (out) (Brazil)"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "GABRIEL MARTINELLI (in) comes off the bench to replace LUCAS PAQUETA (out) (Brazil)"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "NEYMAR JR (in) comes off the bench to replace MATHEUS CUNHA (out) (Brazil)"
+    },
+    {
+      "minute": "81'",
+      "side": "home",
+      "desc": "Anthony RALSTON (in) comes off the bench to replace Nathan PATTERSON (out) (Scotland)"
+    },
+    {
+      "minute": "81'",
+      "side": "home",
+      "desc": "Ryan CHRISTIE (in) comes off the bench to replace Ben GANNON-DOAK (out) (Scotland)"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "ENDRICK (in) comes off the bench to replace RAYAN (out) (Brazil)"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "ALEX SANDRO (in) comes off the bench to replace DOUGLAS SANTOS (out) (Brazil)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "home",
+      "desc": "Findlay CURTIS (in) comes off the bench to replace John McGINN (out) (Scotland)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "home",
+      "desc": "Che ADAMS (in) comes off the bench to replace Lawrence SHANKLAND (out) (Scotland)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "62'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "DANILO (Brazil) is booked by the referee."
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "FABINHO (Brazil) is booked by the referee."
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Ryan CHRISTIE (Scotland) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "4-2-3-1",
+      "starters": [
+        {
+          "name": "Angus GUNN",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Andy ROBERTSON",
+          "number": 3,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "Jack HENDRY",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Nathan PATTERSON",
+          "number": 22,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Scott McKENNA",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Scott McTOMINAY",
+          "number": 4,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "John McGINN",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Lewis FERGUSON",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Kenny McLEAN",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ben GANNON-DOAK",
+          "number": 17,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Lawrence SHANKLAND",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Aaron HICKEY",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Grant HANLEY",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Kieran TIERNEY",
+          "number": 6,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Tyler FLETCHER",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Lyndon DYKES",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Che ADAMS",
+          "number": 10,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Ryan CHRISTIE",
+          "number": 11,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Liam KELLY",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Ross STEWART",
+          "number": 14,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "John SOUTTAR",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Dominic HYAM",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "George HIRST",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Craig GORDON",
+          "number": 21,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Anthony RALSTON",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Findlay CURTIS",
+          "number": 25,
+          "position": "FW",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-3-3",
+      "starters": [
+        {
+          "name": "ALISSON",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "GABRIEL MAGALHAES",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MARQUINHOS",
+          "number": 4,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "DANILO",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "DOUGLAS SANTOS",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "CASEMIRO",
+          "number": 5,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "BRUNO GUIMARAES",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "LUCAS PAQUETA",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "VINICIUS JUNIOR",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "MATHEUS CUNHA",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "RAYAN",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "EDERSON SILVA",
+          "number": 2,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "ALEX SANDRO",
+          "number": 6,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "NEYMAR JR",
+          "number": 10,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "WEVERTON",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "BREMER",
+          "number": 14,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "LEO PEREIRA",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "FABINHO",
+          "number": 17,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "DANILO SANTOS",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "ENDRICK",
+          "number": 19,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "LUIZ HENRIQUE",
+          "number": 21,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "GABRIEL MARTINELLI",
+          "number": 22,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "EDERSON",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "ROGER IBANEZ",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "IGOR THIAGO",
+          "number": 25,
+          "position": "FW",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

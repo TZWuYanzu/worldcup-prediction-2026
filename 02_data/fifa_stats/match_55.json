@@ -1,0 +1,437 @@
+{
+  "matchId": 55,
+  "fifaMatchId": "400021496",
+  "fetchTime": "2026-06-22 19:14:02",
+  "home": "Argentina",
+  "away": "Algeria",
+  "score": "3-0",
+  "date": "2026-06-17",
+  "venue": "Kansas City Stadium",
+  "attendance": "69045",
+  "tactics": {
+    "home": "4-3-3",
+    "away": "4-3-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        6
+      ],
+      "away": [
+        4,
+        3
+      ]
+    },
+    "corners": {
+      "home": 2,
+      "away": 2
+    },
+    "fouls": {
+      "home": 13,
+      "away": 8
+    },
+    "offsides": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "17'",
+      "side": "home",
+      "desc": "Lionel MESSI (Argentina) scores!!"
+    },
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "Lionel MESSI (Argentina) scores!!"
+    },
+    {
+      "minute": "76'",
+      "side": "home",
+      "desc": "Lionel MESSI (Argentina) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Nahuel MOLINA (in) comes off the bench to replace Gonzalo MONTIEL (out) (Argentina)"
+    },
+    {
+      "minute": "55'",
+      "side": "home",
+      "desc": "Julian ALVAREZ (in) comes off the bench to replace Lautaro MARTINEZ (out) (Argentina)"
+    },
+    {
+      "minute": "55'",
+      "side": "home",
+      "desc": "Nico GONZALEZ (in) comes off the bench to replace Thiago ALMADA (out) (Argentina)"
+    },
+    {
+      "minute": "64'",
+      "side": "away",
+      "desc": "Houssem AOUAR (in) comes off the bench to replace Hicham BOUDAOUI (out) (Algeria)"
+    },
+    {
+      "minute": "64'",
+      "side": "away",
+      "desc": "Riyad MAHREZ (in) comes off the bench to replace Anis HADJ MOUSSA (out) (Algeria)"
+    },
+    {
+      "minute": "64'",
+      "side": "away",
+      "desc": "Mohamed AMOURA (in) comes off the bench to replace Amine GOUIRI (out) (Algeria)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Nicolas OTAMENDI (in) comes off the bench to replace Cristian ROMERO (out) (Argentina)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Nico PAZ (in) comes off the bench to replace Lionel MESSI (out) (Argentina)"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "Ramiz ZERROUKI (in) comes off the bench to replace Nabil BENTALEB (out) (Algeria)"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "Adil BOULBINA (in) comes off the bench to replace Ibrahim MAZA (out) (Algeria)"
+    }
+  ],
+  "bookings": [],
+  "lineup": {
+    "home": {
+      "tactics": "4-3-3",
+      "starters": [
+        {
+          "name": "Emiliano MARTINEZ",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Gonzalo MONTIEL",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Lisandro MARTINEZ",
+          "number": 6,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Cristian ROMERO",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Facundo MEDINA",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Rodrigo DE PAUL",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Alexis MAC ALLISTER",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Enzo FERNANDEZ",
+          "number": 24,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Lionel MESSI",
+          "number": 10,
+          "position": "FW",
+          "captain": true
+        },
+        {
+          "name": "Thiago ALMADA",
+          "number": 16,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Lautaro MARTINEZ",
+          "number": 22,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Juan MUSSO",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Marcos SENESI",
+          "number": 2,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nicolas TAGLIAFICO",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Leandro PAREDES",
+          "number": 5,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Valentin BARCO",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Julian ALVAREZ",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Giovani LO CELSO",
+          "number": 11,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Geronimo RULLI",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Exequiel PALACIOS",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nico GONZALEZ",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Giuliano SIMEONE",
+          "number": 17,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Nico PAZ",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Nicolas OTAMENDI",
+          "number": 19,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jose Manuel LOPEZ",
+          "number": 21,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Nahuel MOLINA",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-3-3",
+      "starters": [
+        {
+          "name": "Luca ZIDANE",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Aissa MANDI",
+          "number": 2,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "Rayan AIT-NOURI",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Rafik BELGHALI",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Ramy BENSEBAINI",
+          "number": 21,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Fares CHAIBI",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Hicham BOUDAOUI",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nabil BENTALEB",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ibrahim MAZA",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Amine GOUIRI",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Anis HADJ MOUSSA",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Melvin MASTIL",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Achref ABADA",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Mohamed Amine TOUGAI",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Zineddine BELAID",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Ramiz ZERROUKI",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Riyad MAHREZ",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Houssem AOUAR",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nadhir BENBOUALI",
+          "number": 12,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Jaouen HADJAM",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Oussama BENBOT",
+          "number": 16,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Mohamed AMOURA",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Adil BOULBINA",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Yassine TITRAOUI",
+          "number": 24,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Fares GHEDJEMIS",
+          "number": 25,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Samir CHERGUI",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

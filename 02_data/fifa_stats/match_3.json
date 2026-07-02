@@ -1,0 +1,108 @@
+{
+  "matchId": 3,
+  "fifaMatchId": "400021440",
+  "fetchTime": "2026-06-24 19:38:44",
+  "home": "Czech Republic",
+  "away": "South Africa",
+  "score": "1-1",
+  "date": "2026-06-18",
+  "venue": "Atlanta Stadium",
+  "attendance": "67442",
+  "tactics": {
+    "home": "3-5-2",
+    "away": "4-3-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        5,
+        9
+      ],
+      "away": [
+        5,
+        12
+      ]
+    },
+    "corners": {
+      "home": 5,
+      "away": 5
+    },
+    "fouls": {
+      "home": 11,
+      "away": 9
+    },
+    "offsides": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  "goals": [
+    {
+      "minute": "6'",
+      "side": "home",
+      "desc": "Michal SADILEK (Czechia) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Relebohile MOFOKENG (in) comes off the bench to replace Jayden ADAMS (out) (South Africa)"
+    },
+    {
+      "minute": "55'",
+      "side": "home",
+      "desc": "Pavel SULC (in) comes off the bench to replace Vladimir DARIDA (out) (Czechia)"
+    },
+    {
+      "minute": "55'",
+      "side": "home",
+      "desc": "Jaroslav ZELENY (in) comes off the bench to replace Alexandr SOJKA (out) (Czechia)"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "Evidence MAKGOPA (in) comes off the bench to replace Iqraam RAYNERS (out) (South Africa)"
+    },
+    {
+      "minute": "67'",
+      "side": "home",
+      "desc": "Lukas PROVOD (in) comes off the bench to replace Adam HLOZEK (out) (Czechia)"
+    },
+    {
+      "minute": "67'",
+      "side": "home",
+      "desc": "Tomas SOUCEK (in) comes off the bench to replace Michal SADILEK (out) (Czechia)"
+    },
+    {
+      "minute": "78'",
+      "side": "home",
+      "desc": "David ZIMA (in) comes off the bench to replace Lukas CERV (out) (Czechia)"
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "desc": "Kamogelo SEBELEBELE (in) comes off the bench to replace Thapelo MASEKO (out) (South Africa)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "33'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Teboho MOKOENA (South Africa) is booked by the referee."
+    },
+    {
+      "minute": "40'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Thalente MBATHA (South Africa) is booked by the referee."
+    },
+    {
+      "minute": "75'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Ladislav KREJCI (Czechia) is booked by the referee."
+    }
+  ]
+}

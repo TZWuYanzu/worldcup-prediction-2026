@@ -1,0 +1,32 @@
+number,player,position,club,verified_via,note
+1,Alisson,GK,Liverpool,wiki_player_page,#1, 2024-25 PL 冠军，合同至 2027
+2,Wesley,DF (RB/LB),Roma,wiki_player_page,Wesley França，2025/07/28 自 Flamengo 五年合同
+3,Gabriel Magalhães,DF (CB),Arsenal,wiki_player_page,2025/06/06 续约
+4,Marquinhos (c),DF (CB),Paris Saint-Germain,wiki_player_page,巴西 & PSG 双队长，合同至 2028
+5,Casemiro,MF (DM),Manchester United,wiki_player_page,曼联 2026/01 宣布赛季末合同到期不续约
+6,Alex Sandro,DF (LB),Flamengo,wiki_player_page,2024/08 自由身加盟 Flamengo，合同至 2026/12
+7,Vinícius Jr.,FW (LW),Real Madrid,wiki_player_page,2024 金球亚军 + The Best；2024-25 22 球
+8,Bruno Guimarães,MF (CM),Newcastle United,wiki_player_page,纽卡队长，#39
+9,Matheus Cunha,FW,Manchester United,wiki_player_page,2025/06/12 自 Wolves £62.5M
+10,Neymar,FW/AM,Santos FC,wiki_player_page,2025/01 离 Al-Hilal 自由身回桑托斯；桑托斯队长 #10
+11,Raphinha,FW (LW/RW),Barcelona,wiki_player_page,2024-25 La Liga 18 球 + UCL 13 球射手王并列 + 9 助攻最佳
+12,Weverton,GK,⚠️ unverified,wiki_navbox_only,Wiki 个人页 URL 失败；推测仍在 Palmeiras
+13,Danilo Luiz,DF (CB/RB),Flamengo,wiki_player_page,2025/01/29 离 Juventus 加盟，两年合同
+14,Bremer,DF (CB),Juventus,wiki_player_page,曾因 ACL + 半月板缺席，2025/12/14 复出
+15,Léo Pereira,DF (CB),Flamengo,wiki_player_page,2026/05/18 首入 26 人
+16,Douglas Santos,DF (LB),Zenit Saint Petersburg,wiki_player_page,2025/08/31 FIFA 批准换回巴西籍
+17,Fabinho,MF (DM),Al-Ittihad,wiki_player_page,沙特队队长 #8
+18,Danilo Santos,MF,⚠️ unverified,wiki_navbox_only,个人页 URL 失败，待补
+19,Endrick,FW (CF),Lyon (loan from Real Madrid),wiki_player_page,2025/12/23 半年租约 €1M + 半薪
+20,Paquetá,MF (AM),Flamengo,wiki_player_page,2026/01/28 自 West Ham £35.5M = 南美引援纪录
+21,Luiz Henrique,FW (RW),Zenit Saint Petersburg,wiki_player_page,2025/01/20 自 Botafogo 换购
+22,Martinelli,FW (LW),Arsenal,wiki_player_page,合同至 2027
+23,Ederson,GK,Fenerbahçe,wiki_player_page,2025/09/02 自 Manchester City 三年 + 一年期权
+24,Ibañez,DF (CB),Al-Ahli (Saudi),wiki_player_page,2023/08 自 Roma €30M
+25,Igor Thiago,FW (ST),Brentford,wiki_player_page,2025-26 PL 22 球仅次哈兰
+26,Rayan,FW (RW),Bournemouth,wiki_player_page,2026/01/27 自 Vasco £24.7M
+
+# 数据来源：Wikipedia Template:Brazil squad 2026 FIFA World Cup（球员名 + 号码）+ 每名球员个人页（俱乐部 + 位置 + 关键转会）。
+# 主教练：Carlo Ancelotti；名单公布日期：2026/05/18。
+# 重要落选：Rodrygo（2026/03/02 ACL/半月板手术）、Estêvão（2026/04/18 腘绳肌、确定缺席）、Éder Militão、Vanderson、André、Andreas Pereira 均未入选 26 人。
+# 抓取日期：2026/06/04

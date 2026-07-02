@@ -1,0 +1,127 @@
+{
+  "matchId": 12,
+  "fifaMatchId": "400021448",
+  "fetchTime": "2026-06-25 16:20:22",
+  "home": "Bosnia and Herzegovina",
+  "away": "Qatar",
+  "score": "3-1",
+  "date": "2026-06-24",
+  "venue": "Seattle Stadium",
+  "attendance": "66925",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        9,
+        5
+      ],
+      "away": [
+        4,
+        5
+      ]
+    },
+    "corners": {
+      "home": 5,
+      "away": 5
+    },
+    "fouls": {
+      "home": 9,
+      "away": 13
+    },
+    "offsides": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "goals": [
+    {
+      "minute": "29'",
+      "side": "home",
+      "desc": "Kerim ALAJBEGOVIC (Bosnia and Herzegovina) scores!!"
+    },
+    {
+      "minute": "34'",
+      "side": "away",
+      "desc": "MAHMOUD ABUNADA (Qatar) scores an own goal."
+    },
+    {
+      "minute": "42'",
+      "side": "away",
+      "desc": "HASSAN ALHAYDOS (Qatar) scores!!"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Ermin MAHMIC (Bosnia and Herzegovina) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Amar MEMIC (in) comes off the bench to replace Arjan MALIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Benjamin TAHIROVIC (in) comes off the bench to replace Ivan SUNJIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins ABDULAZIZ HATEM (in) comes off the bench to replace JASSEM GABER (out) (Qatar)"
+    },
+    {
+      "minute": "55'",
+      "side": "away",
+      "desc": "AHMED ALGANEHI (in) comes off the bench to replace HASSAN ALHAYDOS (out) (Qatar)"
+    },
+    {
+      "minute": "63'",
+      "side": "home",
+      "desc": "Dennis HADZIKADUNIC (in) comes off the bench to replace Nikola KATIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "63'",
+      "side": "home",
+      "desc": "Ermin MAHMIC (in) comes off the bench to replace Edin DZEKO (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "ALMOEZ ALI (in) comes off the bench to replace KARIM BOUDIAF (out) (Qatar)"
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "desc": "MOHAMED MANAI (in) comes off the bench to replace AHMED FATHY (out) (Qatar)"
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "desc": "AHMED ALAAELDIN (in) comes off the bench to replace EDMILSON JUNIOR (out) (Qatar)"
+    },
+    {
+      "minute": "82'",
+      "side": "home",
+      "desc": "Dzenis BURNIC (in) comes off the bench to replace Kerim ALAJBEGOVIC (out) (Bosnia and Herzegovina)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "78'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "AHMED FATHY (Qatar) is booked by the referee."
+    },
+    {
+      "minute": "82'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Ermin MAHMIC (Bosnia and Herzegovina) is booked by the referee."
+    }
+  ]
+}

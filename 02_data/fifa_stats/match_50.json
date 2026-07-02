@@ -1,0 +1,454 @@
+{
+  "matchId": 50,
+  "fifaMatchId": "400021488",
+  "fetchTime": "2026-06-22 19:32:34",
+  "home": "Iraq",
+  "away": "Norway",
+  "score": "1-4",
+  "date": "2026-06-16",
+  "venue": "Boston Stadium",
+  "attendance": "63106",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        9,
+        2
+      ],
+      "away": [
+        6,
+        5
+      ]
+    },
+    "corners": {
+      "home": 2,
+      "away": 5
+    },
+    "fouls": {
+      "home": 11,
+      "away": 13
+    },
+    "offsides": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "29'",
+      "side": "away",
+      "desc": "Erling HAALAND (Norway) scores!!"
+    },
+    {
+      "minute": "39'",
+      "side": "home",
+      "desc": "AYMEN HUSSEIN (Iraq) scores!!"
+    },
+    {
+      "minute": "43'",
+      "side": "away",
+      "desc": "Erling HAALAND (Norway) scores!!"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "Leo OSTIGARD (Norway) scores!!"
+    },
+    {
+      "minute": "90'+6'",
+      "side": "home",
+      "desc": "AYMEN HUSSEIN (Iraq) scores an own goal."
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "59'",
+      "side": "home",
+      "desc": "MARKO FARJI (in) comes off the bench to replace ALI ALHAMADI (out) (Iraq)"
+    },
+    {
+      "minute": "59'",
+      "side": "home",
+      "desc": "ZIDANE IQBAL (in) comes off the bench to replace ZAID ISMAEL (out) (Iraq)"
+    },
+    {
+      "minute": "73'",
+      "side": "away",
+      "desc": "Leo OSTIGARD (in) comes off the bench to replace David MOLLER WOLFE (out) (Norway)"
+    },
+    {
+      "minute": "73'",
+      "side": "away",
+      "desc": "Kristian THORSTVEDT (in) comes off the bench to replace Fredrik AURSNES (out) (Norway)"
+    },
+    {
+      "minute": "73'",
+      "side": "away",
+      "desc": "Andreas SCHJELDERUP (in) comes off the bench to replace Antonio NUSA (out) (Norway)"
+    },
+    {
+      "minute": "73'",
+      "side": "away",
+      "desc": "Oscar BOBB (in) comes off the bench to replace Alexander SORLOTH (out) (Norway)"
+    },
+    {
+      "minute": "73'",
+      "side": "home",
+      "desc": "MUSTAFA SAADOON (in) comes off the bench to replace HUSSEIN ALI (out) (Iraq)"
+    },
+    {
+      "minute": "73'",
+      "side": "home",
+      "desc": "AHMED QASEM (in) comes off the bench to replace ALI JASIM (out) (Iraq)"
+    },
+    {
+      "minute": "78'",
+      "side": "home",
+      "desc": "MOHANAD ALI (in) comes off the bench to replace IBRAHIM BAYESH (out) (Iraq)"
+    },
+    {
+      "minute": "81'",
+      "side": "away",
+      "desc": "Patrick BERG (in) comes off the bench to replace Martin ODEGAARD (out) (Norway)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "86'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "ZAID TAHSEEN (Iraq) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "4-4-2",
+      "starters": [
+        {
+          "name": "JALAL HASSAN",
+          "number": 12,
+          "position": "GK",
+          "captain": true
+        },
+        {
+          "name": "HUSSEIN ALI",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "ZAID TAHSEEN",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "AKAM HASHIM",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MERCHAS DOSKI",
+          "number": 23,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "IBRAHIM BAYESH",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "AMIR ALAMMARI",
+          "number": 16,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "ZAID ISMAEL",
+          "number": 24,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "ALI ALHAMADI",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "ALI JASIM",
+          "number": 17,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "AYMEN HUSSEIN",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "FAHAD TALIB",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "REBIN SULAKA",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MUNAF YOUNUS",
+          "number": 6,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "YOUSSEF AMYN",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "MOHANAD ALI",
+          "number": 10,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "AHMED QASEM",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "ALI YOUSIF",
+          "number": 13,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "ZIDANE IQBAL",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "AHMED MAKNAZI",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "KEVIN YAKOB",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "AIMAR SHER",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "MARKO FARJI",
+          "number": 21,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "AHMED BASIL",
+          "number": 22,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "MUSTAFA SAADOON",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "FRANS PUTROS",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-1-2-3",
+      "starters": [
+        {
+          "name": "Orjan NYLAND",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Kristoffer AJER",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "David MOLLER WOLFE",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Torbjorn HEGGEM",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Sander BERGE",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Martin ODEGAARD",
+          "number": 10,
+          "position": "MF",
+          "captain": true
+        },
+        {
+          "name": "Fredrik AURSNES",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Alexander SORLOTH",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Erling HAALAND",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Antonio NUSA",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Julian RYERSON",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Morten THORSBY",
+          "number": 2,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Leo OSTIGARD",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Patrick BERG",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jorgen STRAND LARSEN",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Sander TANGVIK",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Egil SELVIK",
+          "number": 13,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Fredrik Andre BJORKAN",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Marcus HOLMGREN PEDERSEN",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Kristian THORSTVEDT",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Thelo AASGAARD",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Andreas SCHJELDERUP",
+          "number": 21,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Oscar BOBB",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jens Petter HAUGE",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Sondre LANGAS",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Henrik FALCHENER",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "matchId": 31,
+  "fifaMatchId": "400021470",
+  "fetchTime": "2026-06-25 20:06:42",
+  "home": "Netherlands",
+  "away": "Japan",
+  "score": "2-2",
+  "date": "2026-06-14",
+  "venue": "Dallas Stadium",
+  "attendance": "69285",
+  "tactics": {
+    "home": "4-1-2-3",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        6
+      ],
+      "away": [
+        3,
+        6
+      ]
+    },
+    "corners": {
+      "home": 5,
+      "away": 4
+    },
+    "fouls": {
+      "home": 4,
+      "away": 7
+    },
+    "offsides": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "50'",
+      "side": "home",
+      "desc": "Virgil VAN DIJK (Netherlands) scores!!"
+    },
+    {
+      "minute": "57'",
+      "side": "away",
+      "desc": "Keito NAKAMURA (Japan) scores!!"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Crysencio SUMMERVILLE (Netherlands) scores!!"
+    },
+    {
+      "minute": "88'",
+      "side": "away",
+      "desc": "Daichi KAMADA (Japan) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "Junya ITO (in) comes off the bench to replace Daizen MAEDA (out) (Japan)"
+    },
+    {
+      "minute": "70'",
+      "side": "home",
+      "desc": "Memphis DEPAY (in) comes off the bench to replace Donyell MALEN (out) (Netherlands)"
+    },
+    {
+      "minute": "70'",
+      "side": "home",
+      "desc": "Quinten TIMBER (in) comes off the bench to replace Tijjani REIJNDERS (out) (Netherlands)"
+    },
+    {
+      "minute": "70'",
+      "side": "home",
+      "desc": "Teun KOOPMEINERS (in) comes off the bench to replace Crysencio SUMMERVILLE (out) (Netherlands)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Takehiro TOMIYASU (in) comes off the bench to replace Tsuyoshi WATANABE (out) (Japan)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Koki OGAWA (in) comes off the bench to replace Takefusa KUBO (out) (Japan)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Yukinari SUGAWARA (in) comes off the bench to replace Ritsu DOAN (out) (Japan)"
+    },
+    {
+      "minute": "81'",
+      "side": "home",
+      "desc": "Nathan AKE (in) comes off the bench to replace Ryan GRAVENBERCH (out) (Netherlands)"
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "desc": "Kento SHIOGAI (in) comes off the bench to replace Ayase UEDA (out) (Japan)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Brian BROBBEY (in) comes off the bench to replace Cody GAKPO (out) (Netherlands)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "61'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Crysencio SUMMERVILLE (Netherlands) is booked by the referee."
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Memphis DEPAY (Netherlands) is booked by the referee."
+    },
+    {
+      "minute": "90'+1'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Micky VAN DE VEN (Netherlands) is booked by the referee."
+    }
+  ]
+}

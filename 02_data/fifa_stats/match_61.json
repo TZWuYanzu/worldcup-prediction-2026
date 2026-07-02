@@ -1,0 +1,452 @@
+{
+  "matchId": 61,
+  "fifaMatchId": "400021502",
+  "fetchTime": "2026-06-23 17:51:03",
+  "home": "Portugal",
+  "away": "DR Congo",
+  "score": "1-1",
+  "date": "2026-06-17",
+  "venue": "Houston Stadium",
+  "attendance": "68777",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "5-3-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        2,
+        5
+      ],
+      "away": [
+        6,
+        2
+      ]
+    },
+    "corners": {
+      "home": 5,
+      "away": 4
+    },
+    "fouls": {
+      "home": 6,
+      "away": 9
+    },
+    "offsides": {
+      "home": 3,
+      "away": 2
+    }
+  },
+  "goals": [
+    {
+      "minute": "6'",
+      "side": "home",
+      "desc": "JOAO NEVES (Portugal) scores!!"
+    },
+    {
+      "minute": "45'+5'",
+      "side": "away",
+      "desc": "Yoane WISSA (Congo DR) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins FRANCISCO CONCEICAO (in) comes off the bench to replace BERNARDO SILVA (out) (Portugal)"
+    },
+    {
+      "minute": "57'",
+      "side": "away",
+      "desc": "Noah SADIKI (in) comes off the bench to replace Ngalayel MUKAU (out) (Congo DR)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "RAFAEL LEAO (in) comes off the bench to replace PEDRO NETO (out) (Portugal)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "NELSON SEMEDO (in) comes off the bench to replace NUNO MENDES (out) (Portugal)"
+    },
+    {
+      "minute": "74'",
+      "side": "away",
+      "desc": "Charles PICKEL (in) comes off the bench to replace Edo KAYEMBE (out) (Congo DR)"
+    },
+    {
+      "minute": "74'",
+      "side": "away",
+      "desc": "Joris KAYEMBE (in) comes off the bench to replace Arthur MASUAKU (out) (Congo DR)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "GONCALO RAMOS (in) comes off the bench to replace VITINHA (out) (Portugal)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Gedeon KALULU (in) comes off the bench to replace Aaron WAN-BISSAKA (out) (Congo DR)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Simon BANZA (in) comes off the bench to replace Cedric BAKAMBU (out) (Congo DR)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "13'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "BERNARDO SILVA (Portugal) is booked by the referee."
+    },
+    {
+      "minute": "32'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Chancel MBEMBA (Congo DR) is booked by the referee."
+    },
+    {
+      "minute": "88'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "NELSON SEMEDO (Portugal) is booked by the referee."
+    },
+    {
+      "minute": "90'+2'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "TOMAS ARAUJO (Portugal) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "4-2-3-1",
+      "starters": [
+        {
+          "name": "DIOGO COSTA",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "TOMAS ARAUJO",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "RENATO VEIGA",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "JOAO CANCELO",
+          "number": 20,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "NUNO MENDES",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "BRUNO FERNANDES",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "BERNARDO SILVA",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "JOAO NEVES",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "VITINHA",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "CRISTIANO RONALDO",
+          "number": 7,
+          "position": "FW",
+          "captain": true
+        },
+        {
+          "name": "PEDRO NETO",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "NELSON SEMEDO",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "RUBEN DIAS",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "DIOGO DALOT",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MATHEUS NUNES",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "GONCALO RAMOS",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "JOAO FELIX",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "JOSE SA",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "GONCALO INACIO",
+          "number": 14,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "FRANCISCO TRINCAO",
+          "number": 16,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "RAFAEL LEAO",
+          "number": 17,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "GONCALO GUEDES",
+          "number": 19,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "RUBEN NEVES",
+          "number": 21,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "RUI SILVA",
+          "number": 22,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "SAMU COSTA",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "FRANCISCO CONCEICAO",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "5-3-2",
+      "starters": [
+        {
+          "name": "Lionel MPASI",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Aaron WAN-BISSAKA",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Steve KAPUADI",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Axel TUANZEBE",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Chancel MBEMBA",
+          "number": 22,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "Arthur MASUAKU",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Ngalayel MUKAU",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Samuel MOUTOUSSAMY",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Edo KAYEMBE",
+          "number": 25,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Cedric BAKAMBU",
+          "number": 17,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Yoane WISSA",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Dylan BATUBINSIKA",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Nathanael MBUKU",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Brian CIPENGA",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Theo BONGONDA",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Gael KAKUTA",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Joris KAYEMBE",
+          "number": 12,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Meschack ELIA",
+          "number": 13,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Noah SADIKI",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Aaron TSHIBOLA",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Timothy FAYULU",
+          "number": 16,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Charles PICKEL",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Fiston MAYELE",
+          "number": 19,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Matthieu EPOLO",
+          "number": 21,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Simon BANZA",
+          "number": 23,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Gedeon KALULU",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

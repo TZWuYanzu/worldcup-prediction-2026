@@ -1,0 +1,107 @@
+{
+  "matchId": 70,
+  "fifaMatchId": "400021511",
+  "fetchTime": "2026-06-24 16:00:52",
+  "home": "Panama",
+  "away": "Croatia",
+  "score": "0-1",
+  "date": "2026-06-23",
+  "venue": "Toronto Stadium",
+  "attendance": "43036",
+  "tactics": {
+    "home": "3-4-3",
+    "away": "4-2-3-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        1,
+        7
+      ],
+      "away": [
+        2,
+        4
+      ]
+    },
+    "corners": {
+      "home": 7,
+      "away": 2
+    },
+    "fouls": {
+      "home": 18,
+      "away": 11
+    },
+    "offsides": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  "goals": [
+    {
+      "minute": "54'",
+      "side": "away",
+      "desc": "Ante BUDIMIR (Croatia) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Ante BUDIMIR (in) comes off the bench to replace Petar MUSA (out) (Croatia)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Andrej KRAMARIC (in) comes off the bench to replace Josko GVARDIOL (out) (Croatia)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Petar SUCIC (in) comes off the bench to replace Mateo KOVACIC (out) (Croatia)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Luka SUCIC (in) comes off the bench to replace Marco PASALIC (out) (Croatia)"
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "desc": "Cecilio WATERMAN (in) comes off the bench to replace Jiovany RAMOS (out) (Panama)"
+    },
+    {
+      "minute": "81'",
+      "side": "away",
+      "desc": "Mario PASALIC (in) comes off the bench to replace Luka MODRIC (out) (Croatia)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Azarias LONDONO (in) comes off the bench to replace Jose FAJARDO (out) (Panama)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Eric DAVIS (in) comes off the bench to replace Cesar BLACKMAN (out) (Panama)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Tomas RODRIGUEZ (in) comes off the bench to replace Edgar Yoel BARCENAS (out) (Panama)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "61'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Edgar Yoel BARCENAS (Panama) is booked by the referee."
+    },
+    {
+      "minute": "90'+2'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Petar SUCIC (Croatia) is booked by the referee."
+    }
+  ]
+}

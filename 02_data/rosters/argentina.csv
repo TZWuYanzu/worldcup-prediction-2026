@@ -1,0 +1,45 @@
+number,player,position,club,verified_via,note
+1,Musso,GK,Atlético Madrid,wiki_main,Juan Musso
+2,Balerdi,DF,Marseille,wiki_balerdi_page,Leonardo Balerdi 中卫 马赛队长 续约至2028
+3,Tagliafico,DF,Lyon,wiki_tagliafico_page,Nicolás Tagliafico 左后卫 自2022年起在里昂
+4,Montiel,DF,River Plate,wiki_montiel_page,Gonzalo Montiel 右后卫 2025/01自塞维利亚回归河床 $4.5M 合同至2028/12
+5,Paredes,MF,Boca Juniors,wiki_paredes_page,Leandro Paredes 后腰 2025/07/11自罗马回归博卡 穿5号
+6,Li. Martínez,DF,Manchester United,wiki_li_martinez_page,Lisandro Martínez 中卫 2025年ACL伤退24-25赛季余下场次
+7,De Paul,MF,Inter Miami,wiki_de_paul_page,租自马竞 2025/07/25 含 €15M 强制买断 永久转会2026生效
+8,Barco,DF,Strasbourg,wiki_barco_page,Valentín Barco 左后卫 2025/02/02自布莱顿租至斯特拉斯堡 2025/07/02永久转会£7.87M
+9,Alvarez,FW,Atlético Madrid,wiki_alvarez_page,Julián Álvarez 2024年6年€95M加盟 穿19号
+10,Messi (c),FW,Inter Miami,wiki_messi_page,Captain 2025/10/23续约至2028
+11,Lo Celso,MF,Real Betis,wiki_lo_celso_page,Giovani Lo Celso 攻击型中场 2024/08/30自热刺重返贝蒂斯 4年合同
+12,Rulli,GK,Marseille,wiki_main,Gerónimo Rulli
+13,Romero,DF,Tottenham,wiki_romero_page,Cristian Cuti Romero 中卫 热刺队长 24-25赛季夺欧联+MOTM 2025/08/18续约至2029
+14,Palacios,MF,Bayer Leverkusen,wiki_palacios_page,Exequiel Palacios 自2020起在勒沃库森
+15,González,FW,Atlético Madrid (loan),wiki_gonzalez_page,Nicolás González 边锋 2025夏自佛罗伦萨永久转尤文€28.1M 2025/09/01租至马竞含€35M强制买断
+16,Almada,MF/FW,Atlético Madrid,wiki_almada_page,Thiago Almada 2025/07/15自博塔弗戈加盟 此前1-6月租至里昂 穿11号
+17,Simeone,MF,Atlético Madrid,wiki_simeone_page,Giuliano Simeone 边锋 迭戈之子 2026/01/15续约至2030
+18,Paz,MF,Como,wiki_paz_page,Nico Paz 攻击中场 25-26穿10号 2025/08热刺€50M报价被拒
+19,Otamendi,DF,Benfica,wiki_otamendi_page,Nicolás Otamendi 中卫 本菲卡队长 2026/05/29签约河床1年合约2026/07生效
+20,Mac Allister,MF,Liverpool,wiki_mac_allister_page,Alexis Mac Allister 中场 自2023起在利物浦
+21,López,FW,Palmeiras,wiki_jm_lopez_page,José Manuel Flaco López 中锋 自2022起在帕尔梅拉斯
+22,La. Martínez,FW,Inter Milan,wiki_la_martinez_page,Lautaro Martínez 中锋 国米队长 自2018年起
+23,E. Martínez,GK,Aston Villa,wiki_e_martinez_page,Emiliano Dibu Martínez 2025夏求离队未果 合同至2029
+24,Fernández,MF,Chelsea,wiki_e_fernandez_page,Enzo Fernández 8号 自2023起在切尔西 2025夺欧协联+世俱杯 合同至2031
+25,Medina,DF,Marseille (loan),wiki_f_medina_page,Facundo Medina 中卫/左后卫 25-26赛季自朗斯租借至马赛
+26,Molina,DF,Atlético Madrid,wiki_molina_page,Nahuel Molina 右后卫 自2022起在马竞 穿16号
+
+# 数据来源：Wikipedia Rodrigo_De_Paul 个人页的 "Argentina squad – 2026 FIFA World Cup" template（含完整 26 人编号+姓名）。
+# 首批 3 人（De Paul/Musso/Rulli）的俱乐部信息于 06/03 经 Wikipedia 直接核对。
+# 余下 23 人于 06/04 全部经 Wikipedia 个人页 WebFetch 核实，无遗留 ⚠️。
+# 抓取/核实日期：2026/06/04
+#
+# === 核实过程的关键发现（与原始训练记忆推测的冲突） ===
+# #3  Tagliafico → Lyon（自 2022 起；非其他队）
+# #4  Montiel → River Plate（2025/01 自塞维利亚转会 $4.5M，非 Sevilla）
+# #5  Paredes → Boca Juniors（2025/07/11 自罗马回归，非 Roma）
+# #8  Barco → Strasbourg（2025/07/02 自布莱顿永久转会 £7.87M，非 Brighton）
+# #11 Lo Celso → Real Betis（2024/08 自热刺，非 Tottenham）
+# #14 Palacios → Bayer Leverkusen（确认为 Exequiel）
+# #15 N. González → Atlético Madrid（租借自尤文）；夏季尤文已自佛罗伦萨永久买断
+# #16 Almada → Atlético Madrid（2025/07/15 自博塔弗戈，非 Botafogo/Lyon）
+# #19 Otamendi → Benfica（2026/05/29 已签约河床 2026/07 生效）
+# #21 López = José Manuel "Flaco" López（Palmeiras 中锋），非其他候选
+# #25 Medina = Facundo Medina（Marseille 租借自 Lens），非 Cristian Medina

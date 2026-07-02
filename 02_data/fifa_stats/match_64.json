@@ -1,0 +1,108 @@
+{
+  "matchId": 64,
+  "fifaMatchId": "400021501",
+  "fetchTime": "2026-06-24 16:00:32",
+  "home": "Colombia",
+  "away": "DR Congo",
+  "score": "1-0",
+  "date": "2026-06-24",
+  "venue": "Guadalajara Stadium",
+  "attendance": "45358",
+  "tactics": {
+    "home": "4-1-2-3",
+    "away": "5-3-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        14,
+        6
+      ],
+      "away": [
+        2,
+        5
+      ]
+    },
+    "corners": {
+      "home": 5,
+      "away": 4
+    },
+    "fouls": {
+      "home": 10,
+      "away": 15
+    },
+    "offsides": {
+      "home": 7,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "76'",
+      "side": "home",
+      "desc": "Daniel MUNOZ (Colombia) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Noah SADIKI (in) comes off the bench to replace Ngalayel MUKAU (out) (Congo DR)"
+    },
+    {
+      "minute": "57'",
+      "side": "away",
+      "desc": "Simon BANZA (in) comes off the bench to replace Cedric BAKAMBU (out) (Congo DR)"
+    },
+    {
+      "minute": "58'",
+      "side": "home",
+      "desc": "Juan QUINTERO (in) comes off the bench to replace James RODRIGUEZ (out) (Colombia)"
+    },
+    {
+      "minute": "58'",
+      "side": "home",
+      "desc": "Jhon CORDOBA (in) comes off the bench to replace Luis SUAREZ (out) (Colombia)"
+    },
+    {
+      "minute": "71'",
+      "side": "away",
+      "desc": "Joris KAYEMBE (in) comes off the bench to replace Arthur MASUAKU (out) (Congo DR)"
+    },
+    {
+      "minute": "71'",
+      "side": "away",
+      "desc": "Charles PICKEL (in) comes off the bench to replace Edo KAYEMBE (out) (Congo DR)"
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "desc": "Richard RIOS (in) comes off the bench to replace Jhon ARIAS (out) (Colombia)"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "Nathanael MBUKU (in) comes off the bench to replace Samuel MOUTOUSSAMY (out) (Congo DR)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "56'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Jhon LUCUMI (Colombia) is booked by the referee."
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Charles PICKEL (Congo DR) is booked by the referee."
+    },
+    {
+      "minute": "90'+4'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Jefferson LERMA (Colombia) is booked by the referee."
+    }
+  ]
+}

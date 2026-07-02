@@ -1,0 +1,143 @@
+{
+  "matchId": 33,
+  "fifaMatchId": "400021472",
+  "fetchTime": "2026-06-25 20:06:51",
+  "home": "Netherlands",
+  "away": "Sweden",
+  "score": "5-1",
+  "date": "2026-06-20",
+  "venue": "Houston Stadium",
+  "attendance": "68777",
+  "tactics": {
+    "home": "4-3-3",
+    "away": "3-5-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        5,
+        5
+      ],
+      "away": [
+        9,
+        7
+      ]
+    },
+    "corners": {
+      "home": 2,
+      "away": 5
+    },
+    "fouls": {
+      "home": 9,
+      "away": 9
+    },
+    "offsides": {
+      "home": 3,
+      "away": 3
+    }
+  },
+  "goals": [
+    {
+      "minute": "5'",
+      "side": "home",
+      "desc": "Brian BROBBEY (Netherlands) scores!!"
+    },
+    {
+      "minute": "17'",
+      "side": "home",
+      "desc": "Brian BROBBEY (Netherlands) scores!!"
+    },
+    {
+      "minute": "47'",
+      "side": "home",
+      "desc": "Cody GAKPO (Netherlands) scores!!"
+    },
+    {
+      "minute": "54'",
+      "side": "home",
+      "desc": "Cody GAKPO (Netherlands) scores!!"
+    },
+    {
+      "minute": "59'",
+      "side": "away",
+      "desc": "Anthony ELANGA (Sweden) scores!!"
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "desc": "Crysencio SUMMERVILLE (Netherlands) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Crysencio SUMMERVILLE (in) comes off the bench to replace Donyell MALEN (out) (Netherlands)"
+    },
+    {
+      "minute": "55'",
+      "side": "away",
+      "desc": "Anthony ELANGA (in) comes off the bench to replace Alexander BERNHARDSSON (out) (Sweden)"
+    },
+    {
+      "minute": "55'",
+      "side": "away",
+      "desc": "Besfort ZENELI (in) comes off the bench to replace Jesper KARLSTROM (out) (Sweden)"
+    },
+    {
+      "minute": "55'",
+      "side": "away",
+      "desc": "Lucas BERGVALL (in) comes off the bench to replace Benjamin NYGREN (out) (Sweden)"
+    },
+    {
+      "minute": "59'",
+      "side": "home",
+      "desc": "Teun KOOPMEINERS (in) comes off the bench to replace Frenkie DE JONG (out) (Netherlands)"
+    },
+    {
+      "minute": "59'",
+      "side": "home",
+      "desc": "Guus TIL (in) comes off the bench to replace Tijjani REIJNDERS (out) (Netherlands)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Memphis DEPAY (in) comes off the bench to replace Brian BROBBEY (out) (Netherlands)"
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "desc": "Taha ALI (in) comes off the bench to replace Yasin AYARI (out) (Sweden)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Noa LANG (in) comes off the bench to replace Cody GAKPO (out) (Netherlands)"
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "desc": "Elliot STROUD (in) comes off the bench to replace Gabriel GUDMUNDSSON (out) (Sweden)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "53'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Gabriel GUDMUNDSSON (Sweden) is booked by the referee."
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Yasin AYARI (Sweden) is booked by the referee."
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Lucas BERGVALL (Sweden) is booked by the referee."
+    }
+  ]
+}

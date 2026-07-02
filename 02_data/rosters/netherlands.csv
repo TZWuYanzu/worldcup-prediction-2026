@@ -1,0 +1,36 @@
+number,player,position,club,verified_via,note
+1,Bart Verbruggen,GK,Brighton & Hove Albion,wiki_player_page,2023/07/03 自安德莱赫特五年合同
+2,Jurriën Timber,DF (RB/CB),Arsenal,wiki_player_page,孪生兄弟在马赛
+3,Marten de Roon,MF (DM),Atalanta,wiki_player_page,2026/03/22 第 436 场刷新俱乐部出场纪录
+4,Virgil van Dijk (c),DF (CB),Liverpool,wiki_player_page,2025/04/17 续约两年；2025/11/17 队长出场 72 次刷新德波尔纪录
+5,Nathan Aké,DF (CB/LB),Manchester City,wiki_player_page,合同至 2027；2025-26 PL 18 场
+6,Jan Paul van Hecke,DF (CB),Brighton & Hove Albion,wiki_player_page,合同至 2027
+7,Justin Kluivert,MF (AM/W),Bournemouth,wiki_player_page,2026/01 膝部手术后复出
+8,Ryan Gravenberch,MF (DM/CM),Liverpool,wiki_player_page,2026/03/07 六年续约至 2032
+9,Wout Weghorst,FW (ST),Ajax,wiki_player_page,2024/08/29 加盟 Ajax 两年
+10,Memphis Depay,FW,Corinthians,wiki_player_page,国家队 55 球史上射手王；2024/09/09 加盟 Corinthians 两年
+11,Cody Gakpo,FW (LW/CF),Liverpool,wiki_player_page,2025/08/30 续约
+12,Mats Wieffer,MF/DF (DM/RB),Brighton & Hove Albion,wiki_player_page,2024-25 后期改踢右后卫
+13,Robin Roefs,GK,Sunderland,wiki_player_page,2025/08/01 五年合同
+14,Tijjani Reijnders,MF (CM),Manchester City,wiki_player_page,2025/06/11 自 AC Milan £46.5M 五年合同
+15,Micky van de Ven,DF (CB/LB),Tottenham Hotspur,wiki_player_page,2024-25 欧联冠军；2025/09/30 首次担任热刺队长
+16,Guus Til,MF (AM),PSV Eindhoven,wiki_player_page,2025/11 月最佳球员
+17,Noa Lang,FW (LW),Galatasaray (loan from Napoli),wiki_player_page,2025/07/17 自 PSV 加盟那不勒斯 €25M；2026/01/23 租加拉
+18,Donyell Malen,FW (W/ST),Roma,wiki_player_page,2025/01/13 自多特至 Aston Villa £21M+；2026/01 租 Roma，2026/05 永久 ≈€25M
+19,Brian Brobbey,FW (ST),Sunderland,wiki_player_page,2025/09/01 自 Ajax €20M（最高至 €25M）
+20,Teun Koopmeiners,MF (CM),Juventus,wiki_player_page,2024/08/28 自亚特兰大 €51.3M
+21,Frenkie de Jong,MF (CM),Barcelona,wiki_player_page,2025/10/15 续约至 2029；2026/04/22 第 293 场刷新荷兰球员巴萨出场纪录
+22,Denzel Dumfries,DF (RB),Inter Milan,wiki_player_page,2025/12 换经纪人为 Ali Barat，转会传闻
+23,Mark Flekken,GK,Bayer Leverkusen,wiki_player_page,2025/06/03 自 Brentford ≈€10M 三年
+24,Crysencio Summerville,FW (W),West Ham United,wiki_player_page,2024/08/03 自利兹 £25M+；2025/08/31 伤愈复出
+25,Jorrel Hato,DF (CB/LB),Chelsea,wiki_player_page,2025/08/03 自 Ajax £35.5M 七年合同
+26,Quinten Timber,MF,Marseille,wiki_player_page,2026/01/23 自费耶诺德 ≈€4.5M
+
+# 数据来源：Wikipedia Template:Netherlands squad 2026 FIFA World Cup（球员名 + 号码）+ 每名球员个人页（俱乐部 + 位置 + 关键转会）。
+# 主教练：Ronald Koeman；队长：Virgil van Dijk。
+# 重要落选 / 伤情：
+#   Matthijs de Ligt (Manchester United CB) — 2026/05 背部手术，缺席世界杯
+#   Xavi Simons (Tottenham AM) — 2026/04/25 ACL 撕裂，缺席世界杯
+#   Joshua Zirkzee (Manchester United FW) — 未入选 26 人
+#   Stefan de Vrij (Inter CB)、Joey Veerman (PSV)、Daley Blind (Girona; 2024/08 退出国家队) — 均未入选
+# 抓取日期：2026/06/04

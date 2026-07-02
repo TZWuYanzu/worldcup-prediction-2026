@@ -1,0 +1,438 @@
+{
+  "matchId": 38,
+  "fifaMatchId": "400021476",
+  "fetchTime": "2026-06-22 11:24:28",
+  "home": "Iran",
+  "away": "New Zealand",
+  "score": "2-2",
+  "date": "2026-06-16",
+  "venue": "Los Angeles Stadium",
+  "attendance": "70108",
+  "tactics": {
+    "home": "4-3-3",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        7,
+        10
+      ],
+      "away": [
+        9,
+        5
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 1
+    },
+    "fouls": {
+      "home": 8,
+      "away": 8
+    },
+    "offsides": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "7'",
+      "side": "away",
+      "desc": "Elijah JUST (New Zealand) scores!!"
+    },
+    {
+      "minute": "32'",
+      "side": "home",
+      "desc": "Ramin REZAEIAN (IR Iran) scores!!"
+    },
+    {
+      "minute": "54'",
+      "side": "away",
+      "desc": "Elijah JUST (New Zealand) scores!!"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Mohammad MOHEBBI (IR Iran) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Mehdi GHAYEDI (in) comes off the bench to replace Arya YOUSEFI (out) (IR Iran)"
+    },
+    {
+      "minute": "53'",
+      "side": "home",
+      "desc": "Ali ALIPOUR (in) comes off the bench to replace Shahriyar MOGHANLOO (out) (IR Iran)"
+    },
+    {
+      "minute": "65'",
+      "side": "home",
+      "desc": "Ehsan HAJISAFI (in) comes off the bench to replace Saman GHODDOS (out) (IR Iran)"
+    },
+    {
+      "minute": "68'",
+      "side": "away",
+      "desc": "Ryan THOMAS (in) comes off the bench to replace Callum McCOWATT (out) (New Zealand)"
+    },
+    {
+      "minute": "68'",
+      "side": "away",
+      "desc": "Ben OLD (in) comes off the bench to replace Liberato CACACE (out) (New Zealand)"
+    },
+    {
+      "minute": "77'",
+      "side": "away",
+      "desc": "Callan ELLIOT (in) comes off the bench to replace Tim PAYNE (out) (New Zealand)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Amirhossein HOSSEINZADEH (in) comes off the bench to replace Mehdi TAREMI (out) (IR Iran)"
+    },
+    {
+      "minute": "90'+2'",
+      "side": "away",
+      "desc": "Jesse RANDALL (in) comes off the bench to replace Sarpreet SINGH (out) (New Zealand)"
+    },
+    {
+      "minute": "90'+2'",
+      "side": "away",
+      "desc": "Tyler BINDON (in) comes off the bench to replace Marko STAMENIC (out) (New Zealand)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "89'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Ehsan HAJISAFI (IR Iran) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "4-3-3",
+      "starters": [
+        {
+          "name": "Alireza BEIRANVAND",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Shoja KHALILZADEH",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Milad MOHAMMADI",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Arya YOUSEFI",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Ali NEMATI",
+          "number": 19,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Ramin REZAEIAN",
+          "number": 23,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Saeid EZATOLAHI",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Mohammad MOHEBBI",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Saman GHODDOS",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Mehdi TAREMI",
+          "number": 9,
+          "position": "FW",
+          "captain": true
+        },
+        {
+          "name": "Shahriyar MOGHANLOO",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Saleh HARDANI",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Ehsan HAJISAFI",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Alireza JAHANBAKHSH",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Mehdi GHAYEDI",
+          "number": 10,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Ali ALIPOUR",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Payam NIAZMAND",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Hossein KANANI",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Roozbeh CHESHMI",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Mehdi TORABI",
+          "number": 16,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Amirhossein HOSSEINZADEH",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Mohammad GHORBANI",
+          "number": 21,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Hossein HOSSEINI",
+          "number": 22,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Dennis DARGAHI",
+          "number": 24,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Danial IRI",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Amirmohammad RAZAGHINIA",
+          "number": 26,
+          "position": "MF",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-4-2",
+      "starters": [
+        {
+          "name": "Max CROCOMBE",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Tim PAYNE",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Michael BOXALL",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Liberato CACACE",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Finn SURMAN",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Joe BELL",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Marko STAMENIC",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Sarpreet SINGH",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Elijah JUST",
+          "number": 11,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Callum McCOWATT",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Chris WOOD",
+          "number": 9,
+          "position": "FW",
+          "captain": true
+        }
+      ],
+      "bench": [
+        {
+          "name": "Francis DE VRIES",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Tyler BINDON",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Alex PAULSEN",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Alex RUFER",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nando PIJNAKER",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Kosta BARBAROUSES",
+          "number": 17,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Ben WAINE",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Ben OLD",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jesse RANDALL",
+          "number": 21,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Michael WOUD",
+          "number": 22,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Ryan THOMAS",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Callan ELLIOT",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Lachlan BAYLISS",
+          "number": 25,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Tommy SMITH",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

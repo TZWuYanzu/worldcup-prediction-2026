@@ -1,0 +1,114 @@
+{
+  "matchId": 36,
+  "fifaMatchId": "400021473",
+  "fetchTime": "2026-06-26 14:28:49",
+  "home": "Tunisia",
+  "away": "Netherlands",
+  "score": "1-3",
+  "date": "2026-06-25",
+  "venue": "Kansas City Stadium",
+  "attendance": "68391",
+  "tactics": {
+    "home": "5-4-1",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        6
+      ],
+      "away": [
+        12,
+        8
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 6
+    },
+    "fouls": {
+      "home": 11,
+      "away": 10
+    },
+    "offsides": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "3'",
+      "side": "home",
+      "desc": "Ellyes SKHIRI (Tunisia) scores an own goal."
+    },
+    {
+      "minute": "7'",
+      "side": "away",
+      "desc": "Brian BROBBEY (Netherlands) scores!!"
+    },
+    {
+      "minute": "54'",
+      "side": "home",
+      "desc": "Hazem MASTOURI (Tunisia) scores!!"
+    },
+    {
+      "minute": "62'",
+      "side": "away",
+      "desc": "Jan Paul VAN HECKE (Netherlands) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "67'",
+      "side": "home",
+      "desc": "Mohamed HADJ MAHMOUD (in) comes off the bench to replace Rani KHEDIRA (out) (Tunisia)"
+    },
+    {
+      "minute": "67'",
+      "side": "home",
+      "desc": "Elias ACHOURI (in) comes off the bench to replace Anis SLIMANE (out) (Tunisia)"
+    },
+    {
+      "minute": "67'",
+      "side": "home",
+      "desc": "Mortadha BEN OUANES (in) comes off the bench to replace Mohamed Amine BEN HMIDA (out) (Tunisia)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Teun KOOPMEINERS (in) comes off the bench to replace Frenkie DE JONG (out) (Netherlands)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Justin KLUIVERT (in) comes off the bench to replace Tijjani REIJNDERS (out) (Netherlands)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Crysencio SUMMERVILLE (in) comes off the bench to replace Donyell MALEN (out) (Netherlands)"
+    },
+    {
+      "minute": "75'",
+      "side": "home",
+      "desc": "Firas CHAOUAT (in) comes off the bench to replace Ismael GHARBI (out) (Tunisia)"
+    },
+    {
+      "minute": "77'",
+      "side": "away",
+      "desc": "Memphis DEPAY (in) comes off the bench to replace Brian BROBBEY (out) (Netherlands)"
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "desc": "Noa LANG (in) comes off the bench to replace Cody GAKPO (out) (Netherlands)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Sebastian TOUNEKTI (in) comes off the bench to replace Hazem MASTOURI (out) (Tunisia)"
+    }
+  ],
+  "bookings": []
+}

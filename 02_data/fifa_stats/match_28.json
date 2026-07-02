@@ -1,0 +1,125 @@
+{
+  "matchId": 28,
+  "fifaMatchId": "400021465",
+  "fetchTime": "2026-06-25 20:06:36",
+  "home": "Ecuador",
+  "away": "Curaçao",
+  "score": "0-0",
+  "date": "2026-06-21",
+  "venue": "Kansas City Stadium",
+  "attendance": "68598",
+  "tactics": {
+    "home": "3-5-2",
+    "away": "5-3-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        8,
+        19
+      ],
+      "away": [
+        5,
+        5
+      ]
+    },
+    "corners": {
+      "home": 9,
+      "away": 0
+    },
+    "fouls": {
+      "home": 6,
+      "away": 5
+    },
+    "offsides": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  "goals": [],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Kevin RODRIGUEZ (in) comes off the bench to replace Jordy ALCIVAR (out) (Ecuador)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Nilson ANGULO (in) comes off the bench to replace Pervis ESTUPINAN (out) (Ecuador)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Roshon VAN EIJMA (in) comes off the bench to replace Deveron FONVILLE (out) (Curaçao)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Jearl MARGARITHA (in) comes off the bench to replace Tahith CHONG (out) (Curaçao)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Kenji GORRE (in) comes off the bench to replace Juninho BACUNA (out) (Curaçao)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Angelo PRECIADO (in) comes off the bench to replace Alan FRANCO (out) (Ecuador)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Godfried ROEMERATOE (in) comes off the bench to replace Livano COMENENCIA (out) (Curaçao)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Gervane KASTANEER (in) comes off the bench to replace Juergen LOCADIA (out) (Curaçao)"
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "desc": "Jordy CAICEDO (in) comes off the bench to replace John YEBOAH (out) (Ecuador)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "38'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Jordy ALCIVAR (Ecuador) is booked by the referee."
+    },
+    {
+      "minute": "39'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Leandro BACUNA (Curaçao) is booked by the referee."
+    },
+    {
+      "minute": "53'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Juninho BACUNA (Curaçao) is booked by the referee."
+    },
+    {
+      "minute": "56'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Livano COMENENCIA (Curaçao) is booked by the referee."
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Jurien GAARI (Curaçao) is booked by the referee."
+    },
+    {
+      "minute": "90'+1'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Gervane KASTANEER (Curaçao) is booked by the referee."
+    }
+  ]
+}

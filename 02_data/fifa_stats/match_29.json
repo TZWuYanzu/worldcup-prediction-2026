@@ -1,0 +1,123 @@
+{
+  "matchId": 29,
+  "fifaMatchId": "400021468",
+  "fetchTime": "2026-06-26 14:28:30",
+  "home": "Curaçao",
+  "away": "Ivory Coast",
+  "score": "0-2",
+  "date": "2026-06-25",
+  "venue": "Philadelphia Stadium",
+  "attendance": "68324",
+  "tactics": {
+    "home": "5-4-1",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        5,
+        6
+      ],
+      "away": [
+        4,
+        3
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 6
+    },
+    "fouls": {
+      "home": 10,
+      "away": 5
+    },
+    "offsides": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "7'",
+      "side": "away",
+      "desc": "Nicolas PEPE (Côte d'Ivoire) scores!!"
+    },
+    {
+      "minute": "64'",
+      "side": "away",
+      "desc": "Nicolas PEPE (Côte d'Ivoire) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Christ Inao OULAI (in) comes off the bench to replace Amad DIALLO (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "61'",
+      "side": "home",
+      "desc": "Jeremy ANTONISSE (in) comes off the bench to replace Livano COMENENCIA (out) (Curaçao)"
+    },
+    {
+      "minute": "67'",
+      "side": "away",
+      "desc": "Elye WAHI (in) comes off the bench to replace Nicolas PEPE (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "67'",
+      "side": "away",
+      "desc": "Bazoumana TOURE (in) comes off the bench to replace Yan DIOMANDE (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "67'",
+      "side": "away",
+      "desc": "Oumar DIAKITE (in) comes off the bench to replace Ange-Yoan BONNY (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "desc": "Gervane KASTANEER (in) comes off the bench to replace Jurien GAARI (out) (Curaçao)"
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "desc": "Tyrese NOSLIN (in) comes off the bench to replace Deveron FONVILLE (out) (Curaçao)"
+    },
+    {
+      "minute": "77'",
+      "side": "away",
+      "desc": "Jean Michael SERI (in) comes off the bench to replace Franck KESSIE (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Shurandy SAMBO (in) comes off the bench to replace Joshua BRENET (out) (Curaçao)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Brandley KUWAS (in) comes off the bench to replace Juergen LOCADIA (out) (Curaçao)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "34'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Nicolas PEPE (Côte d'Ivoire) is booked by the referee."
+    },
+    {
+      "minute": "75'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Juninho BACUNA (Curaçao) is booked by the referee."
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Gervane KASTANEER (Curaçao) is booked by the referee."
+    }
+  ]
+}

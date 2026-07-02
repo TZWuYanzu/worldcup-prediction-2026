@@ -1,0 +1,111 @@
+{
+  "matchId": 20,
+  "fifaMatchId": "400021463",
+  "fetchTime": "2026-06-25 20:06:01",
+  "home": "Australia",
+  "away": "Turkey",
+  "score": "2-0",
+  "date": "2026-06-14",
+  "venue": "BC Place Vancouver",
+  "attendance": "52497",
+  "tactics": {
+    "home": "5-4-1",
+    "away": "4-2-3-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        5
+      ],
+      "away": [
+        10,
+        20
+      ]
+    },
+    "corners": {
+      "home": 5,
+      "away": 8
+    },
+    "fouls": {
+      "home": 12,
+      "away": 3
+    },
+    "offsides": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "goals": [
+    {
+      "minute": "27'",
+      "side": "home",
+      "desc": "Nestory IRANKUNDA (Australia) scores!!"
+    },
+    {
+      "minute": "75'",
+      "side": "home",
+      "desc": "Connor METCALFE (Australia) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Kenan YILDIZ (in) comes off the bench to replace Baris Alper YILMAZ (out) (Türkiye)"
+    },
+    {
+      "minute": "61'",
+      "side": "home",
+      "desc": "Nishan VELUPILLAY (in) comes off the bench to replace Nestory IRANKUNDA (out) (Australia)"
+    },
+    {
+      "minute": "62'",
+      "side": "away",
+      "desc": "Yunus AKGUN (in) comes off the bench to replace Orkun KOKCU (out) (Türkiye)"
+    },
+    {
+      "minute": "74'",
+      "side": "home",
+      "desc": "Tete YENGI (in) comes off the bench to replace Mohamed TOURE (out) (Australia)"
+    },
+    {
+      "minute": "74'",
+      "side": "home",
+      "desc": "Jason GERIA (in) comes off the bench to replace Jacob ITALIANO (out) (Australia)"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "Salih OZCAN (in) comes off the bench to replace Ismail YUKSEK (out) (Türkiye)"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "Mert MULDUR (in) comes off the bench to replace Zeki CELIK (out) (Türkiye)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Jackson IRVINE (in) comes off the bench to replace Paul OKON-ENGSTLER (out) (Australia)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Aziz BEHICH (in) comes off the bench to replace Jordan BOS (out) (Australia)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Deniz GUL (in) comes off the bench to replace Kerem AKTURKOGLU (out) (Türkiye)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "86'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Yunus AKGUN (Türkiye) is booked by the referee."
+    }
+  ]
+}

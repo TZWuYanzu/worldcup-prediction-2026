@@ -1,0 +1,102 @@
+{
+  "matchId": 6,
+  "fifaMatchId": "400021445",
+  "fetchTime": "2026-06-25 16:21:01",
+  "home": "South Africa",
+  "away": "South Korea",
+  "score": "1-0",
+  "date": "2026-06-25",
+  "venue": "Monterrey Stadium",
+  "attendance": "51243",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        10,
+        3
+      ],
+      "away": [
+        4,
+        4
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 6
+    },
+    "fouls": {
+      "home": 6,
+      "away": 8
+    },
+    "offsides": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "63'",
+      "side": "home",
+      "desc": "Thapelo MASEKO (South Africa) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins SON Heungmin (in) comes off the bench to replace HWANG Heechan (out) (Korea Republic)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins KIM Jingyu (in) comes off the bench to replace PAIK Seungho (out) (Korea Republic)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins CASTROP Jens (in) comes off the bench to replace LEE Taeseok (out) (Korea Republic)"
+    },
+    {
+      "minute": "62'",
+      "side": "home",
+      "desc": "Tshepang MOREMI (in) comes off the bench to replace Oswin APPOLLIS (out) (South Africa)"
+    },
+    {
+      "minute": "65'",
+      "side": "away",
+      "desc": "PARK Jinseob (in) comes off the bench to replace KIM Minjae (out) (Korea Republic)"
+    },
+    {
+      "minute": "74'",
+      "side": "away",
+      "desc": "CHO Guesung (in) comes off the bench to replace OH Hyeongyu (out) (Korea Republic)"
+    },
+    {
+      "minute": "75'",
+      "side": "home",
+      "desc": "Iqraam RAYNERS (in) comes off the bench to replace Thapelo MASEKO (out) (South Africa)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Jayden ADAMS (in) comes off the bench to replace Relebohile MOFOKENG (out) (South Africa)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "72'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Aubrey MODIBA (South Africa) is booked by the referee."
+    },
+    {
+      "minute": "78'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "CHO Guesung (Korea Republic) is booked by the referee."
+    }
+  ]
+}

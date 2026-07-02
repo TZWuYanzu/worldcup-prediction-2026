@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# User-local state
+calendar_state.json
+
+# Netlify (migrated to GitHub Pages)
+.netlify/
+
+# Temp directories
+deploy/
+downloaded_files/
+
+# Sensitive — API key
+02_data/api_football_config.json
+
+# OS / editor
+node_modules/
+*.swp
+.env

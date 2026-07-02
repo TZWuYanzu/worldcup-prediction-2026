@@ -1,0 +1,437 @@
+{
+  "matchId": 27,
+  "fifaMatchId": "400021469",
+  "fetchTime": "2026-06-26 14:46:46",
+  "home": "Germany",
+  "away": "Ivory Coast",
+  "score": "2-1",
+  "date": "2026-06-20",
+  "venue": "Toronto Stadium",
+  "attendance": "43036",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        8,
+        8
+      ],
+      "away": [
+        4,
+        5
+      ]
+    },
+    "corners": {
+      "home": 8,
+      "away": 3
+    },
+    "fouls": {
+      "home": 5,
+      "away": 7
+    },
+    "offsides": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "30'",
+      "side": "away",
+      "desc": "Franck KESSIE (Côte d'Ivoire) scores!!"
+    },
+    {
+      "minute": "68'",
+      "side": "home",
+      "desc": "Deniz UNDAV (Germany) scores!!"
+    },
+    {
+      "minute": "90'+4'",
+      "side": "home",
+      "desc": "Deniz UNDAV (Germany) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Antonio RUEDIGER (in) comes off the bench to replace Nico SCHLOTTERBECK (out) (Germany)"
+    },
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "Deniz UNDAV (in) comes off the bench to replace Jamal MUSIALA (out) (Germany)"
+    },
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "Nadiem AMIRI (in) comes off the bench to replace Aleksandar PAVLOVIC (out) (Germany)"
+    },
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "Jamie LEWELING (in) comes off the bench to replace Leroy SANE (out) (Germany)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Simon ADINGRA (in) comes off the bench to replace Amad DIALLO (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Evann GUESSAND (in) comes off the bench to replace Ange-Yoan BONNY (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Seko FOFANA (in) comes off the bench to replace Ibrahim SANGARE (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "Guela DOUE (in) comes off the bench to replace Wilfried SINGO (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Nicolas PEPE (in) comes off the bench to replace Yan DIOMANDE (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "85'",
+      "side": "home",
+      "desc": "Leon GORETZKA (in) comes off the bench to replace Kai HAVERTZ (out) (Germany)"
+    }
+  ],
+  "bookings": [],
+  "lineup": {
+    "home": {
+      "tactics": "4-2-3-1",
+      "starters": [
+        {
+          "name": "Manuel NEUER",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Jonathan TAH",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Joshua KIMMICH",
+          "number": 6,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "Nico SCHLOTTERBECK",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Nathaniel BROWN",
+          "number": 18,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Aleksandar PAVLOVIC",
+          "number": 5,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jamal MUSIALA",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Florian WIRTZ",
+          "number": 17,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Leroy SANE",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Felix NMECHA",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Kai HAVERTZ",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Antonio RUEDIGER",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Waldemar ANTON",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Leon GORETZKA",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jamie LEWELING",
+          "number": 9,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nick WOLTEMADE",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Oliver BAUMANN",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Pascal GROSS",
+          "number": 13,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Maximilian BEIER",
+          "number": 14,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Angelo STILLER",
+          "number": 16,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nadiem AMIRI",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Alexander NUEBEL",
+          "number": 21,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "David RAUM",
+          "number": 22,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Malick THIAW",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Assan OUEDRAOGO",
+          "number": 25,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Deniz UNDAV",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-1-2-3",
+      "starters": [
+        {
+          "name": "Yahia FOFANA",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Ghislain KONAN",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Wilfried SINGO",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Odilon KOSSOUNOU",
+          "number": 7,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Emmanuel AGBADOU",
+          "number": 20,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Franck KESSIE",
+          "number": 8,
+          "position": "MF",
+          "captain": true
+        },
+        {
+          "name": "Ibrahim SANGARE",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Christ Inao OULAI",
+          "number": 26,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ange-Yoan BONNY",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Yan DIOMANDE",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Amad DIALLO",
+          "number": 15,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Ousmane DIOMANDE",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jean Michael SERI",
+          "number": 4,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Seko FOFANA",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Simon ADINGRA",
+          "number": 10,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Elye WAHI",
+          "number": 12,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Christopher OPERI",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Oumar DIAKITE",
+          "number": 14,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Mohamed KONE",
+          "number": 16,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Guela DOUE",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Nicolas PEPE",
+          "number": 19,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Evan NDICKA",
+          "number": 21,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Evann GUESSAND",
+          "number": 22,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Alban LAFONT",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Bazoumana TOURE",
+          "number": 24,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Parfait GUIAGON",
+          "number": 25,
+          "position": "MF",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

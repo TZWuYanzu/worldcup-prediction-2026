@@ -1,0 +1,149 @@
+{
+  "matchId": 10,
+  "fifaMatchId": "400021450",
+  "fetchTime": "2026-06-24 17:20:33",
+  "home": "Canada",
+  "away": "Qatar",
+  "score": "6-0",
+  "date": "2026-06-18",
+  "venue": "BC Place Vancouver",
+  "attendance": "52497",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-3-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        14,
+        19
+      ],
+      "away": [
+        2,
+        0
+      ]
+    },
+    "corners": {
+      "home": 19,
+      "away": 1
+    },
+    "fouls": {
+      "home": 8,
+      "away": 8
+    },
+    "offsides": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "16'",
+      "side": "home",
+      "desc": "Cyle LARIN (Canada) scores!!"
+    },
+    {
+      "minute": "29'",
+      "side": "home",
+      "desc": "Jonathan DAVID (Canada) scores!!"
+    },
+    {
+      "minute": "45'+3'",
+      "side": "home",
+      "desc": "Jonathan DAVID (Canada) scores!!"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Nathan SALIBA (Canada) scores!!"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "MOHAMED MANAI (Qatar) scores an own goal."
+    },
+    {
+      "minute": "90'+2'",
+      "side": "home",
+      "desc": "Jonathan DAVID (Canada) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "40'",
+      "side": "away",
+      "desc": "SULTAN ALBRAKE (in) comes off the bench to replace YUSUF ABDURISAG (out) (Qatar)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins AHMED FATHY (in) comes off the bench to replace EDMILSON JUNIOR (out) (Qatar)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins MOHAMED MANAI (in) comes off the bench to replace JASSEM GABER (out) (Qatar)"
+    },
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Moise BOMBITO (in) comes off the bench to replace Derek CORNELIUS (out) (Canada)"
+    },
+    {
+      "minute": "56'",
+      "side": "home",
+      "desc": "Nathan SALIBA (in) comes off the bench to replace Ismael KONE (out) (Canada)"
+    },
+    {
+      "minute": "59'",
+      "side": "away",
+      "desc": "ALHASHMI ALHUSSEIN (in) comes off the bench to replace AKRAM AFIF (out) (Qatar)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Tani OLUWASEYI (in) comes off the bench to replace Ali AHMED (out) (Canada)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Jacob SHAFFELBURG (in) comes off the bench to replace Luc DE FOUGEROLLES (out) (Canada)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Niko SIGUR (in) comes off the bench to replace Tajon BUCHANAN (out) (Canada)"
+    },
+    {
+      "minute": "87'",
+      "side": "away",
+      "desc": "LUCAS MENDES (in) comes off the bench to replace AHMED FATHY (out) (Qatar)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "9'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Derek CORNELIUS (Canada) is booked by the referee."
+    },
+    {
+      "minute": "33'",
+      "side": "away",
+      "card": "red",
+      "desc": "HOMAM AHMED (Qatar) is sent off!"
+    },
+    {
+      "minute": "51'",
+      "side": "away",
+      "card": "red",
+      "desc": "ASSIM MADIBO (Qatar) is sent off!"
+    },
+    {
+      "minute": "62'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "AHMED FATHY (Qatar) is booked by the referee."
+    }
+  ]
+}

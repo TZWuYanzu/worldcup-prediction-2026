@@ -1,0 +1,450 @@
+{
+  "matchId": 30,
+  "fifaMatchId": "400021466",
+  "fetchTime": "2026-06-29 14:30:58",
+  "home": "Ecuador",
+  "away": "Germany",
+  "score": "2-1",
+  "date": "2026-06-25",
+  "venue": "New York/New Jersey Stadium",
+  "attendance": "80663",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-2-3-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        2,
+        5
+      ],
+      "away": [
+        7,
+        4
+      ]
+    },
+    "corners": {
+      "home": 3,
+      "away": 2
+    },
+    "fouls": {
+      "home": 13,
+      "away": 9
+    },
+    "offsides": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "2'",
+      "side": "away",
+      "desc": "Leroy SANE (Germany) scores!!"
+    },
+    {
+      "minute": "9'",
+      "side": "home",
+      "desc": "Nilson ANGULO (Ecuador) scores!!"
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "desc": "Gonzalo PLATA (Ecuador) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Angelo STILLER (in) comes off the bench to replace Aleksandar PAVLOVIC (out) (Germany)"
+    },
+    {
+      "minute": "60'",
+      "side": "away",
+      "desc": "Deniz UNDAV (in) comes off the bench to replace Kai HAVERTZ (out) (Germany)"
+    },
+    {
+      "minute": "60'",
+      "side": "away",
+      "desc": "Malick THIAW (in) comes off the bench to replace Joshua KIMMICH (out) (Germany)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Angelo PRECIADO (in) comes off the bench to replace Alan FRANCO (out) (Ecuador)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Kevin RODRIGUEZ (in) comes off the bench to replace Enner VALENCIA (out) (Ecuador)"
+    },
+    {
+      "minute": "64'",
+      "side": "away",
+      "desc": "Maximilian BEIER (in) comes off the bench to replace Felix NMECHA (out) (Germany)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Pervis ESTUPINAN (in) comes off the bench to replace Piero HINCAPIE (out) (Ecuador)"
+    },
+    {
+      "minute": "73'",
+      "side": "away",
+      "desc": "Pascal GROSS (in) comes off the bench to replace Florian WIRTZ (out) (Germany)"
+    },
+    {
+      "minute": "85'",
+      "side": "home",
+      "desc": "Jordy CAICEDO (in) comes off the bench to replace Nilson ANGULO (out) (Ecuador)"
+    },
+    {
+      "minute": "85'",
+      "side": "home",
+      "desc": "Felix TORRES (in) comes off the bench to replace John YEBOAH (out) (Ecuador)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "43'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Piero HINCAPIE (Ecuador) is booked by the referee."
+    },
+    {
+      "minute": "44'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Aleksandar PAVLOVIC (Germany) is booked by the referee."
+    },
+    {
+      "minute": "50'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Alan FRANCO (Ecuador) is booked by the referee."
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Gonzalo PLATA (Ecuador) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "4-4-2",
+      "starters": [
+        {
+          "name": "Hernan GALINDEZ",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Piero HINCAPIE",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Joel ORDONEZ",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Willian PACHO",
+          "number": 6,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Pedro VITE",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Alan FRANCO",
+          "number": 21,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Moises CAICEDO",
+          "number": 23,
+          "position": "MF",
+          "captain": true
+        },
+        {
+          "name": "John YEBOAH",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Enner VALENCIA",
+          "number": 13,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Gonzalo PLATA",
+          "number": 19,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Nilson ANGULO",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Felix TORRES",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jordy ALCIVAR",
+          "number": 5,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Pervis ESTUPINAN",
+          "number": 7,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Anthony VALENCIA",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Kendry PAEZ",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Kevin RODRIGUEZ",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Moises RAMIREZ",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Alan MINDA",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jordy CAICEDO",
+          "number": 16,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Angelo PRECIADO",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Denil CASTILLO",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Gonzalo VALLE",
+          "number": 22,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Jeremy AREVALO",
+          "number": 24,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Jackson POROZO",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Yaimar MEDINA",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-2-3-1",
+      "starters": [
+        {
+          "name": "Manuel NEUER",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Antonio RUEDIGER",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jonathan TAH",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Joshua KIMMICH",
+          "number": 6,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "David RAUM",
+          "number": 22,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Aleksandar PAVLOVIC",
+          "number": 5,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jamal MUSIALA",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Florian WIRTZ",
+          "number": 17,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Leroy SANE",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Felix NMECHA",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Kai HAVERTZ",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Waldemar ANTON",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Leon GORETZKA",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jamie LEWELING",
+          "number": 9,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nick WOLTEMADE",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Oliver BAUMANN",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Pascal GROSS",
+          "number": 13,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Maximilian BEIER",
+          "number": 14,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Angelo STILLER",
+          "number": 16,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nadiem AMIRI",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Alexander NUEBEL",
+          "number": 21,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Malick THIAW",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Assan OUEDRAOGO",
+          "number": 25,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Deniz UNDAV",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

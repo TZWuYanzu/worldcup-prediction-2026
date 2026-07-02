@@ -1,0 +1,96 @@
+{
+  "matchId": 24,
+  "fifaMatchId": "400021461",
+  "fetchTime": "2026-06-26 14:28:59",
+  "home": "Paraguay",
+  "away": "Australia",
+  "score": "0-0",
+  "date": "2026-06-26",
+  "venue": "San Francisco Bay Area Stadium",
+  "attendance": "68827",
+  "tactics": {
+    "home": "5-3-2",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        1,
+        6
+      ],
+      "away": [
+        6,
+        6
+      ]
+    },
+    "corners": {
+      "home": 1,
+      "away": 3
+    },
+    "fouls": {
+      "home": 8,
+      "away": 5
+    },
+    "offsides": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "goals": [],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins MAURICIO (in) comes off the bench to replace Alexandro MAIDANA (out) (Paraguay)"
+    },
+    {
+      "minute": "58'",
+      "side": "away",
+      "desc": "Ajdin HRUSTIC (in) comes off the bench to replace Cristian VOLPATO (out) (Australia)"
+    },
+    {
+      "minute": "67'",
+      "side": "home",
+      "desc": "Alex ARCE (in) comes off the bench to replace Gabriel AVALOS (out) (Paraguay)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Jose CANALE (in) comes off the bench to replace Omar ALDERETE (out) (Paraguay)"
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "desc": "Paul OKON-ENGSTLER (in) comes off the bench to replace Jackson IRVINE (out) (Australia)"
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "desc": "Tete YENGI (in) comes off the bench to replace Nestory IRANKUNDA (out) (Australia)"
+    },
+    {
+      "minute": "90'+2'",
+      "side": "home",
+      "desc": "Junior ALONSO (in) comes off the bench to replace Matias GALARZA (out) (Paraguay)"
+    },
+    {
+      "minute": "90'+2'",
+      "side": "home",
+      "desc": "Damian BOBADILLA (in) comes off the bench to replace Diego GOMEZ (out) (Paraguay)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "46'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Jackson IRVINE (Australia) is booked by the referee."
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Diego GOMEZ (Paraguay) is booked by the referee."
+    }
+  ]
+}

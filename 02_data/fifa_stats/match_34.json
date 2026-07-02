@@ -1,0 +1,114 @@
+{
+  "matchId": 34,
+  "fifaMatchId": "400021475",
+  "fetchTime": "2026-06-25 20:06:57",
+  "home": "Tunisia",
+  "away": "Japan",
+  "score": "0-4",
+  "date": "2026-06-21",
+  "venue": "Monterrey Stadium",
+  "attendance": "51243",
+  "tactics": {
+    "home": "5-3-2",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        1,
+        1
+      ],
+      "away": [
+        5,
+        6
+      ]
+    },
+    "corners": {
+      "home": 3,
+      "away": 5
+    },
+    "fouls": {
+      "home": 8,
+      "away": 15
+    },
+    "offsides": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "4'",
+      "side": "away",
+      "desc": "Daichi KAMADA (Japan) scores!!"
+    },
+    {
+      "minute": "31'",
+      "side": "away",
+      "desc": "Ayase UEDA (Japan) scores!!"
+    },
+    {
+      "minute": "69'",
+      "side": "away",
+      "desc": "Junya ITO (Japan) scores!!"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Ayase UEDA (Japan) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Mohamed Amine BEN HMIDA (in) comes off the bench to replace Dylan BRONN (out) (Tunisia)"
+    },
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Ismael GHARBI (in) comes off the bench to replace Elias SAAD (out) (Tunisia)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Firas CHAOUAT (in) comes off the bench to replace Sebastian TOUNEKTI (out) (Tunisia)"
+    },
+    {
+      "minute": "74'",
+      "side": "away",
+      "desc": "Yukinari SUGAWARA (in) comes off the bench to replace Ritsu DOAN (out) (Japan)"
+    },
+    {
+      "minute": "74'",
+      "side": "away",
+      "desc": "Junnosuke SUZUKI (in) comes off the bench to replace Daichi KAMADA (out) (Japan)"
+    },
+    {
+      "minute": "78'",
+      "side": "away",
+      "desc": "Yuito SUZUKI (in) comes off the bench to replace Keito NAKAMURA (out) (Japan)"
+    },
+    {
+      "minute": "78'",
+      "side": "away",
+      "desc": "Ayumu SEKO (in) comes off the bench to replace Takehiro TOMIYASU (out) (Japan)"
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "desc": "Keisuke GOTO (in) comes off the bench to replace Ayase UEDA (out) (Japan)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Elias ACHOURI (in) comes off the bench to replace Ali ABDI (out) (Tunisia)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Rani KHEDIRA (in) comes off the bench to replace Ellyes SKHIRI (out) (Tunisia)"
+    }
+  ],
+  "bookings": []
+}

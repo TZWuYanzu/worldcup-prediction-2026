@@ -1,0 +1,126 @@
+{
+  "matchId": 23,
+  "fifaMatchId": "400021459",
+  "fetchTime": "2026-06-26 14:28:54",
+  "home": "Turkey",
+  "away": "United States",
+  "score": "3-2",
+  "date": "2026-06-26",
+  "venue": "Los Angeles Stadium",
+  "attendance": null,
+  "tactics": {
+    "home": "3-4-3",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        4
+      ],
+      "away": [
+        8,
+        10
+      ]
+    },
+    "corners": {
+      "home": 2,
+      "away": 9
+    },
+    "fouls": {
+      "home": 13,
+      "away": 12
+    },
+    "offsides": {
+      "home": 2,
+      "away": 5
+    }
+  },
+  "goals": [
+    {
+      "minute": "3'",
+      "side": "away",
+      "desc": "Auston TRUSTY (USA) scores!!"
+    },
+    {
+      "minute": "10'",
+      "side": "home",
+      "desc": "Arda GULER (Türkiye) scores!!"
+    },
+    {
+      "minute": "31'",
+      "side": "home",
+      "desc": "Baris Alper YILMAZ (Türkiye) scores!!"
+    },
+    {
+      "minute": "49'",
+      "side": "away",
+      "desc": "Sebastian BERHALTER (USA) scores!!"
+    },
+    {
+      "minute": "90'+8'",
+      "side": "home",
+      "desc": "Kaan AYHAN (Türkiye) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "58'",
+      "side": "away",
+      "desc": "Christian PULISIC (in) comes off the bench to replace Timothy WEAH (out) (USA)"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "Sergino DEST (in) comes off the bench to replace Giovanni REYNA (out) (USA)"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "Alex ZENDEJAS (in) comes off the bench to replace Brenden AARONSON (out) (USA)"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "Alex FREEMAN (in) comes off the bench to replace Joe SCALLY (out) (USA)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Can UZUN (in) comes off the bench to replace Kenan YILDIZ (out) (Türkiye)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Caglar SOYUNCU (in) comes off the bench to replace Zeki CELIK (out) (Türkiye)"
+    },
+    {
+      "minute": "86'",
+      "side": "away",
+      "desc": "Malik TILLMAN (in) comes off the bench to replace Weston McKENNIE (out) (USA)"
+    },
+    {
+      "minute": "88'",
+      "side": "home",
+      "desc": "Kaan AYHAN (in) comes off the bench to replace Orkun KOKCU (out) (Türkiye)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "home",
+      "desc": "Mert MULDUR (in) comes off the bench to replace Oguz AYDIN (out) (Türkiye)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "home",
+      "desc": "Irfan Can KAHVECI (in) comes off the bench to replace Baris Alper YILMAZ (out) (Türkiye)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "19'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Sebastian BERHALTER (USA) is booked by the referee."
+    }
+  ]
+}

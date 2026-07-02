@@ -1,0 +1,451 @@
+{
+  "matchId": 37,
+  "fifaMatchId": "400021478",
+  "fetchTime": "2026-06-22 11:24:26",
+  "home": "Belgium",
+  "away": "Egypt",
+  "score": "1-1",
+  "date": "2026-06-15",
+  "venue": "Seattle Stadium",
+  "attendance": "66775",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        7,
+        8
+      ],
+      "away": [
+        4,
+        10
+      ]
+    },
+    "corners": {
+      "home": 2,
+      "away": 7
+    },
+    "fouls": {
+      "home": 13,
+      "away": 13
+    },
+    "offsides": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "19'",
+      "side": "away",
+      "desc": "EMAM ASHOUR (Egypt) scores!!"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "MOHAMED HANY (Egypt) scores an own goal."
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "56'",
+      "side": "home",
+      "desc": "Nicolas RASKIN (in) comes off the bench to replace Timothy CASTAGNE (out) (Belgium)"
+    },
+    {
+      "minute": "56'",
+      "side": "home",
+      "desc": "Maxim DE CUYPER (in) comes off the bench to replace Amadou ONANA (out) (Belgium)"
+    },
+    {
+      "minute": "66'",
+      "side": "home",
+      "desc": "Romelu LUKAKU (in) comes off the bench to replace Charles DE KETELAERE (out) (Belgium)"
+    },
+    {
+      "minute": "71'",
+      "side": "away",
+      "desc": "RAMY RABIA (in) comes off the bench to replace EMAM ASHOUR (out) (Egypt)"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "ZIZO (in) comes off the bench to replace MOSTAFA ZICO (out) (Egypt)"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "HAMZA ABDELKARIM (in) comes off the bench to replace MOHAMED SALAH (out) (Egypt)"
+    },
+    {
+      "minute": "85'",
+      "side": "home",
+      "desc": "Hans VANAKEN (in) comes off the bench to replace Kevin DE BRUYNE (out) (Belgium)"
+    },
+    {
+      "minute": "85'",
+      "side": "home",
+      "desc": "Matias FERNANDEZ-PARDO (in) comes off the bench to replace Jeremy DOKU (out) (Belgium)"
+    },
+    {
+      "minute": "88'",
+      "side": "away",
+      "desc": "KARIM HAFEZ (in) comes off the bench to replace AHMED FATOUH (out) (Egypt)"
+    },
+    {
+      "minute": "88'",
+      "side": "away",
+      "desc": "IBRAHIM ADEL (in) comes off the bench to replace HAMDY FATHY (out) (Egypt)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "13'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "MARAWAN ATTIA (Egypt) is booked by the referee."
+    },
+    {
+      "minute": "14'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Timothy CASTAGNE (Belgium) is booked by the referee."
+    },
+    {
+      "minute": "34'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "AHMED FATOUH (Egypt) is booked by the referee."
+    },
+    {
+      "minute": "75'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Maxim DE CUYPER (Belgium) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "4-2-3-1",
+      "starters": [
+        {
+          "name": "Thibaut COURTOIS",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Brandon MECHELE",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Thomas MEUNIER",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Timothy CASTAGNE",
+          "number": 21,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Nathan NGOY",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Kevin DE BRUYNE",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Youri TIELEMANS",
+          "number": 8,
+          "position": "MF",
+          "captain": true
+        },
+        {
+          "name": "Amadou ONANA",
+          "number": 24,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Leandro TROSSARD",
+          "number": 10,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Jeremy DOKU",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Charles DE KETELAERE",
+          "number": 17,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Arthur THEATE",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Maxim DE CUYPER",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Axel WITSEL",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Romelu LUKAKU",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Senne LAMMENS",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Mike PENDERS",
+          "number": 13,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Dodi LUKEBAKIO",
+          "number": 14,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Koni DE WINTER",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Joaquin SEYS",
+          "number": 18,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Diego MOREIRA",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Hans VANAKEN",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Alexis SAELEMAEKERS",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nicolas RASKIN",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Matias FERNANDEZ-PARDO",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-2-3-1",
+      "starters": [
+        {
+          "name": "MOSTAFA SHOUBIR",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "YASSER IBRAHIM",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MOHAMED HANY",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "AHMED FATOUH",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "EMAM ASHOUR",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "MOSTAFA ZICO",
+          "number": 11,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "HAMDY FATHY",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "MOHANAD LASHIN",
+          "number": 17,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "MARAWAN ATTIA",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "MOHAMED SALAH",
+          "number": 10,
+          "position": "FW",
+          "captain": true
+        },
+        {
+          "name": "OMAR MARMOUSH",
+          "number": 22,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "MOHAMED ELSHENAWY",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "HOSSAM ABDELMAGUID",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "RAMY RABIA",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MOHAMED ABDELMONEIM",
+          "number": 6,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "TREZEGUET",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "HAMZA ABDELKARIM",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "HAISSEM HASSAN",
+          "number": 12,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "KARIM HAFEZ",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MAHDY SOLIMAN",
+          "number": 16,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "NABIL DONGA",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "IBRAHIM ADEL",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "MAHMOUD SABER",
+          "number": 21,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "TAREK ALAA",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "ZIZO",
+          "number": 25,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "MOHAMED ALAA",
+          "number": 26,
+          "position": "GK",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

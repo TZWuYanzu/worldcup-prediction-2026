@@ -1,0 +1,129 @@
+{
+  "matchId": 46,
+  "fifaMatchId": "400021487",
+  "fetchTime": "2026-06-22 18:19:36",
+  "home": "Uruguay",
+  "away": "Cape Verde",
+  "score": "2-2",
+  "date": "2026-06-21",
+  "venue": "Miami Stadium",
+  "attendance": "64003",
+  "tactics": {
+    "home": "4-1-2-3",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        11,
+        6
+      ],
+      "away": [
+        2,
+        10
+      ]
+    },
+    "corners": {
+      "home": 11,
+      "away": 4
+    },
+    "fouls": {
+      "home": 9,
+      "away": 3
+    },
+    "offsides": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "21'",
+      "side": "away",
+      "desc": "KEVIN PINA (Cabo Verde) scores!!"
+    },
+    {
+      "minute": "44'",
+      "side": "home",
+      "desc": "Maxi ARAUJO (Uruguay) scores!!"
+    },
+    {
+      "minute": "45'+6'",
+      "side": "home",
+      "desc": "Agustin CANOBBIO (Uruguay) scores!!"
+    },
+    {
+      "minute": "61'",
+      "side": "away",
+      "desc": "HELIO VARELA (Cabo Verde) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins DEROY DUARTE (in) comes off the bench to replace TELMO ARCANJO (out) (Cabo Verde)"
+    },
+    {
+      "minute": "58'",
+      "side": "away",
+      "desc": "NUNO DA COSTA (in) comes off the bench to replace GILSON BENCHIMOL (out) (Cabo Verde)"
+    },
+    {
+      "minute": "58'",
+      "side": "away",
+      "desc": "HELIO VARELA (in) comes off the bench to replace GARRY RODRIGUES (out) (Cabo Verde)"
+    },
+    {
+      "minute": "70'",
+      "side": "home",
+      "desc": "Nicolas DE LA CRUZ (in) comes off the bench to replace Manuel UGARTE (out) (Uruguay)"
+    },
+    {
+      "minute": "70'",
+      "side": "home",
+      "desc": "Darwin NUNEZ (in) comes off the bench to replace Federico VINAS (out) (Uruguay)"
+    },
+    {
+      "minute": "70'",
+      "side": "away",
+      "desc": "LAROS DUARTE (in) comes off the bench to replace KEVIN PINA (out) (Cabo Verde)"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "YANNICK SEMEDO (in) comes off the bench to replace JAMIRO MONTEIRO (out) (Cabo Verde)"
+    },
+    {
+      "minute": "81'",
+      "side": "home",
+      "desc": "Brian RODRIGUEZ (in) comes off the bench to replace Maxi ARAUJO (out) (Uruguay)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "5'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "SIDNY LOPES CABRAL (Cabo Verde) is booked by the referee."
+    },
+    {
+      "minute": "20'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Rodrigo BENTANCUR (Uruguay) is booked by the referee."
+    },
+    {
+      "minute": "58'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Mathias OLIVERA (Uruguay) is booked by the referee."
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "DINEY BORGES (Cabo Verde) is booked by the referee."
+    }
+  ]
+}

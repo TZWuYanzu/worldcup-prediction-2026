@@ -1,0 +1,119 @@
+{
+  "matchId": 25,
+  "fifaMatchId": "400021464",
+  "fetchTime": "2026-06-26 15:00:53",
+  "home": "Germany",
+  "away": "Curaçao",
+  "score": "7-1",
+  "date": "2026-06-14",
+  "venue": "Houston Stadium",
+  "attendance": "68021",
+  "tactics": {
+    "home": "3-4-3",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        16,
+        10
+      ],
+      "away": [
+        4,
+        4
+      ]
+    },
+    "corners": {
+      "home": 8,
+      "away": 1
+    },
+    "fouls": {
+      "home": 18,
+      "away": 11
+    },
+    "offsides": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "6'",
+      "side": "home",
+      "desc": "Felix NMECHA (Germany) scores!!"
+    },
+    {
+      "minute": "21'",
+      "side": "away",
+      "desc": "Livano COMENENCIA (Curaçao) scores!!"
+    },
+    {
+      "minute": "38'",
+      "side": "home",
+      "desc": "Nico SCHLOTTERBECK (Germany) scores!!"
+    },
+    {
+      "minute": "47'",
+      "side": "home",
+      "desc": "Jamal MUSIALA (Germany) scores!!"
+    },
+    {
+      "minute": "68'",
+      "side": "home",
+      "desc": "Nathaniel BROWN (Germany) scores!!"
+    },
+    {
+      "minute": "78'",
+      "side": "home",
+      "desc": "Deniz UNDAV (Germany) scores!!"
+    },
+    {
+      "minute": "88'",
+      "side": "home",
+      "desc": "Kai HAVERTZ (Germany) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Jeremy ANTONISSE (in) comes off the bench to replace Sontje HANSEN (out) (Curaçao)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Deniz UNDAV (in) comes off the bench to replace Jamal MUSIALA (out) (Germany)"
+    },
+    {
+      "minute": "65'",
+      "side": "away",
+      "desc": "Jearl MARGARITHA (in) comes off the bench to replace Juergen LOCADIA (out) (Curaçao)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Leon GORETZKA (in) comes off the bench to replace Felix NMECHA (out) (Germany)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Antonio RUEDIGER (in) comes off the bench to replace Jonathan TAH (out) (Germany)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "David RAUM (in) comes off the bench to replace Nathaniel BROWN (out) (Germany)"
+    },
+    {
+      "minute": "82'",
+      "side": "away",
+      "desc": "Gervane KASTANEER (in) comes off the bench to replace Tahith CHONG (out) (Curaçao)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Waldemar ANTON (in) comes off the bench to replace Joshua KIMMICH (out) (Germany)"
+    }
+  ],
+  "bookings": []
+}

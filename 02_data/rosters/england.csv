@@ -1,0 +1,34 @@
+number,player,position,club,verified_via,note
+1,Pickford,GK,Everton,wiki_pickford_page,Jordan Pickford 2025/10 续约至 2029；2025-26 PL Save of the Season
+23,Trafford,GK,Manchester City,wiki_trafford_page,James Trafford 英格兰 2026 WC #23
+⚠️,Henderson,GK,Crystal Palace,wiki_henderson_page,Dean Henderson 水晶宫队长；squad 编号未在 Wiki 主页核实
+12,Alexander-Arnold (Trent),DF,Real Madrid,wiki_taa_page,Trent Alexander-Arnold 2025/05/30 自利物浦加盟 €6.2-10M；球衣名"Trent"
+⚠️,Stones,DF,Manchester City,wiki_stones_page,John Stones 2026/06/30 合约到期已宣布离队；WC 期间仍为曼城球员；squad 编号未核实
+6,Guéhi,DF,Manchester City,wiki_guehi_page,Marc Guéhi 2026/01/19 自水晶宫转会 £20M；英格兰 2026 WC #6
+⚠️,Shaw,DF,Manchester United,wiki_shaw_page,Luke Shaw 2025-26 回归主力（Amorim 三中卫体系）；squad 编号未核实
+⚠️,Colwill,DF,Chelsea,⚠️ unverified for WC,Levi Colwill 2025/08 ACL 手术整赛季缺阵 —— 2026 WC squad 入选存疑
+24,James,DF,Chelsea,wiki_james_page,Reece James 切尔西队长；英格兰 2026 WC #24；2025-26 常踢中场
+2,Konsa,DF,Aston Villa,wiki_konsa_page,Ezri Konsa 维拉副队 #4；英格兰 2026 WC #2；中卫/右后
+⚠️,Rice,MF,Arsenal,wiki_rice_page,Declan Rice 阿森纳 #41；2025-26 阿森纳英超冠军（22 年来首冠）；squad 编号未核实
+⚠️,Bellingham,MF,Real Madrid,wiki_bellingham_page,Jude Bellingham 2024 金球第 3；2025/09 肩伤手术归来；squad 编号未核实
+⚠️,Palmer,MF,Chelsea,wiki_palmer_page,Cole Palmer 切尔西 #10；2025-26 因伤患减产；2024-25 世俱杯金球；squad 编号未核实
+⚠️,Foden,MF,Manchester City,wiki_foden_page,Phil Foden 曼城 #47；squad 编号未核实
+⚠️,Gallagher,MF,⚠️ unconfirmed,⚠️ unverified,Conor Gallagher 俱乐部 + squad 编号均未核实（训练记忆推测：马竞）
+⚠️,Wharton,MF,⚠️ unconfirmed,⚠️ unverified,Adam Wharton 俱乐部 + squad 编号均未核实（训练记忆推测：水晶宫）
+⚠️,Jones,MF,⚠️ unconfirmed,⚠️ unverified,Curtis Jones 俱乐部 + squad 编号均未核实（训练记忆推测：利物浦）
+9,Kane (c),FW,Bayern Munich,wiki_kane_page,Harry Kane 队长 #9；2025-26 第三度蝉联德甲金靴 36 球 + 德甲+德国杯双冠 + 职业生涯 500 球
+⚠️,Saka,FW,Arsenal,wiki_saka_page,Bukayo Saka 阿森纳 #7 终身一队；2025-26 49 场 11 球；squad 编号未核实
+⚠️,Rashford,FW,Manchester United,wiki_rashford_page,Marcus Rashford 曼联球员 2025-26 租借至巴萨；squad 编号未核实
+18,Gordon,FW,Newcastle United,wiki_gordon_page,Anthony Gordon 纽卡 #10；英格兰 2026 WC #18；2026/07/01 转会巴萨 £69.3M（WC 后）
+19,Watkins,FW,Aston Villa,wiki_watkins_page,Ollie Watkins 维拉 #11；英格兰 2026 WC #19
+⚠️,Eze,MF,Arsenal,wiki_eze_page,Eberechi Eze 2025/08 自水晶宫加盟阿森纳 £60M+；阿森纳 #10；squad 编号未核实
+⚠️,Madueke,FW,Arsenal,⚠️ unverified,Noni Madueke 训练记忆推测：2025 夏窗自切尔西转阿森纳；未单独 Wiki 核实
+⚠️,Rogers,MF,Aston Villa,⚠️ unverified,Morgan Rogers 训练记忆推测；未单独 Wiki 核实
+⚠️,White,DF,Arsenal,⚠️ unverified,Ben White 训练记忆推测；未单独 Wiki 核实
+
+# 数据来源：各球员个人 Wikipedia 页面（fetched 2026/06/04）。
+# 2026 FIFA World Cup squads 集中页与英格兰国家队主页的 squad 表格均被 WebFetch 截断，未拿到完整 26 人编号列表。
+# 已通过个人页明确确认入选 2026 WC squad：Pickford (隐含), Trafford(#23), TAA, Stones(隐含), Guéhi(#6), James(#24), Konsa(#2), Rice, Bellingham, Saka, Rashford, Gordon(#18), Watkins(#19), Kane(队长)
+# 标 ⚠️ 的：俱乐部已确认但 squad 编号未拿到 / 或入选未明示
+# 关键警示：Colwill 2025/08 ACL 手术 —— 2026 WC 入选高度存疑
+# 抓取日期：2026/06/04

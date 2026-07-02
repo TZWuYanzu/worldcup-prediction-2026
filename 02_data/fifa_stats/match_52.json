@@ -1,0 +1,447 @@
+{
+  "matchId": 52,
+  "fifaMatchId": "400021491",
+  "fetchTime": "2026-06-23 15:56:51",
+  "home": "Norway",
+  "away": "Senegal",
+  "score": "3-2",
+  "date": "2026-06-23",
+  "venue": "New York/New Jersey Stadium",
+  "attendance": "80663",
+  "tactics": {
+    "home": "4-1-2-3",
+    "away": "4-3-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        8,
+        5
+      ],
+      "away": [
+        6,
+        10
+      ]
+    },
+    "corners": {
+      "home": 5,
+      "away": 4
+    },
+    "fouls": {
+      "home": 13,
+      "away": 5
+    },
+    "offsides": {
+      "home": 0,
+      "away": 4
+    }
+  },
+  "goals": [
+    {
+      "minute": "43'",
+      "side": "home",
+      "desc": "Marcus HOLMGREN PEDERSEN (Norway) scores!!"
+    },
+    {
+      "minute": "48'",
+      "side": "home",
+      "desc": "Erling HAALAND (Norway) scores!!"
+    },
+    {
+      "minute": "53'",
+      "side": "away",
+      "desc": "Ismaila SARR (Senegal) scores!!"
+    },
+    {
+      "minute": "58'",
+      "side": "home",
+      "desc": "Erling HAALAND (Norway) scores!!"
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "desc": "Ismaila SARR (Senegal) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "13'",
+      "side": "home",
+      "desc": "Marcus HOLMGREN PEDERSEN (in) comes off the bench to replace Julian RYERSON (out) (Norway)"
+    },
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Patrick BERG (in) comes off the bench to replace Fredrik AURSNES (out) (Norway)"
+    },
+    {
+      "minute": "54'",
+      "side": "away",
+      "desc": "Ibrahim MBAYE (in) comes off the bench to replace Pape GUEYE (out) (Senegal)"
+    },
+    {
+      "minute": "54'",
+      "side": "away",
+      "desc": "Ismail JAKOBS (in) comes off the bench to replace El Hadji Malick DIOUF (out) (Senegal)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Mory DIAW (in) comes off the bench to replace Edouard MENDY (out) (Senegal)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Pathe CISS (in) comes off the bench to replace Lamine CAMARA (out) (Senegal)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Andreas SCHJELDERUP (in) comes off the bench to replace Antonio NUSA (out) (Norway)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Pape Matar SARR (in) comes off the bench to replace Kalidou KOULIBALY (out) (Senegal)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Leo OSTIGARD (in) comes off the bench to replace Torbjorn HEGGEM (out) (Norway)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Oscar BOBB (in) comes off the bench to replace Alexander SORLOTH (out) (Norway)"
+    }
+  ],
+  "bookings": [],
+  "lineup": {
+    "home": {
+      "tactics": "4-1-2-3",
+      "starters": [
+        {
+          "name": "Orjan NYLAND",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Kristoffer AJER",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "David MOLLER WOLFE",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Torbjorn HEGGEM",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Sander BERGE",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Martin ODEGAARD",
+          "number": 10,
+          "position": "MF",
+          "captain": true
+        },
+        {
+          "name": "Fredrik AURSNES",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Alexander SORLOTH",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Erling HAALAND",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Antonio NUSA",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Julian RYERSON",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Morten THORSBY",
+          "number": 2,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Leo OSTIGARD",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Patrick BERG",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jorgen STRAND LARSEN",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Sander TANGVIK",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Egil SELVIK",
+          "number": 13,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Fredrik Andre BJORKAN",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Marcus HOLMGREN PEDERSEN",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Kristian THORSTVEDT",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Thelo AASGAARD",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Andreas SCHJELDERUP",
+          "number": 21,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Oscar BOBB",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jens Petter HAUGE",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Sondre LANGAS",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Henrik FALCHENER",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-3-3",
+      "starters": [
+        {
+          "name": "Edouard MENDY",
+          "number": 16,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Kalidou KOULIBALY",
+          "number": 3,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "Krepin DIATTA",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Moussa NIAKHATE",
+          "number": 19,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "El Hadji Malick DIOUF",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Idrissa Gana GUEYE",
+          "number": 5,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Lamine CAMARA",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Pape GUEYE",
+          "number": 26,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Sadio MANE",
+          "number": 10,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Nicolas JACKSON",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Ismaila SARR",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Yehvann DIOUF",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Mamadou SARR",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Abdoulaye SECK",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Pathe CISS",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Assane DIAO",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Bamba DIENG",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Cherif NDIAYE",
+          "number": 12,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Iliman NDIAYE",
+          "number": 13,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Ismail JAKOBS",
+          "number": 14,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Pape Matar SARR",
+          "number": 17,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ibrahim MBAYE",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Habib DIARRA",
+          "number": 21,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Bara Sapoko NDIAYE",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Mory DIAW",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Antoine MENDY",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

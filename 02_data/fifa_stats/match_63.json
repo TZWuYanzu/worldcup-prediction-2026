@@ -1,0 +1,132 @@
+{
+  "matchId": 63,
+  "fifaMatchId": "400021503",
+  "fetchTime": "2026-06-24 16:00:21",
+  "home": "Portugal",
+  "away": "Uzbekistan",
+  "score": "5-0",
+  "date": "2026-06-23",
+  "venue": "Houston Stadium",
+  "attendance": "68777",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        9,
+        8
+      ],
+      "away": [
+        3,
+        4
+      ]
+    },
+    "corners": {
+      "home": 3,
+      "away": 2
+    },
+    "fouls": {
+      "home": 13,
+      "away": 14
+    },
+    "offsides": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "goals": [
+    {
+      "minute": "6'",
+      "side": "home",
+      "desc": "CRISTIANO RONALDO (Portugal) scores!!"
+    },
+    {
+      "minute": "17'",
+      "side": "home",
+      "desc": "NUNO MENDES (Portugal) scores!!"
+    },
+    {
+      "minute": "39'",
+      "side": "home",
+      "desc": "CRISTIANO RONALDO (Portugal) scores!!"
+    },
+    {
+      "minute": "60'",
+      "side": "away",
+      "desc": "Abduvohid NEMATOV (Uzbekistan) scores an own goal."
+    },
+    {
+      "minute": "87'",
+      "side": "home",
+      "desc": "RAFAEL LEAO (Portugal) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Khojiakbar ALIJONOV (in) comes off the bench to replace Sherzod NASRULLAEV (out) (Uzbekistan)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Akmal MOZGOVOY (in) comes off the bench to replace Odiljon XAMROBEKOV (out) (Uzbekistan)"
+    },
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins NELSON SEMEDO (in) comes off the bench to replace JOAO CANCELO (out) (Portugal)"
+    },
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins FRANCISCO CONCEICAO (in) comes off the bench to replace PEDRO NETO (out) (Portugal)"
+    },
+    {
+      "minute": "63'",
+      "side": "home",
+      "desc": "FRANCISCO TRINCAO (in) comes off the bench to replace JOAO FELIX (out) (Portugal)"
+    },
+    {
+      "minute": "73'",
+      "side": "away",
+      "desc": "Igor SERGEEV (in) comes off the bench to replace Abbosbek FAYZULLAEV (out) (Uzbekistan)"
+    },
+    {
+      "minute": "76'",
+      "side": "home",
+      "desc": "BERNARDO SILVA (in) comes off the bench to replace JOAO NEVES (out) (Portugal)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "RAFAEL LEAO (in) comes off the bench to replace VITINHA (out) (Portugal)"
+    },
+    {
+      "minute": "90'+2'",
+      "side": "away",
+      "desc": "Ruslanbek JIYANOV (in) comes off the bench to replace Behruzjon KARIMOV (out) (Uzbekistan)"
+    },
+    {
+      "minute": "90'+2'",
+      "side": "away",
+      "desc": "Sherzod ESANOV (in) comes off the bench to replace Otabek SHUKUROV (out) (Uzbekistan)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "14'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Odiljon XAMROBEKOV (Uzbekistan) is booked by the referee."
+    },
+    {
+      "minute": "68'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "RENATO VEIGA (Portugal) is booked by the referee."
+    }
+  ]
+}

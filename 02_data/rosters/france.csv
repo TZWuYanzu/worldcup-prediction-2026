@@ -1,0 +1,34 @@
+number,player,position,club,verified_via,note
+1,Brice Samba,GK,Rennes,wiki_squads_section_42,DOB 1994-04-25 / 4 caps
+2,Malo Gusto,DF,Chelsea,wiki_squads_section_42,DOB 2003-05-19 / 9 caps
+3,Lucas Digne,DF,Aston Villa,wiki_squads_section_42,DOB 1993-07-20 / 56 caps
+4,Dayot Upamecano,DF,Bayern Munich,wiki_squads_section_42 + player_page,DOB 1998-10-27 / 36 caps / 2 goals - contract extended 2026-02-13 until 2030
+5,Jules Koundé,DF,Barcelona,wiki_squads_section_42 + player_page,DOB 1998-11-12 / 46 caps - primary RB/CB
+6,Manu Koné,MF,Roma,wiki_squads_section_42,DOB 2001-05-17 / 12 caps
+7,Ousmane Dembélé,FW,Paris Saint-Germain,wiki_squads_section_42 + player_page,DOB 1997-05-15 / 58 caps / 7 goals - 2025 Ballon d'Or winner
+8,Aurélien Tchouaméni,MF,Real Madrid,wiki_squads_section_42 + player_page,DOB 2000-01-27 / 44 caps / 3 goals
+9,Marcus Thuram,FW,Inter Milan,wiki_squads_section_42 + player_page,DOB 1997-08-06 / 33 caps / 3 goals
+10,Kylian Mbappé (c),FW,Real Madrid,wiki_squads_section_42 + player_page,DOB 1998-12-20 / 96 caps / 56 goals - CAPTAIN; 2025-26 LaLiga 31a/25g + UCL 11a/15g (top scorer)
+11,Michael Olise,FW,Bayern Munich,wiki_squads_section_42,DOB 2001-12-12 / 15 caps / 4 goals
+12,Bradley Barcola,FW,Paris Saint-Germain,wiki_squads_section_42 + player_page,DOB 2002-09-02 / 18 caps / 3 goals
+13,N'Golo Kanté,MF,Fenerbahçe,wiki_squads_section_42 + player_page,DOB 1991-03-29 / 67 caps - moved from Al-Ittihad to Fenerbahçe in 2026
+14,Adrien Rabiot,MF,AC Milan,wiki_squads_section_42 + player_page,DOB 1995-04-03 / 57 caps / 7 goals - joined Milan 2025-09-01 from Marseille (3y deal) after Rowe locker-room incident
+15,Ibrahima Konaté,DF,Liverpool,wiki_squads_section_42,DOB 1999-05-25 / 27 caps
+16,Mike Maignan,GK,AC Milan,wiki_squads_section_42 + player_page,DOB 1995-07-03 / 38 caps - Milan captain
+17,William Saliba,DF,Arsenal,wiki_squads_section_42 + player_page,DOB 2001-03-24 / 31 caps
+18,Warren Zaïre-Emery,MF,Paris Saint-Germain,wiki_squads_section_42,DOB 2006-03-08 / 10 caps / 1 goal
+19,Théo Hernandez,DF,Al-Hilal,wiki_squads_section_42 + player_page,DOB 1997-10-06 / 42 caps / 2 goals - joined Al-Hilal 2025-07-10 from AC Milan for ~€25M (PERMANENT)
+20,Désiré Doué,FW,Paris Saint-Germain,wiki_squads_section_42,DOB 2005-06-03 / 6 caps / 2 goals
+21,Lucas Hernandez,DF,Paris Saint-Germain,wiki_squads_section_42,DOB 1996-02-14 / 41 caps
+22,Jean-Philippe Mateta,FW,Crystal Palace,wiki_squads_section_42,DOB 1997-06-28 / 3 caps / 2 goals
+23,Robin Risser,GK,Lens,wiki_squads_section_42,DOB 2004-12-02 / 0 caps (newcomer)
+24,Rayan Cherki,MF,Manchester City,wiki_squads_section_42,DOB 2003-08-17 / 5 caps / 1 goal
+25,Maghnes Akliouche,MF,Monaco,wiki_squads_section_42,DOB 2002-02-25 / 7 caps / 1 goal
+26,Maxence Lacroix,DF,Crystal Palace,wiki_squads_section_42,DOB 2000-04-06 / 2 caps
+
+# 数据来源：Wikipedia 2026 FIFA World Cup squads 页 section=42 (France)，并对核心 11 人逐一打开个人 Wiki 页交叉核对俱乐部、位置、转会日期、伤情。
+# 主帅：Didier Deschamps。队长：Kylian Mbappé (#10)。
+# NOT in squad (原稿误列): Eduardo Camavinga (Real Madrid; ACL 复出但未入选), Khéphren Thuram, Randal Kolo Muani (Tottenham loan from PSG), Lucas Chevalier.
+# 三大转会修正：Théo Hernandez → Al-Hilal (2025-07), N'Golo Kanté → Fenerbahçe (2026), Adrien Rabiot → AC Milan (2025-09).
+# 核心 11 全部经个人 Wiki 页核对；其余 15 人通过 squads 页核对 (足够可信)。
+# 抓取日期：2026/06/04

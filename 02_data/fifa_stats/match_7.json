@@ -1,0 +1,135 @@
+{
+  "matchId": 7,
+  "fifaMatchId": "400021449",
+  "fetchTime": "2026-06-24 17:20:18",
+  "home": "Canada",
+  "away": "Bosnia and Herzegovina",
+  "score": "1-1",
+  "date": "2026-06-12",
+  "venue": "Toronto Stadium",
+  "attendance": "43002",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        7,
+        6
+      ],
+      "away": [
+        5,
+        3
+      ]
+    },
+    "corners": {
+      "home": 9,
+      "away": 4
+    },
+    "fouls": {
+      "home": 8,
+      "away": 17
+    },
+    "offsides": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "21'",
+      "side": "away",
+      "desc": "Jovo LUKIC (Bosnia and Herzegovina) scores!!"
+    },
+    {
+      "minute": "78'",
+      "side": "home",
+      "desc": "Cyle LARIN (Canada) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "61'",
+      "side": "home",
+      "desc": "Promise DAVID (in) comes off the bench to replace Jonathan DAVID (out) (Canada)"
+    },
+    {
+      "minute": "61'",
+      "side": "home",
+      "desc": "Ali AHMED (in) comes off the bench to replace Tajon BUCHANAN (out) (Canada)"
+    },
+    {
+      "minute": "61'",
+      "side": "home",
+      "desc": "Jacob SHAFFELBURG (in) comes off the bench to replace Liam MILLAR (out) (Canada)"
+    },
+    {
+      "minute": "61'",
+      "side": "away",
+      "desc": "Armin GIGOVIC (in) comes off the bench to replace Ivan BASIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "61'",
+      "side": "away",
+      "desc": "Samed BAZDAR (in) comes off the bench to replace Jovo LUKIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "74'",
+      "side": "away",
+      "desc": "Kerim ALAJBEGOVIC (in) comes off the bench to replace Amar MEMIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "74'",
+      "side": "away",
+      "desc": "Ivan SUNJIC (in) comes off the bench to replace Esmir BAJRAKTAREVIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "76'",
+      "side": "home",
+      "desc": "Cyle LARIN (in) comes off the bench to replace Tani OLUWASEYI (out) (Canada)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Dzenis BURNIC (in) comes off the bench to replace Sead KOLASINAC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "home",
+      "desc": "Jonathan OSORIO (in) comes off the bench to replace Stephen EUSTAQUIO (out) (Canada)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "11'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Alistair JOHNSTON (Canada) is booked by the referee."
+    },
+    {
+      "minute": "44'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Ermedin DEMIROVIC (Bosnia and Herzegovina) is booked by the referee."
+    },
+    {
+      "minute": "45'+1'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Jovo LUKIC (Bosnia and Herzegovina) is booked by the referee."
+    },
+    {
+      "minute": "53'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Luc DE FOUGEROLLES (Canada) is booked by the referee."
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Nikola KATIC (Bosnia and Herzegovina) is booked by the referee."
+    }
+  ]
+}

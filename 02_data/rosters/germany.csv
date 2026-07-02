@@ -1,0 +1,32 @@
+number,player,position,club,verified_via,note
+1,Neuer,GK,Bayern Munich,wiki_neuer_page,Manuel Neuer 2024/08 退出国家队 2026/05/21 复出回归 队史 GK
+2,Rüdiger,DF,Real Madrid,wiki_rudiger_page,Antonio Rüdiger 2025-26 18 联赛 1 球 26 总 1 国家队
+3,Anton,DF,⚠️ unverified,wiki_wirtz_squad_list,Waldemar Anton 估计 Dortmund 未独立核对
+4,Tah,DF,Bayern Munich,wiki_tah_page,Jonathan Tah 2025/05/29 自勒沃库森加盟 约 €800k 提前解约费 非完全自由身
+5,Pavlović,MF,Bayern Munich,wiki_pavlovic_page,Aleksandar Pavlović #45 拜仁
+6,Kimmich (c),MF,Bayern Munich,wiki_kimmich_page,Joshua Kimmich 队长 2024/09 起 合同至 2029
+7,Havertz,FW,Arsenal,wiki_havertz_page,Kai Havertz 2025-26 季初膝伤数月 5/30 欧冠决赛输 PSG
+8,Goretzka,MF,Bayern Munich,wiki_goretzka_page,Leon Goretzka 2025-26 季末合同到期 离队
+9,Leweling,FW/MF,⚠️ unverified,wiki_wirtz_squad_list,大概率 Jamie Leweling Stuttgart 未独立核对
+10,Musiala,FW,Bayern Munich,wiki_musiala_page,Jamal Musiala 2025/07 世俱杯腓骨骨折+踝脱臼伤停 196 天 2026/01/17 复出 全季 5 球 24 场
+11,Woltemade,FW,⚠️ unverified,wiki_wirtz_squad_list,Nick Woltemade 大概率 Stuttgart 或新转会 未独立核对
+12,Baumann,GK,1899 Hoffenheim,wiki_baumann_page,Oliver Baumann 霍芬海姆队长
+13,Groß,MF,Brighton & Hove Albion,wiki_gross_page,Pascal Groß 2026/01/02 自多特蒙德回归布莱顿
+14,Beier,FW,⚠️ unverified,wiki_wirtz_squad_list,Maximilian Beier 大概率 Dortmund 未独立核对
+15,Schlotterbeck,DF,Borussia Dortmund,wiki_schlotterbeck_page,Nico Schlotterbeck 2026/04/10 续约至 2031
+16,Stiller,MF,⚠️ unverified,wiki_wirtz_squad_list,Angelo Stiller 大概率 Stuttgart 未独立核对
+17,Wirtz,MF,Liverpool,wiki_wirtz_page,Florian Wirtz 2025/06/20 自勒沃库森 £100M 加盟 队史纪录 2025-26 49 场 7 球
+18,Brown,DF,⚠️ unverified,wiki_wirtz_squad_list,可能 Jonathan Brown 或 Justin Brown 未独立核对
+19,Sané,FW,Galatasaray,wiki_sane_page,Leroy Sané 2025/06/12 自拜仁加盟签 3 年
+20,Amiri,MF,⚠️ unverified,wiki_wirtz_squad_list,Nadiem Amiri 未独立核对
+21,Nübel,GK,⚠️ unverified,wiki_wirtz_squad_list,Alexander Nübel 拜仁租出可能仍在 Stuttgart 未独立核对
+22,Raum,DF,RB Leipzig,wiki_raum_page,David Raum 莱比锡队长
+23,Nmecha,MF/FW,⚠️ unverified,wiki_wirtz_squad_list,可能 Felix Nmecha 或 Lukas Nmecha 未独立核对
+24,Thiaw,DF,⚠️ unverified,wiki_wirtz_squad_list,Malick Thiaw 大概率 AC Milan 未独立核对
+25,Karl,FW,⚠️ unverified,wiki_wirtz_squad_list,Paul Wanner 或新秀 未独立核对
+26,Undav,FW,⚠️ unverified,wiki_wirtz_squad_list,Deniz Undav 大概率 Stuttgart 未独立核对
+
+# 数据来源：Wikipedia Florian Wirtz 个人页 "Germany squad – 2026 FIFA World Cup" 模板（完整 26 人编号+姓氏）。
+# 教练 Julian Nagelsmann (2023/09 至今)，于 2026/05/21 公布 26 人。
+# 关键核对球员（#1, 2, 4-8, 10, 12, 13, 15, 17, 19, 22）已 Wikipedia 个人页交叉核对。
+# 落选名单（前文 .md 提及但未入 26 人）：Marc-André ter Stegen (Girona loan 三号门将)、Niclas Füllkrug (AC Milan loan)、Serge Gnabry (内收肌撕裂赛季报销)、Karim Adeyemi (Dortmund 未入 26 人)、Tim Kleindienst、Maximilian Mittelstädt、Robert Andrich。

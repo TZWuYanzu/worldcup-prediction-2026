@@ -1,0 +1,113 @@
+{
+  "matchId": 68,
+  "fifaMatchId": "400021510",
+  "fetchTime": "2026-06-23 17:40:47",
+  "home": "Ghana",
+  "away": "Panama",
+  "score": "1-0",
+  "date": "2026-06-17",
+  "venue": "Toronto Stadium",
+  "attendance": "42942",
+  "tactics": {
+    "home": "4-1-2-3",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        0,
+        8
+      ],
+      "away": [
+        3,
+        8
+      ]
+    },
+    "corners": {
+      "home": 2,
+      "away": 2
+    },
+    "fouls": {
+      "home": 8,
+      "away": 9
+    },
+    "offsides": {
+      "home": 4,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "90'+5'",
+      "side": "home",
+      "desc": "Caleb YIRENKYI (Ghana) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Benjamin ASARE (in) comes off the bench to replace Lawrence Ati ZIGI (out) (Ghana)"
+    },
+    {
+      "minute": "58'",
+      "side": "home",
+      "desc": "Brandon THOMAS-ASANTE (in) comes off the bench to replace Kamaldeen SULEMANA (out) (Ghana)"
+    },
+    {
+      "minute": "58'",
+      "side": "home",
+      "desc": "Abdul FATAWU (in) comes off the bench to replace Ernest NUAMAH (out) (Ghana)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Jose FAJARDO (in) comes off the bench to replace Cecilio WATERMAN (out) (Panama)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Azarias LONDONO (in) comes off the bench to replace Cristian MARTINEZ (out) (Panama)"
+    },
+    {
+      "minute": "74'",
+      "side": "away",
+      "desc": "Ismael DIAZ (in) comes off the bench to replace Jose Luis RODRIGUEZ (out) (Panama)"
+    },
+    {
+      "minute": "78'",
+      "side": "home",
+      "desc": "Kwasi SIBO (in) comes off the bench to replace Elisha OWUSU (out) (Ghana)"
+    },
+    {
+      "minute": "87'",
+      "side": "home",
+      "desc": "Prince ADU (in) comes off the bench to replace Jordan AYEW (out) (Ghana)"
+    },
+    {
+      "minute": "90'",
+      "side": "away",
+      "desc": "Anibal GODOY (in) comes off the bench to replace Cesar BLACKMAN (out) (Panama)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "16'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Caleb YIRENKYI (Ghana) is booked by the referee."
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Cesar BLACKMAN (Panama) is booked by the referee."
+    },
+    {
+      "minute": "90'+9'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Carlos HARVEY (Panama) is booked by the referee."
+    }
+  ]
+}

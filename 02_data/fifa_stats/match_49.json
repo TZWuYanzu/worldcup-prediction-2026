@@ -1,0 +1,427 @@
+{
+  "matchId": 49,
+  "fifaMatchId": "400021490",
+  "fetchTime": "2026-06-22 19:32:23",
+  "home": "France",
+  "away": "Senegal",
+  "score": "3-1",
+  "date": "2026-06-16",
+  "venue": "New York/New Jersey Stadium",
+  "attendance": "80545",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-3-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        1,
+        10
+      ],
+      "away": [
+        5,
+        1
+      ]
+    },
+    "corners": {
+      "home": 6,
+      "away": 4
+    },
+    "fouls": {
+      "home": 5,
+      "away": 9
+    },
+    "offsides": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "goals": [
+    {
+      "minute": "66'",
+      "side": "home",
+      "desc": "Kylian MBAPPE (France) scores!!"
+    },
+    {
+      "minute": "82'",
+      "side": "home",
+      "desc": "Bradley BARCOLA (France) scores!!"
+    },
+    {
+      "minute": "90'+5'",
+      "side": "away",
+      "desc": "Ibrahim MBAYE (Senegal) scores!!"
+    },
+    {
+      "minute": "90'+6'",
+      "side": "home",
+      "desc": "Kylian MBAPPE (France) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Ibrahim MBAYE (in) comes off the bench to replace Ismaila SARR (out) (Senegal)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Habib DIARRA (in) comes off the bench to replace Lamine CAMARA (out) (Senegal)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Bradley BARCOLA (in) comes off the bench to replace Ousmane DEMBELE (out) (France)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Bamba DIENG (in) comes off the bench to replace Nicolas JACKSON (out) (Senegal)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Iliman NDIAYE (in) comes off the bench to replace Pape GUEYE (out) (Senegal)"
+    },
+    {
+      "minute": "87'",
+      "side": "home",
+      "desc": "Rayan CHERKI (in) comes off the bench to replace Desire DOUE (out) (France)"
+    },
+    {
+      "minute": "88'",
+      "side": "away",
+      "desc": "Pathe CISS (in) comes off the bench to replace Idrissa Gana GUEYE (out) (Senegal)"
+    }
+  ],
+  "bookings": [],
+  "lineup": {
+    "home": {
+      "tactics": "4-2-3-1",
+      "starters": [
+        {
+          "name": "Mike MAIGNAN",
+          "number": 16,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Dayot UPAMECANO",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jules KOUNDE",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "William SALIBA",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Theo HERNANDEZ",
+          "number": 19,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Aurelien TCHOUAMENI",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Adrien RABIOT",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ousmane DEMBELE",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Kylian MBAPPE",
+          "number": 10,
+          "position": "FW",
+          "captain": true
+        },
+        {
+          "name": "Michael OLISE",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Desire DOUE",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Brice SAMBA",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Malo GUSTO",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Lucas DIGNE",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Manu KONE",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Marcus THURAM",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Bradley BARCOLA",
+          "number": 12,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Ngolo KANTE",
+          "number": 13,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ibrahima KONATE",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Warren ZAIRE-EMERY",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Lucas HERNANDEZ",
+          "number": 21,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jean-Philippe MATETA",
+          "number": 22,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Robin RISSER",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Rayan CHERKI",
+          "number": 24,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Maghnes AKLIOUCHE",
+          "number": 25,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Maxence LACROIX",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-3-3",
+      "starters": [
+        {
+          "name": "Edouard MENDY",
+          "number": 16,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Kalidou KOULIBALY",
+          "number": 3,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "Krepin DIATTA",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Moussa NIAKHATE",
+          "number": 19,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "El Hadji Malick DIOUF",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Idrissa Gana GUEYE",
+          "number": 5,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Lamine CAMARA",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Pape GUEYE",
+          "number": 26,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Sadio MANE",
+          "number": 10,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Nicolas JACKSON",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Ismaila SARR",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Yehvann DIOUF",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Mamadou SARR",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Abdoulaye SECK",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Pathe CISS",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Assane DIAO",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Bamba DIENG",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Cherif NDIAYE",
+          "number": 12,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Iliman NDIAYE",
+          "number": 13,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Ismail JAKOBS",
+          "number": 14,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Pape Matar SARR",
+          "number": 17,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ibrahim MBAYE",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Habib DIARRA",
+          "number": 21,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Bara Sapoko NDIAYE",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Mory DIAW",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Antoine MENDY",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

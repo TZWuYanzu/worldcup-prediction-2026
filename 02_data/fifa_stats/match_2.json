@@ -1,0 +1,111 @@
+{
+  "matchId": 2,
+  "fifaMatchId": "400021441",
+  "fetchTime": "2026-06-24 19:38:42",
+  "home": "South Korea",
+  "away": "Czech Republic",
+  "score": "2-1",
+  "date": "2026-06-12",
+  "venue": "Guadalajara Stadium",
+  "attendance": "44985",
+  "tactics": {
+    "home": "3-4-3",
+    "away": "5-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        8,
+        7
+      ],
+      "away": [
+        2,
+        5
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 5
+    },
+    "fouls": {
+      "home": 8,
+      "away": 16
+    },
+    "offsides": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  "goals": [
+    {
+      "minute": "59'",
+      "side": "away",
+      "desc": "Ladislav KREJCI (Czechia) scores!!"
+    },
+    {
+      "minute": "67'",
+      "side": "home",
+      "desc": "HWANG Inbeom (Korea Republic) scores!!"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "OH Hyeongyu (Korea Republic) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "62'",
+      "side": "home",
+      "desc": "HWANG Heechan (in) comes off the bench to replace LEE Jaesung (out) (Korea Republic)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Adam HLOZEK (in) comes off the bench to replace Pavel SULC (out) (Czechia)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Tomas CHORY (in) comes off the bench to replace Patrik SCHICK (out) (Czechia)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Michal SADILEK (in) comes off the bench to replace Lukas PROVOD (out) (Czechia)"
+    },
+    {
+      "minute": "69'",
+      "side": "home",
+      "desc": "OH Hyeongyu (in) comes off the bench to replace SON Heungmin (out) (Korea Republic)"
+    },
+    {
+      "minute": "69'",
+      "side": "home",
+      "desc": "EOM Jisung (in) comes off the bench to replace LEE Taeseok (out) (Korea Republic)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "KIM Jingyu (in) comes off the bench to replace HWANG Inbeom (out) (Korea Republic)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "PARK Jinseob (in) comes off the bench to replace PAIK Seungho (out) (Korea Republic)"
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "desc": "Mojmir CHYTIL (in) comes off the bench to replace Alexandr SOJKA (out) (Czechia)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "90'+6'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "LEE Gihyuk (Korea Republic) is booked by the referee."
+    }
+  ]
+}

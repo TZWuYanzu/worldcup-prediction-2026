@@ -1,0 +1,33 @@
+number,player,position,club,verified_via,note
+1,David Raya,GK,Arsenal,wiki_squads_section_39,DOB 1995-09-15 / 12 caps
+2,Marc Pubill,DF,Atlético Madrid,wiki_squads_section_39,DOB 2003-06-20 / 0 caps (newcomer)
+3,Álex Grimaldo,DF,Bayer Leverkusen,wiki_squads_section_39,DOB 1995-09-20 / 12 caps
+4,Eric García,DF,Barcelona,wiki_squads_section_39,DOB 2001-01-09 / 19 caps
+5,Marcos Llorente,DF,Atlético Madrid,wiki_squads_section_39,DOB 1995-01-30 / 23 caps
+6,Mikel Merino,MF,Arsenal,wiki_squads_section_39 + player_page,DOB 1996-06-22 / 41 caps / 10 goals
+7,Ferran Torres,FW,Barcelona,wiki_squads_section_39,DOB 2000-02-29 / 55 caps / 23 goals
+8,Fabián Ruiz,MF,Paris Saint-Germain,wiki_squads_section_39 + player_page,DOB 1996-04-03 / 41 caps / 6 goals
+9,Gavi,MF,Barcelona,wiki_squads_section_39,DOB 2004-08-05 / 28 caps / 5 goals
+10,Dani Olmo,FW,Barcelona,wiki_squads_section_39,DOB 1998-05-07 / 48 caps / 12 goals
+11,Yéremy Pino,FW,Crystal Palace,wiki_squads_section_39,DOB 2002-10-20 / 21 caps - moved from Villarreal
+12,Pedro Porro,DF,Tottenham Hotspur,wiki_squads_section_39,DOB 1999-09-13 / 16 caps
+13,Joan Garcia,GK,Barcelona,wiki_squads_section_39,DOB 2001-05-04 / 1 cap
+14,Aymeric Laporte,DF,Athletic Bilbao,wiki_squads_section_39 + player_page,DOB 1994-05-27 / 44 caps - rejoined 2025-09-11 from Al-Nassr €10M after FIFA ITC appeal
+15,Álex Baena,MF,Atlético Madrid,wiki_squads_section_39,DOB 2001-07-20 / 15 caps
+16,Rodri (c),MF,Manchester City,wiki_squads_section_39 + player_page,DOB 1996-06-22 / 61 caps - CAPTAIN / 2024 Ballon d'Or
+17,Nico Williams,FW,Athletic Bilbao,wiki_squads_section_39 + player_page,DOB 2002-07-12 / 30 caps - renewed 10y to 2035 on 2025-07-04 (did NOT move to Barça)
+18,Martín Zubimendi,MF,Arsenal,wiki_squads_section_39,DOB 1999-02-02 / 25 caps - moved from Real Sociedad
+19,Lamine Yamal,FW,Barcelona,wiki_squads_section_39 + player_page,DOB 2007-07-13 / 25 caps - 2025 Ballon d'Or runner-up; hamstring tear 2026-04-22 still expected in squad
+20,Pedri,MF,Barcelona,wiki_squads_section_39 + player_page,DOB 2002-11-25 / 40 caps / 5 goals
+21,Mikel Oyarzabal,FW,Real Sociedad,wiki_squads_section_39 + player_page,DOB 1997-04-21 / 52 caps / 24 goals - Real Sociedad captain
+22,Pau Cubarsí,DF,Barcelona,wiki_squads_section_39 + player_page,DOB 2007-01-22 / 11 caps - selection announced 2026-05-25
+23,Unai Simón,GK,Athletic Bilbao,wiki_squads_section_39 + player_page,DOB 1997-06-11 / 57 caps
+24,Marc Cucurella,DF,Chelsea,wiki_squads_section_39 + player_page,DOB 1998-07-22 / 23 caps / 1 goal
+25,Víctor Muñoz,FW,Osasuna,wiki_squads_section_39,DOB 2003-07-13 / 2 caps (newcomer)
+26,Borja Iglesias,FW,Celta Vigo,wiki_squads_section_39,DOB 1993-01-17 / 6 caps
+
+# 数据来源：Wikipedia 2026 FIFA World Cup squads 页 section=39 (Spain)，并对核心 11 人逐一打开个人 Wiki 页交叉核对俱乐部、位置、转会日期、伤情。
+# 主帅：Luis de la Fuente。队长：Rodri (#16)。
+# NOT in squad (原稿误列): Dani Carvajal (Real Madrid, ACL复出但未入选), Robin Le Normand (Atlético Madrid, 未入选), Dani Vivian, Álvaro Morata, Joselu.
+# 核心 11 全部经个人 Wiki 页核对；其余 15 人仅通过 squads 页核对 (足够可信)。
+# 抓取日期：2026/06/04

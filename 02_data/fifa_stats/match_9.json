@@ -1,0 +1,139 @@
+{
+  "matchId": 9,
+  "fifaMatchId": "400021446",
+  "fetchTime": "2026-06-24 17:20:28",
+  "home": "Switzerland",
+  "away": "Bosnia and Herzegovina",
+  "score": "4-1",
+  "date": "2026-06-18",
+  "venue": "Los Angeles Stadium",
+  "attendance": "70026",
+  "tactics": {
+    "home": "4-3-3",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        9
+      ],
+      "away": [
+        3,
+        2
+      ]
+    },
+    "corners": {
+      "home": 7,
+      "away": 3
+    },
+    "fouls": {
+      "home": 6,
+      "away": 15
+    },
+    "offsides": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "74'",
+      "side": "home",
+      "desc": "Johan MANZAMBI (Switzerland) scores!!"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Ruben VARGAS (Switzerland) scores!!"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Johan MANZAMBI (Switzerland) scores!!"
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "desc": "Ermin MAHMIC (Bosnia and Herzegovina) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Ivan BASIC (in) comes off the bench to replace Benjamin TAHIROVIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Esmir BAJRAKTAREVIC (in) comes off the bench to replace Edin DZEKO (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Johan MANZAMBI (in) comes off the bench to replace Dan NDOYE (out) (Switzerland)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Djibril SOW (in) comes off the bench to replace Michel AEBISCHER (out) (Switzerland)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Ruben VARGAS (in) comes off the bench to replace Fabian RIEDER (out) (Switzerland)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Amir HADZIAHMETOVIC (in) comes off the bench to replace Ivan SUNJIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Jovo LUKIC (in) comes off the bench to replace Ermedin DEMIROVIC (out) (Bosnia and Herzegovina)"
+    },
+    {
+      "minute": "86'",
+      "side": "home",
+      "desc": "Luca JAQUEZ (in) comes off the bench to replace Silvan WIDMER (out) (Switzerland)"
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "desc": "Cedric ITTEN (in) comes off the bench to replace Breel EMBOLO (out) (Switzerland)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "away",
+      "desc": "Ermin MAHMIC (in) comes off the bench to replace Kerim ALAJBEGOVIC (out) (Bosnia and Herzegovina)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "59'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Amar DEDIC (Bosnia and Herzegovina) is booked by the referee."
+    },
+    {
+      "minute": "61'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Edin DZEKO (Bosnia and Herzegovina) is booked by the referee."
+    },
+    {
+      "minute": "65'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Nico ELVEDI (Switzerland) is booked by the referee."
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "card": "red",
+      "desc": "Tarik MUHAREMOVIC (Bosnia and Herzegovina) is sent off!"
+    }
+  ]
+}

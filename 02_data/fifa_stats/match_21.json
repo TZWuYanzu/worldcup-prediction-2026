@@ -1,0 +1,147 @@
+{
+  "matchId": 21,
+  "fifaMatchId": "400021462",
+  "fetchTime": "2026-06-25 20:06:05",
+  "home": "United States",
+  "away": "Australia",
+  "score": "2-0",
+  "date": "2026-06-19",
+  "venue": "Seattle Stadium",
+  "attendance": "66925",
+  "tactics": {
+    "home": "3-5-2",
+    "away": "5-4-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        9,
+        1
+      ],
+      "away": [
+        2,
+        3
+      ]
+    },
+    "corners": {
+      "home": 7,
+      "away": 4
+    },
+    "fouls": {
+      "home": 11,
+      "away": 14
+    },
+    "offsides": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "11'",
+      "side": "away",
+      "desc": "Cameron BURGESS (Australia) scores an own goal."
+    },
+    {
+      "minute": "43'",
+      "side": "home",
+      "desc": "Alex FREEMAN (USA) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Jason GERIA (in) comes off the bench to replace Cameron BURGESS (out) (Australia)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Connor METCALFE (in) comes off the bench to replace Nishan VELUPILLAY (out) (Australia)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Nestory IRANKUNDA (in) comes off the bench to replace Mohamed TOURE (out) (Australia)"
+    },
+    {
+      "minute": "61'",
+      "side": "away",
+      "desc": "Cristian VOLPATO (in) comes off the bench to replace Mathew LECKIE (out) (Australia)"
+    },
+    {
+      "minute": "74'",
+      "side": "home",
+      "desc": "Sebastian BERHALTER (in) comes off the bench to replace Ricardo PEPI (out) (USA)"
+    },
+    {
+      "minute": "78'",
+      "side": "away",
+      "desc": "Jackson IRVINE (in) comes off the bench to replace Paul OKON-ENGSTLER (out) (Australia)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Joe SCALLY (in) comes off the bench to replace Sergino DEST (out) (USA)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Auston TRUSTY (in) comes off the bench to replace Antonee ROBINSON (out) (USA)"
+    },
+    {
+      "minute": "90'+6'",
+      "side": "home",
+      "desc": "Haji WRIGHT (in) comes off the bench to replace Folarin BALOGUN (out) (USA)"
+    },
+    {
+      "minute": "90'+6'",
+      "side": "home",
+      "desc": "Giovanni REYNA (in) comes off the bench to replace Weston McKENNIE (out) (USA)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "16'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Jordan BOS (Australia) is booked by the referee."
+    },
+    {
+      "minute": "32'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Alessandro CIRCATI (Australia) is booked by the referee."
+    },
+    {
+      "minute": "56'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Antonee ROBINSON (USA) is booked by the referee."
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Folarin BALOGUN (USA) is booked by the referee."
+    },
+    {
+      "minute": "89'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Jacob ITALIANO (Australia) is booked by the referee."
+    },
+    {
+      "minute": "89'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Harry SOUTTAR (Australia) is booked by the referee."
+    },
+    {
+      "minute": "90'+3'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Chris RICHARDS (USA) is booked by the referee."
+    }
+  ]
+}

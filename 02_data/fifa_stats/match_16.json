@@ -1,0 +1,134 @@
+{
+  "matchId": 16,
+  "fifaMatchId": "400021457",
+  "fetchTime": "2026-06-24 17:20:58",
+  "home": "Brazil",
+  "away": "Haiti",
+  "score": "3-0",
+  "date": "2026-06-20",
+  "venue": "Philadelphia Stadium",
+  "attendance": "68324",
+  "tactics": {
+    "home": "4-3-3",
+    "away": "5-4-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        5,
+        2
+      ],
+      "away": [
+        0,
+        7
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 4
+    },
+    "fouls": {
+      "home": 12,
+      "away": 11
+    },
+    "offsides": {
+      "home": 8,
+      "away": 4
+    }
+  },
+  "goals": [
+    {
+      "minute": "23'",
+      "side": "home",
+      "desc": "MATHEUS CUNHA (Brazil) scores!!"
+    },
+    {
+      "minute": "36'",
+      "side": "home",
+      "desc": "MATHEUS CUNHA (Brazil) scores!!"
+    },
+    {
+      "minute": "45'+3'",
+      "side": "home",
+      "desc": "VINICIUS JUNIOR (Brazil) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "40'",
+      "side": "home",
+      "desc": "RAYAN (in) comes off the bench to replace RAPHINHA (out) (Brazil)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Dominique SIMON (in) comes off the bench to replace Carlens ARCUS (out) (Haiti)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Wilson ISIDOR (in) comes off the bench to replace Frantzdy PIERROT (out) (Haiti)"
+    },
+    {
+      "minute": "62'",
+      "side": "away",
+      "desc": "Louicius DEEDSON (in) comes off the bench to replace Josue CASIMIR (out) (Haiti)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "ENDRICK (in) comes off the bench to replace MATHEUS CUNHA (out) (Brazil)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "GABRIEL MARTINELLI (in) comes off the bench to replace LUCAS PAQUETA (out) (Brazil)"
+    },
+    {
+      "minute": "71'",
+      "side": "away",
+      "desc": "Lenny JOSEPH (in) comes off the bench to replace Ruben PROVIDENCE (out) (Haiti)"
+    },
+    {
+      "minute": "81'",
+      "side": "home",
+      "desc": "DANILO SANTOS (in) comes off the bench to replace VINICIUS JUNIOR (out) (Brazil)"
+    },
+    {
+      "minute": "81'",
+      "side": "home",
+      "desc": "EDERSON SILVA (in) comes off the bench to replace BRUNO GUIMARAES (out) (Brazil)"
+    },
+    {
+      "minute": "81'",
+      "side": "away",
+      "desc": "Derrick ETIENNE (in) comes off the bench to replace Jean-Ricner BELLEGARDE (out) (Haiti)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "4'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Carlens ARCUS (Haiti) is booked by the referee."
+    },
+    {
+      "minute": "45'+4'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Frantzdy PIERROT (Haiti) is booked by the referee."
+    },
+    {
+      "minute": "65'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "DOUGLAS SANTOS (Brazil) is booked by the referee."
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Danley JEAN JACQUES (Haiti) is booked by the referee."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "matchId": 26,
+  "fifaMatchId": "400021467",
+  "fetchTime": "2026-06-25 20:06:11",
+  "home": "Ivory Coast",
+  "away": "Ecuador",
+  "score": "1-0",
+  "date": "2026-06-14",
+  "venue": "Philadelphia Stadium",
+  "attendance": "68274",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        6,
+        9
+      ],
+      "away": [
+        6,
+        6
+      ]
+    },
+    "corners": {
+      "home": 3,
+      "away": 5
+    },
+    "fouls": {
+      "home": 7,
+      "away": 12
+    },
+    "offsides": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Amad DIALLO (Côte d'Ivoire) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "56'",
+      "side": "away",
+      "desc": "Nilson ANGULO (in) comes off the bench to replace Alan MINDA (out) (Ecuador)"
+    },
+    {
+      "minute": "56'",
+      "side": "home",
+      "desc": "Ange-Yoan BONNY (in) comes off the bench to replace Elye WAHI (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "56'",
+      "side": "home",
+      "desc": "Amad DIALLO (in) comes off the bench to replace Bazoumana TOURE (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "62'",
+      "side": "away",
+      "desc": "Angelo PRECIADO (in) comes off the bench to replace John YEBOAH (out) (Ecuador)"
+    },
+    {
+      "minute": "62'",
+      "side": "away",
+      "desc": "Jackson POROZO (in) comes off the bench to replace Alan FRANCO (out) (Ecuador)"
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "desc": "Ibrahim SANGARE (in) comes off the bench to replace Seko FOFANA (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "desc": "Christ Inao OULAI (in) comes off the bench to replace Nicolas PEPE (out) (Côte d'Ivoire)"
+    },
+    {
+      "minute": "77'",
+      "side": "away",
+      "desc": "Kevin RODRIGUEZ (in) comes off the bench to replace Enner VALENCIA (out) (Ecuador)"
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "desc": "Odilon KOSSOUNOU (in) comes off the bench to replace Guela DOUE (out) (Côte d'Ivoire)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "28'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Seko FOFANA (Côte d'Ivoire) is booked by the referee."
+    },
+    {
+      "minute": "38'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Franck KESSIE (Côte d'Ivoire) is booked by the referee."
+    },
+    {
+      "minute": "40'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Guela DOUE (Côte d'Ivoire) is booked by the referee."
+    },
+    {
+      "minute": "73'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Jackson POROZO (Ecuador) is booked by the referee."
+    }
+  ]
+}

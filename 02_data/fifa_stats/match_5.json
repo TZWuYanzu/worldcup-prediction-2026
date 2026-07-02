@@ -1,0 +1,116 @@
+{
+  "matchId": 5,
+  "fifaMatchId": "400021444",
+  "fetchTime": "2026-06-25 16:20:57",
+  "home": "Czech Republic",
+  "away": "Mexico",
+  "score": "0-3",
+  "date": "2026-06-25",
+  "venue": "Mexico City Stadium",
+  "attendance": "80824",
+  "tactics": {
+    "home": "5-2-3",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        6,
+        7
+      ],
+      "away": [
+        5,
+        6
+      ]
+    },
+    "corners": {
+      "home": 5,
+      "away": 1
+    },
+    "fouls": {
+      "home": 9,
+      "away": 12
+    },
+    "offsides": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "55'",
+      "side": "away",
+      "desc": "Mateo CHAVEZ (Mexico) scores!!"
+    },
+    {
+      "minute": "61'",
+      "side": "away",
+      "desc": "Julian QUINONES (Mexico) scores!!"
+    },
+    {
+      "minute": "90'+4'",
+      "side": "away",
+      "desc": "Alvaro FIDALGO (Mexico) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "56'",
+      "side": "home",
+      "desc": "Lukas PROVOD (in) comes off the bench to replace Denis VISINSKY (out) (Czechia)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Santiago GIMENEZ (in) comes off the bench to replace Guillermo MARTINEZ (out) (Mexico)"
+    },
+    {
+      "minute": "63'",
+      "side": "away",
+      "desc": "Obed VARGAS (in) comes off the bench to replace Luis ROMO (out) (Mexico)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Tomas SOUCEK (in) comes off the bench to replace Tomas HOLES (out) (Czechia)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Patrik SCHICK (in) comes off the bench to replace Adam HLOZEK (out) (Czechia)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Alvaro FIDALGO (in) comes off the bench to replace Gilberto MORA (out) (Mexico)"
+    },
+    {
+      "minute": "78'",
+      "side": "away",
+      "desc": "Guillermo OCHOA (in) comes off the bench to replace Raul RANGEL (out) (Mexico)"
+    },
+    {
+      "minute": "78'",
+      "side": "away",
+      "desc": "Jesus GALLARDO (in) comes off the bench to replace Mateo CHAVEZ (out) (Mexico)"
+    },
+    {
+      "minute": "87'",
+      "side": "home",
+      "desc": "Tomas CHORY (in) comes off the bench to replace Lukas CERV (out) (Czechia)"
+    },
+    {
+      "minute": "87'",
+      "side": "home",
+      "desc": "Alexandr SOJKA (in) comes off the bench to replace Tomas SOUCEK (out) (Czechia)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "63'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Edson ALVAREZ (Mexico) is booked by the referee."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "matchId": 15,
+  "fifaMatchId": "400021454",
+  "fetchTime": "2026-06-24 17:20:55",
+  "home": "Scotland",
+  "away": "Morocco",
+  "score": "0-1",
+  "date": "2026-06-19",
+  "venue": "Boston Stadium",
+  "attendance": "64146",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-2-3-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        2,
+        4
+      ],
+      "away": [
+        5,
+        7
+      ]
+    },
+    "corners": {
+      "home": 2,
+      "away": 5
+    },
+    "fouls": {
+      "home": 10,
+      "away": 7
+    },
+    "offsides": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "2'",
+      "side": "away",
+      "desc": "Ismael SAIBARI (Morocco) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "Ben GANNON-DOAK (in) comes off the bench to replace Kieran TIERNEY (out) (Scotland)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Lyndon DYKES (in) comes off the bench to replace Che ADAMS (out) (Scotland)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Kenny McLEAN (in) comes off the bench to replace Ryan CHRISTIE (out) (Scotland)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Soufiane RAHIMI (in) comes off the bench to replace Ismael SAIBARI (out) (Morocco)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Chemsdine TALBI (in) comes off the bench to replace Bilal EL KHANNOUSS (out) (Morocco)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Ayoube AMAIMOUNI (in) comes off the bench to replace Brahim DIAZ (out) (Morocco)"
+    },
+    {
+      "minute": "88'",
+      "side": "home",
+      "desc": "Anthony RALSTON (in) comes off the bench to replace Nathan PATTERSON (out) (Scotland)"
+    },
+    {
+      "minute": "88'",
+      "side": "home",
+      "desc": "Ross STEWART (in) comes off the bench to replace John McGINN (out) (Scotland)"
+    },
+    {
+      "minute": "90'",
+      "side": "away",
+      "desc": "Samir EL MOURABET (in) comes off the bench to replace Azzedine OUNAHI (out) (Morocco)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "22'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Issa DIOP (Morocco) is booked by the referee."
+    },
+    {
+      "minute": "65'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Andy ROBERTSON (Scotland) is booked by the referee."
+    }
+  ]
+}

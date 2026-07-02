@@ -1,0 +1,119 @@
+{
+  "matchId": 67,
+  "fifaMatchId": "400021507",
+  "fetchTime": "2026-06-23 17:40:38",
+  "home": "England",
+  "away": "Croatia",
+  "score": "4-2",
+  "date": "2026-06-17",
+  "venue": "Dallas Stadium",
+  "attendance": "70389",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        9,
+        13
+      ],
+      "away": [
+        4,
+        6
+      ]
+    },
+    "corners": {
+      "home": 8,
+      "away": 2
+    },
+    "fouls": {
+      "home": 10,
+      "away": 12
+    },
+    "offsides": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "36'",
+      "side": "away",
+      "desc": "Martin BATURINA (Croatia) scores!!"
+    },
+    {
+      "minute": "42'",
+      "side": "home",
+      "desc": "Harry KANE (England) scores!!"
+    },
+    {
+      "minute": "45'+5'",
+      "side": "away",
+      "desc": "Petar MUSA (Croatia) scores!!"
+    },
+    {
+      "minute": "47'",
+      "side": "home",
+      "desc": "Jude BELLINGHAM (England) scores!!"
+    },
+    {
+      "minute": "85'",
+      "side": "home",
+      "desc": "Marcus RASHFORD (England) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "58'",
+      "side": "away",
+      "desc": "Mateo KOVACIC (in) comes off the bench to replace Luka MODRIC (out) (Croatia)"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "Igor MATANOVIC (in) comes off the bench to replace Petar MUSA (out) (Croatia)"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "Marco PASALIC (in) comes off the bench to replace Luka VUSKOVIC (out) (Croatia)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Morgan ROGERS (in) comes off the bench to replace Declan RICE (out) (England)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Bukayo SAKA (in) comes off the bench to replace Noni MADUEKE (out) (England)"
+    },
+    {
+      "minute": "72'",
+      "side": "home",
+      "desc": "Marcus RASHFORD (in) comes off the bench to replace Anthony GORDON (out) (England)"
+    },
+    {
+      "minute": "78'",
+      "side": "away",
+      "desc": "Andrej KRAMARIC (in) comes off the bench to replace Mario PASALIC (out) (Croatia)"
+    },
+    {
+      "minute": "78'",
+      "side": "away",
+      "desc": "Nikola VLASIC (in) comes off the bench to replace Martin BATURINA (out) (Croatia)"
+    },
+    {
+      "minute": "79'",
+      "side": "home",
+      "desc": "Djed SPENCE (in) comes off the bench to replace Jude BELLINGHAM (out) (England)"
+    },
+    {
+      "minute": "87'",
+      "side": "home",
+      "desc": "Marc GUEHI (in) comes off the bench to replace John STONES (out) (England)"
+    }
+  ],
+  "bookings": []
+}

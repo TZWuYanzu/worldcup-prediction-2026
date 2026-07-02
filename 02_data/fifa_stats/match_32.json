@@ -1,0 +1,131 @@
+{
+  "matchId": 32,
+  "fifaMatchId": "400021474",
+  "fetchTime": "2026-06-25 20:06:47",
+  "home": "Sweden",
+  "away": "Tunisia",
+  "score": "5-1",
+  "date": "2026-06-15",
+  "venue": "Monterrey Stadium",
+  "attendance": "50987",
+  "tactics": {
+    "home": "3-4-1-2",
+    "away": "5-3-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        5,
+        8
+      ],
+      "away": [
+        3,
+        3
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 2
+    },
+    "fouls": {
+      "home": 10,
+      "away": 8
+    },
+    "offsides": {
+      "home": 3,
+      "away": 6
+    }
+  },
+  "goals": [
+    {
+      "minute": "7'",
+      "side": "home",
+      "desc": "Yasin AYARI (Sweden) scores!!"
+    },
+    {
+      "minute": "30'",
+      "side": "home",
+      "desc": "Alexander ISAK (Sweden) scores!!"
+    },
+    {
+      "minute": "43'",
+      "side": "away",
+      "desc": "Omar REKIK (Tunisia) scores!!"
+    },
+    {
+      "minute": "59'",
+      "side": "home",
+      "desc": "Viktor GYOKERES (Sweden) scores!!"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Mattias SVANBERG (Sweden) scores!!"
+    },
+    {
+      "minute": "90'+6'",
+      "side": "home",
+      "desc": "Yasin AYARI (Sweden) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Lucas BERGVALL (in) comes off the bench to replace Benjamin NYGREN (out) (Sweden)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Elliot STROUD (in) comes off the bench to replace Gabriel GUDMUNDSSON (out) (Sweden)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Elias ACHOURI (in) comes off the bench to replace Ellyes SKHIRI (out) (Tunisia)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Mohamed HADJ MAHMOUD (in) comes off the bench to replace Yan VALERY (out) (Tunisia)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Sebastian TOUNEKTI (in) comes off the bench to replace Elias SAAD (out) (Tunisia)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Mattias SVANBERG (in) comes off the bench to replace Jesper KARLSTROM (out) (Sweden)"
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "desc": "Firas CHAOUAT (in) comes off the bench to replace Anis SLIMANE (out) (Tunisia)"
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "desc": "Ismael GHARBI (in) comes off the bench to replace Rani KHEDIRA (out) (Tunisia)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Anthony ELANGA (in) comes off the bench to replace Alexander ISAK (out) (Sweden)"
+    },
+    {
+      "minute": "90'",
+      "side": "home",
+      "desc": "Daniel SVENSSON (in) comes off the bench to replace Alexander BERNHARDSSON (out) (Sweden)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "54'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Rani KHEDIRA (Tunisia) is booked by the referee."
+    }
+  ]
+}

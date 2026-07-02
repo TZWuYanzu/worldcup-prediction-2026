@@ -1,0 +1,427 @@
+{
+  "matchId": 44,
+  "fifaMatchId": "400021486",
+  "fetchTime": "2026-06-24 02:12:06",
+  "home": "Saudi Arabia",
+  "away": "Uruguay",
+  "score": "1-1",
+  "date": "2026-06-15",
+  "venue": "Miami Stadium",
+  "attendance": "62764",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        5,
+        2
+      ],
+      "away": [
+        5,
+        22
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 14
+    },
+    "fouls": {
+      "home": 10,
+      "away": 6
+    },
+    "offsides": {
+      "home": 0,
+      "away": 6
+    }
+  },
+  "goals": [
+    {
+      "minute": "41'",
+      "side": "home",
+      "desc": "ABDULELAH ALAMRI (Saudi Arabia) scores!!"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "Maxi ARAUJO (Uruguay) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Agustin CANOBBIO (in) comes off the bench to replace Darwin NUNEZ (out) (Uruguay)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Juan Manuel SANABRIA (in) comes off the bench to replace Matias VINA (out) (Uruguay)"
+    },
+    {
+      "minute": "63'",
+      "side": "home",
+      "desc": "NASSER ALDAWSARI (in) comes off the bench to replace MUSAB ALJUWAYR (out) (Saudi Arabia)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Nicolas DE LA CRUZ (in) comes off the bench to replace Manuel UGARTE (out) (Uruguay)"
+    },
+    {
+      "minute": "81'",
+      "side": "away",
+      "desc": "Brian RODRIGUEZ (in) comes off the bench to replace Maxi ARAUJO (out) (Uruguay)"
+    },
+    {
+      "minute": "81'",
+      "side": "home",
+      "desc": "NAWAF BU WASHL (in) comes off the bench to replace MOHAMMED ABU ALSHAMAT (out) (Saudi Arabia)"
+    },
+    {
+      "minute": "90'",
+      "side": "away",
+      "desc": "Rodrigo AGUIRRE (in) comes off the bench to replace Federico VINAS (out) (Uruguay)"
+    },
+    {
+      "minute": "90'+2'",
+      "side": "home",
+      "desc": "ABDULLAH ALHAMDDAN (in) comes off the bench to replace MOTEB ALHARBI (out) (Saudi Arabia)"
+    },
+    {
+      "minute": "90'+2'",
+      "side": "home",
+      "desc": "ALA ALHAJJI (in) comes off the bench to replace FERAS ALBRIKAN (out) (Saudi Arabia)"
+    },
+    {
+      "minute": "90'+2'",
+      "side": "home",
+      "desc": "ALI LAJAMI (in) comes off the bench to replace SAUD ABDULHAMID (out) (Saudi Arabia)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "44'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "ABDULELAH ALAMRI (Saudi Arabia) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "4-4-2",
+      "starters": [
+        {
+          "name": "MOHAMMED ALOWAIS",
+          "number": 21,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "ABDULELAH ALAMRI",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "HASSAN ALTAMBAKTI",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "SAUD ABDULHAMID",
+          "number": 12,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MOTEB ALHARBI",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MOHAMMED ABU ALSHAMAT",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MUSAB ALJUWAYR",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "ABDULLAH ALKHAIBARI",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "MOHAMED KANNO",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "FERAS ALBRIKAN",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "SALEM ALDAWSARI",
+          "number": 10,
+          "position": "FW",
+          "captain": true
+        }
+      ],
+      "bench": [
+        {
+          "name": "NAWAF ALAQIDI",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "ALI MAJRASHI",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "ALI LAJAMI",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "NASSER ALDAWSARI",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "AIMAN YAHYA",
+          "number": 8,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "SALEH ALSHEHRI",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "NAWAF BU WASHL",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "HASSAN KADISH",
+          "number": 14,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "ZIYAD ALJOHANI",
+          "number": 16,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "KHALID ALGHANNAM",
+          "number": 17,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "ALA ALHAJJI",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "ABDULLAH ALHAMDDAN",
+          "number": 19,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "SULTAN MANDASH",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "AHMED ALKASSAR",
+          "number": 22,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "JEHAD THIKRI",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-4-2",
+      "starters": [
+        {
+          "name": "Fernando MUSLERA",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Sebastian CACERES",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Guillermo VARELA",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Mathias OLIVERA",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Matias VINA",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Manuel UGARTE",
+          "number": 5,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Rodrigo BENTANCUR",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Federico VALVERDE",
+          "number": 8,
+          "position": "MF",
+          "captain": true
+        },
+        {
+          "name": "Maxi ARAUJO",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Darwin NUNEZ",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Federico VINAS",
+          "number": 21,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Sergio ROCHET",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Jose Maria GIMENEZ",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Nicolas DE LA CRUZ",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Facundo PELLISTRI",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Santiago MELE",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Agustin CANOBBIO",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Emiliano MARTINEZ",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Brian RODRIGUEZ",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Rodrigo AGUIRRE",
+          "number": 19,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Joaquin PIQUEREZ",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Santiago BUENO",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Juan Manuel SANABRIA",
+          "number": 25,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Rodrigo ZALAZAR",
+          "number": 26,
+          "position": "MF",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

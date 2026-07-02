@@ -1,0 +1,112 @@
+{
+  "matchId": 39,
+  "fifaMatchId": "400021477",
+  "fetchTime": "2026-06-24 01:18:24",
+  "home": "Belgium",
+  "away": "Iran",
+  "score": "0-0",
+  "date": "2026-06-21",
+  "venue": "Los Angeles Stadium",
+  "attendance": "70317",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "5-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        11,
+        12
+      ],
+      "away": [
+        2,
+        5
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 2
+    },
+    "fouls": {
+      "home": 5,
+      "away": 8
+    },
+    "offsides": {
+      "home": 3,
+      "away": 4
+    }
+  },
+  "goals": [],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Alireza JAHANBAKHSH (in) comes off the bench to replace Saleh HARDANI (out) (IR Iran)"
+    },
+    {
+      "minute": "58'",
+      "side": "home",
+      "desc": "Timothy CASTAGNE (in) comes off the bench to replace Thomas MEUNIER (out) (Belgium)"
+    },
+    {
+      "minute": "58'",
+      "side": "home",
+      "desc": "Hans VANAKEN (in) comes off the bench to replace Nicolas RASKIN (out) (Belgium)"
+    },
+    {
+      "minute": "58'",
+      "side": "home",
+      "desc": "Dodi LUKEBAKIO (in) comes off the bench to replace Alexis SAELEMAEKERS (out) (Belgium)"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "Mehdi TORABI (in) comes off the bench to replace Mohammad MOHEBBI (out) (IR Iran)"
+    },
+    {
+      "minute": "66'",
+      "side": "away",
+      "desc": "Milad MOHAMMADI (in) comes off the bench to replace Ehsan HAJISAFI (out) (IR Iran)"
+    },
+    {
+      "minute": "73'",
+      "side": "home",
+      "desc": "Arthur THEATE (in) comes off the bench to replace Romelu LUKAKU (out) (Belgium)"
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "desc": "Shahriyar MOGHANLOO (in) comes off the bench to replace Saman GHODDOS (out) (IR Iran)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Amirhossein HOSSEINZADEH (in) comes off the bench to replace Saeid EZATOLAHI (out) (IR Iran)"
+    },
+    {
+      "minute": "87'",
+      "side": "home",
+      "desc": "Matias FERNANDEZ-PARDO (in) comes off the bench to replace Kevin DE BRUYNE (out) (Belgium)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "3'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Romelu LUKAKU (Belgium) is booked by the referee."
+    },
+    {
+      "minute": "33'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Saeid EZATOLAHI (IR Iran) is booked by the referee."
+    },
+    {
+      "minute": "66'",
+      "side": "home",
+      "card": "red",
+      "desc": "Nathan NGOY (Belgium) is sent off!"
+    }
+  ]
+}

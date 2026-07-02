@@ -1,0 +1,112 @@
+{
+  "matchId": 4,
+  "fifaMatchId": "400021442",
+  "fetchTime": "2026-06-24 19:38:46",
+  "home": "Mexico",
+  "away": "South Korea",
+  "score": "1-0",
+  "date": "2026-06-19",
+  "venue": "Guadalajara Stadium",
+  "attendance": "45522",
+  "tactics": {
+    "home": "4-1-2-3",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        3,
+        5
+      ],
+      "away": [
+        2,
+        7
+      ]
+    },
+    "corners": {
+      "home": 0,
+      "away": 2
+    },
+    "fouls": {
+      "home": 9,
+      "away": 5
+    },
+    "offsides": {
+      "home": 3,
+      "away": 6
+    }
+  },
+  "goals": [
+    {
+      "minute": "50'",
+      "side": "home",
+      "desc": "Luis ROMO (Mexico) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "57'",
+      "side": "away",
+      "desc": "HWANG Heechan (in) comes off the bench to replace LEE Jaesung (out) (Korea Republic)"
+    },
+    {
+      "minute": "57'",
+      "side": "away",
+      "desc": "OH Hyeongyu (in) comes off the bench to replace SON Heungmin (out) (Korea Republic)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Obed VARGAS (in) comes off the bench to replace Luis ROMO (out) (Mexico)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Orbelin PINEDA (in) comes off the bench to replace Brian GUTIERREZ (out) (Mexico)"
+    },
+    {
+      "minute": "71'",
+      "side": "away",
+      "desc": "EOM Jisung (in) comes off the bench to replace KIM Moonhwan (out) (Korea Republic)"
+    },
+    {
+      "minute": "71'",
+      "side": "away",
+      "desc": "YANG Hyunjun (in) comes off the bench to replace SEOL Youngwoo (out) (Korea Republic)"
+    },
+    {
+      "minute": "77'",
+      "side": "away",
+      "desc": "CHO Guesung (in) comes off the bench to replace PAIK Seungho (out) (Korea Republic)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Santiago GIMENEZ (in) comes off the bench to replace Raul JIMENEZ (out) (Mexico)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Israel REYES (in) comes off the bench to replace Roberto ALVARADO (out) (Mexico)"
+    },
+    {
+      "minute": "84'",
+      "side": "home",
+      "desc": "Cesar HUERTA (in) comes off the bench to replace Julian QUINONES (out) (Mexico)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "4'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "LEE Kangin (Korea Republic) is booked by the referee."
+    },
+    {
+      "minute": "58'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "PAIK Seungho (Korea Republic) is booked by the referee."
+    }
+  ]
+}

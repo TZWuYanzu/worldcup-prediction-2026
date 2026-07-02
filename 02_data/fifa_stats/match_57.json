@@ -1,0 +1,129 @@
+{
+  "matchId": 57,
+  "fifaMatchId": "400021494",
+  "fetchTime": "2026-06-23 16:42:35",
+  "home": "Argentina",
+  "away": "Austria",
+  "score": "2-0",
+  "date": "2026-06-22",
+  "venue": "Dallas Stadium",
+  "attendance": "70649",
+  "tactics": {
+    "home": "4-1-3-2",
+    "away": "4-2-3-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        3,
+        9
+      ],
+      "away": [
+        2,
+        4
+      ]
+    },
+    "corners": {
+      "home": 1,
+      "away": 3
+    },
+    "fouls": {
+      "home": 12,
+      "away": 12
+    },
+    "offsides": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "38'",
+      "side": "home",
+      "desc": "Lionel MESSI (Argentina) scores!!"
+    },
+    {
+      "minute": "90'+5'",
+      "side": "home",
+      "desc": "Lionel MESSI (Argentina) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "57'",
+      "side": "home",
+      "desc": "Nicolas OTAMENDI (in) comes off the bench to replace Cristian ROMERO (out) (Argentina)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Julian ALVAREZ (in) comes off the bench to replace Thiago ALMADA (out) (Argentina)"
+    },
+    {
+      "minute": "64'",
+      "side": "home",
+      "desc": "Nico GONZALEZ (in) comes off the bench to replace Lautaro MARTINEZ (out) (Argentina)"
+    },
+    {
+      "minute": "67'",
+      "side": "away",
+      "desc": "Marco FRIEDL (in) comes off the bench to replace David ALABA (out) (Austria)"
+    },
+    {
+      "minute": "67'",
+      "side": "away",
+      "desc": "Marko ARNAUTOVIC (in) comes off the bench to replace Paul WANNER (out) (Austria)"
+    },
+    {
+      "minute": "67'",
+      "side": "away",
+      "desc": "Alexander PRASS (in) comes off the bench to replace Stefan POSCH (out) (Austria)"
+    },
+    {
+      "minute": "78'",
+      "side": "away",
+      "desc": "Patrick WIMMER (in) comes off the bench to replace Romano SCHMID (out) (Austria)"
+    },
+    {
+      "minute": "82'",
+      "side": "home",
+      "desc": "Leandro PAREDES (in) comes off the bench to replace Rodrigo DE PAUL (out) (Argentina)"
+    },
+    {
+      "minute": "82'",
+      "side": "home",
+      "desc": "Nicolas TAGLIAFICO (in) comes off the bench to replace Facundo MEDINA (out) (Argentina)"
+    },
+    {
+      "minute": "85'",
+      "side": "away",
+      "desc": "Carney CHUKWUEMEKA (in) comes off the bench to replace Michael GREGORITSCH (out) (Austria)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "40'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Stefan POSCH (Austria) is booked by the referee."
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Konrad LAIMER (Austria) is booked by the referee."
+    },
+    {
+      "minute": "76'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Facundo MEDINA (Argentina) is booked by the referee."
+    },
+    {
+      "minute": "90'+2'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Leandro PAREDES (Argentina) is booked by the referee."
+    }
+  ]
+}

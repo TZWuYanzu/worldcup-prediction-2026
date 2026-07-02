@@ -1,0 +1,455 @@
+{
+  "matchId": 62,
+  "fifaMatchId": "400021504",
+  "fetchTime": "2026-06-23 17:50:54",
+  "home": "Uzbekistan",
+  "away": "Colombia",
+  "score": "1-3",
+  "date": "2026-06-18",
+  "venue": "Mexico City Stadium",
+  "attendance": "80824",
+  "tactics": {
+    "home": "3-4-3",
+    "away": "4-1-2-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        1,
+        7
+      ],
+      "away": [
+        7,
+        8
+      ]
+    },
+    "corners": {
+      "home": 3,
+      "away": 4
+    },
+    "fouls": {
+      "home": 13,
+      "away": 10
+    },
+    "offsides": {
+      "home": 0,
+      "away": 3
+    }
+  },
+  "goals": [
+    {
+      "minute": "40'",
+      "side": "away",
+      "desc": "Daniel MUNOZ (Colombia) scores!!"
+    },
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "Abbosbek FAYZULLAEV (Uzbekistan) scores!!"
+    },
+    {
+      "minute": "65'",
+      "side": "away",
+      "desc": "Luis DIAZ (Colombia) scores!!"
+    },
+    {
+      "minute": "90'+9'",
+      "side": "away",
+      "desc": "Jaminton CAMPAZ (Colombia) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Farrukh SAYFIEV (in) comes off the bench to replace Sherzod NASRULLAEV (out) (Uzbekistan)"
+    },
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Dostonbek KHAMDAMOV (in) comes off the bench to replace Oston URUNOV (out) (Uzbekistan)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "Jaminton CAMPAZ (in) comes off the bench to replace James RODRIGUEZ (out) (Colombia)"
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "desc": "Jakhongir UROZOV (in) comes off the bench to replace Rustam ASHURMATOV (out) (Uzbekistan)"
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "desc": "Azizbek AMONOV (in) comes off the bench to replace Abbosbek FAYZULLAEV (out) (Uzbekistan)"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "Cucho HERNANDEZ (in) comes off the bench to replace Luis SUAREZ (out) (Colombia)"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "Richard RIOS (in) comes off the bench to replace Gustavo PUERTA (out) (Colombia)"
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "desc": "Andres GOMEZ (in) comes off the bench to replace Luis DIAZ (out) (Colombia)"
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "desc": "Kevin CASTANO (in) comes off the bench to replace Jhon ARIAS (out) (Colombia)"
+    },
+    {
+      "minute": "90'+3'",
+      "side": "home",
+      "desc": "Igor SERGEEV (in) comes off the bench to replace Eldor SHOMURODOV (out) (Uzbekistan)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "7'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Johan MOJICA (Colombia) is booked by the referee."
+    },
+    {
+      "minute": "34'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Abdukodir KHUSANOV (Uzbekistan) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "3-4-3",
+      "starters": [
+        {
+          "name": "Utkir YUSUPOV",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Abdukodir KHUSANOV",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Rustam ASHURMATOV",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Sherzod NASRULLAEV",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Abdulla ABDULLAEV",
+          "number": 18,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Behruzjon KARIMOV",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Akmal MOZGOVOY",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Otabek SHUKUROV",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Oston URUNOV",
+          "number": 11,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Abbosbek FAYZULLAEV",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Eldor SHOMURODOV",
+          "number": 14,
+          "position": "FW",
+          "captain": true
+        }
+      ],
+      "bench": [
+        {
+          "name": "Khojiakbar ALIJONOV",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Farrukh SAYFIEV",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jamshid ISKANDEROV",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Odiljon XAMROBEKOV",
+          "number": 9,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ruslanbek JIYANOV",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Abduvohid NEMATOV",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Umar ESHMURODOV",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Botirali ERGASHEV",
+          "number": 16,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Dostonbek KHAMDAMOV",
+          "number": 17,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Azizjon GANIEV",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Azizbek AMONOV",
+          "number": 20,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Igor SERGEEV",
+          "number": 21,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Sherzod ESANOV",
+          "number": 23,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Avazbek ULMASALIYEV",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jakhongir UROZOV",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "4-1-2-3",
+      "starters": [
+        {
+          "name": "Camilo VARGAS",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Daniel MUNOZ",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jhon LUCUMI",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Gustavo PUERTA",
+          "number": 14,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Johan MOJICA",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Davinson SANCHEZ",
+          "number": 23,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "James RODRIGUEZ",
+          "number": 10,
+          "position": "MF",
+          "captain": true
+        },
+        {
+          "name": "Jhon ARIAS",
+          "number": 11,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jefferson LERMA",
+          "number": 16,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Luis DIAZ",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Luis SUAREZ",
+          "number": 25,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "David OSPINA",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Santiago ARIAS",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Kevin CASTANO",
+          "number": 5,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Richard RIOS",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jorge CARRASCAL",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jhon CORDOBA",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Yerry MINA",
+          "number": 13,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Juan PORTILLA",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Willer DITTA",
+          "number": 18,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Cucho HERNANDEZ",
+          "number": 19,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Juan QUINTERO",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Jaminton CAMPAZ",
+          "number": 21,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Deiver MACHADO",
+          "number": 22,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Alvaro MONTERO",
+          "number": 24,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Andres GOMEZ",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

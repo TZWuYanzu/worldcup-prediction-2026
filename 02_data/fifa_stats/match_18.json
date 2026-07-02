@@ -1,0 +1,143 @@
+{
+  "matchId": 18,
+  "fifaMatchId": "400021452",
+  "fetchTime": "2026-06-25 16:20:43",
+  "home": "Morocco",
+  "away": "Haiti",
+  "score": "4-2",
+  "date": "2026-06-24",
+  "venue": "Atlanta Stadium",
+  "attendance": "68239",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        13,
+        9
+      ],
+      "away": [
+        4,
+        5
+      ]
+    },
+    "corners": {
+      "home": 9,
+      "away": 1
+    },
+    "fouls": {
+      "home": 10,
+      "away": 17
+    },
+    "offsides": {
+      "home": 5,
+      "away": 0
+    }
+  },
+  "goals": [
+    {
+      "minute": "10'",
+      "side": "home",
+      "desc": "Yassine BOUNOU (Morocco) scores an own goal."
+    },
+    {
+      "minute": "39'",
+      "side": "home",
+      "desc": "Achraf HAKIMI (Morocco) scores!!"
+    },
+    {
+      "minute": "43'",
+      "side": "away",
+      "desc": "Wilson ISIDOR (Haiti) scores!!"
+    },
+    {
+      "minute": "45'+1'",
+      "side": "home",
+      "desc": "Ismael SAIBARI (Morocco) scores!!"
+    },
+    {
+      "minute": "78'",
+      "side": "home",
+      "desc": "Soufiane RAHIMI (Morocco) scores!!"
+    },
+    {
+      "minute": "89'",
+      "side": "home",
+      "desc": "Gessime YASSINE (Morocco) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "67'",
+      "side": "away",
+      "desc": "Duckens NAZON (in) comes off the bench to replace Ruben PROVIDENCE (out) (Haiti)"
+    },
+    {
+      "minute": "67'",
+      "side": "away",
+      "desc": "Louicius DEEDSON (in) comes off the bench to replace Wilson ISIDOR (out) (Haiti)"
+    },
+    {
+      "minute": "70'",
+      "side": "home",
+      "desc": "Gessime YASSINE (in) comes off the bench to replace Ayoub EL KAABI (out) (Morocco)"
+    },
+    {
+      "minute": "70'",
+      "side": "home",
+      "desc": "Soufiane RAHIMI (in) comes off the bench to replace Ismael SAIBARI (out) (Morocco)"
+    },
+    {
+      "minute": "70'",
+      "side": "home",
+      "desc": "Azzedine OUNAHI (in) comes off the bench to replace Brahim DIAZ (out) (Morocco)"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "Carlens ARCUS (in) comes off the bench to replace Jean-Kevin DUVERNE (out) (Haiti)"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "Dominique SIMON (in) comes off the bench to replace Danley JEAN JACQUES (out) (Haiti)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Samir EL MOURABET (in) comes off the bench to replace Neil EL AYNAOUI (out) (Morocco)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Noussair MAZRAOUI (in) comes off the bench to replace Anass SALAH EDDINE (out) (Morocco)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Frantzdy PIERROT (in) comes off the bench to replace Lenny JOSEPH (out) (Haiti)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "79'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Johny PLACIDE (Haiti) is booked by the referee."
+    },
+    {
+      "minute": "79'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Duckens NAZON (Haiti) is booked by the referee."
+    },
+    {
+      "minute": "90'+3'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Josue CASIMIR (Haiti) is booked by the referee."
+    }
+  ]
+}

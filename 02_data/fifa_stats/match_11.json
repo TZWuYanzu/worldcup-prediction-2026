@@ -1,0 +1,128 @@
+{
+  "matchId": 11,
+  "fifaMatchId": "400021451",
+  "fetchTime": "2026-06-25 16:20:16",
+  "home": "Switzerland",
+  "away": "Canada",
+  "score": "2-1",
+  "date": "2026-06-24",
+  "venue": "BC Place Vancouver",
+  "attendance": "52497",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-4-2"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        2
+      ],
+      "away": [
+        5,
+        8
+      ]
+    },
+    "corners": {
+      "home": 2,
+      "away": 7
+    },
+    "fouls": {
+      "home": 19,
+      "away": 12
+    },
+    "offsides": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  "goals": [
+    {
+      "minute": "46'",
+      "side": "home",
+      "desc": "Ruben VARGAS (Switzerland) scores!!"
+    },
+    {
+      "minute": "57'",
+      "side": "home",
+      "desc": "Johan MANZAMBI (Switzerland) scores!!"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "Promise DAVID (Canada) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "58'",
+      "side": "away",
+      "desc": "Tani OLUWASEYI (in) comes off the bench to replace Cyle LARIN (out) (Canada)"
+    },
+    {
+      "minute": "58'",
+      "side": "away",
+      "desc": "Stephen EUSTAQUIO (in) comes off the bench to replace Mathieu CHOINIERE (out) (Canada)"
+    },
+    {
+      "minute": "58'",
+      "side": "away",
+      "desc": "Liam MILLAR (in) comes off the bench to replace Ali AHMED (out) (Canada)"
+    },
+    {
+      "minute": "74'",
+      "side": "home",
+      "desc": "Silvan WIDMER (in) comes off the bench to replace Luca JAQUEZ (out) (Switzerland)"
+    },
+    {
+      "minute": "74'",
+      "side": "home",
+      "desc": "Michel AEBISCHER (in) comes off the bench to replace Djibril SOW (out) (Switzerland)"
+    },
+    {
+      "minute": "74'",
+      "side": "away",
+      "desc": "Promise DAVID (in) comes off the bench to replace Tajon BUCHANAN (out) (Canada)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "Dan NDOYE (in) comes off the bench to replace Ruben VARGAS (out) (Switzerland)"
+    },
+    {
+      "minute": "83'",
+      "side": "away",
+      "desc": "Jacob SHAFFELBURG (in) comes off the bench to replace Richie LARYEA (out) (Canada)"
+    },
+    {
+      "minute": "85'",
+      "side": "home",
+      "desc": "Cedric ITTEN (in) comes off the bench to replace Breel EMBOLO (out) (Switzerland)"
+    },
+    {
+      "minute": "85'",
+      "side": "home",
+      "desc": "Christian FASSNACHT (in) comes off the bench to replace Johan MANZAMBI (out) (Switzerland)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "32'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Cyle LARIN (Canada) is booked by the referee."
+    },
+    {
+      "minute": "32'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Granit XHAKA (Switzerland) is booked by the referee."
+    },
+    {
+      "minute": "87'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Liam MILLAR (Canada) is booked by the referee."
+    }
+  ]
+}

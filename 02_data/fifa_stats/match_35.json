@@ -1,0 +1,445 @@
+{
+  "matchId": 35,
+  "fifaMatchId": "400021471",
+  "fetchTime": "2026-06-29 14:23:44",
+  "home": "Japan",
+  "away": "Sweden",
+  "score": "1-1",
+  "date": "2026-06-25",
+  "venue": "Dallas Stadium",
+  "attendance": "70137",
+  "tactics": {
+    "home": "3-4-3",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        4,
+        4
+      ],
+      "away": [
+        2,
+        9
+      ]
+    },
+    "corners": {
+      "home": 2,
+      "away": 8
+    },
+    "fouls": {
+      "home": 19,
+      "away": 9
+    },
+    "offsides": {
+      "home": 3,
+      "away": 2
+    }
+  },
+  "goals": [
+    {
+      "minute": "56'",
+      "side": "home",
+      "desc": "Daizen MAEDA (Japan) scores!!"
+    },
+    {
+      "minute": "62'",
+      "side": "away",
+      "desc": "Anthony ELANGA (Sweden) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "37'",
+      "side": "away",
+      "desc": "Lucas BERGVALL (in) comes off the bench to replace Isak HIEN (out) (Sweden)"
+    },
+    {
+      "minute": "39'",
+      "side": "home",
+      "desc": "Shogo TANIGUCHI (in) comes off the bench to replace Kou ITAKURA (out) (Japan)"
+    },
+    {
+      "minute": "66'",
+      "side": "home",
+      "desc": "Koki OGAWA (in) comes off the bench to replace Ayase UEDA (out) (Japan)"
+    },
+    {
+      "minute": "66'",
+      "side": "home",
+      "desc": "Junya ITO (in) comes off the bench to replace Ritsu DOAN (out) (Japan)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Daniel SVENSSON (in) comes off the bench to replace Alexander BERNHARDSSON (out) (Sweden)"
+    },
+    {
+      "minute": "75'",
+      "side": "away",
+      "desc": "Ken SEMA (in) comes off the bench to replace Elliot STROUD (out) (Sweden)"
+    },
+    {
+      "minute": "75'",
+      "side": "home",
+      "desc": "Yuto NAGATOMO (in) comes off the bench to replace Keito NAKAMURA (out) (Japan)"
+    },
+    {
+      "minute": "75'",
+      "side": "home",
+      "desc": "Tsuyoshi WATANABE (in) comes off the bench to replace Ayumu SEKO (out) (Japan)"
+    },
+    {
+      "minute": "87'",
+      "side": "away",
+      "desc": "Carl STARFELT (in) comes off the bench to replace Victor LINDELOF (out) (Sweden)"
+    },
+    {
+      "minute": "87'",
+      "side": "away",
+      "desc": "Benjamin NYGREN (in) comes off the bench to replace Gabriel GUDMUNDSSON (out) (Sweden)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "32'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Isak HIEN (Sweden) is booked by the referee."
+    },
+    {
+      "minute": "77'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Shogo TANIGUCHI (Japan) is booked by the referee."
+    },
+    {
+      "minute": "84'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Viktor GYOKERES (Sweden) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "3-4-3",
+      "starters": [
+        {
+          "name": "Zion SUZUKI",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Yukinari SUGAWARA",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Kou ITAKURA",
+          "number": 4,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "Ayumu SEKO",
+          "number": 20,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Hiroki ITO",
+          "number": 21,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Ao TANAKA",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ritsu DOAN",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Daizen MAEDA",
+          "number": 11,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Keito NAKAMURA",
+          "number": 13,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Daichi KAMADA",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Ayase UEDA",
+          "number": 18,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Shogo TANIGUCHI",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Yuto NAGATOMO",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Shuto MACHINO",
+          "number": 6,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Keisuke GOTO",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Keisuke OSAKO",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Junya ITO",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Tsuyoshi WATANABE",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Yuito SUZUKI",
+          "number": 17,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Koki OGAWA",
+          "number": 19,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Takehiro TOMIYASU",
+          "number": 22,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Tomoki HAYAKAWA",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Kaishu SANO",
+          "number": 24,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Junnosuke SUZUKI",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Kento SHIOGAI",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "3-4-3",
+      "starters": [
+        {
+          "name": "Jacob WIDELL ZETTERSTROM",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Gustaf LAGERBIELKE",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Victor LINDELOF",
+          "number": 3,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "Isak HIEN",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Gabriel GUDMUNDSSON",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Alexander BERNHARDSSON",
+          "number": 21,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Elliot STROUD",
+          "number": 24,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Yasin AYARI",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Alexander ISAK",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Anthony ELANGA",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Viktor GYOKERES",
+          "number": 17,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "Herman JOHANSSON",
+          "number": 6,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Lucas BERGVALL",
+          "number": 7,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Daniel SVENSSON",
+          "number": 8,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Benjamin NYGREN",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Viktor JOHANSSON",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Ken SEMA",
+          "number": 13,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Hjalmar EKDAL",
+          "number": 14,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Carl STARFELT",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Jesper KARLSTROM",
+          "number": 16,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Mattias SVANBERG",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Eric SMITH",
+          "number": 20,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Besfort ZENELI",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Kristoffer NORDFELDT",
+          "number": 23,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Gustaf NILSSON",
+          "number": 25,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Taha ALI",
+          "number": 26,
+          "position": "FW",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

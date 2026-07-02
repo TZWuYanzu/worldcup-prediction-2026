@@ -1,0 +1,444 @@
+{
+  "matchId": 56,
+  "fifaMatchId": "400021498",
+  "fetchTime": "2026-06-22 19:14:11",
+  "home": "Austria",
+  "away": "Jordan",
+  "score": "3-1",
+  "date": "2026-06-17",
+  "venue": "San Francisco Bay Area Stadium",
+  "attendance": "68527",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "3-4-3"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        6,
+        5
+      ],
+      "away": [
+        8,
+        3
+      ]
+    },
+    "corners": {
+      "home": 4,
+      "away": 3
+    },
+    "fouls": {
+      "home": 12,
+      "away": 7
+    },
+    "offsides": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "20'",
+      "side": "home",
+      "desc": "Romano SCHMID (Austria) scores!!"
+    },
+    {
+      "minute": "50'",
+      "side": "away",
+      "desc": "ALI OLWAN (Jordan) scores!!"
+    },
+    {
+      "minute": "76'",
+      "side": "away",
+      "desc": "YAZAN ALARAB (Jordan) scores an own goal."
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Marko ARNAUTOVIC (in) comes off the bench to replace Sasa KALAJDZIC (out) (Austria)"
+    },
+    {
+      "minute": "59'",
+      "side": "home",
+      "desc": "Carney CHUKWUEMEKA (in) comes off the bench to replace Xaver SCHLAGER (out) (Austria)"
+    },
+    {
+      "minute": "59'",
+      "side": "home",
+      "desc": "Paul WANNER (in) comes off the bench to replace Phillip MWENE (out) (Austria)"
+    },
+    {
+      "minute": "59'",
+      "side": "home",
+      "desc": "Kevin DANSO (in) comes off the bench to replace David ALABA (out) (Austria)"
+    },
+    {
+      "minute": "72'",
+      "side": "away",
+      "desc": "SALEEM OBAID (in) comes off the bench to replace MOHAMMAD ABUALNADI (out) (Jordan)"
+    },
+    {
+      "minute": "81'",
+      "side": "away",
+      "desc": "SAED ALROSAN (in) comes off the bench to replace ABDALLAH NASIB (out) (Jordan)"
+    },
+    {
+      "minute": "81'",
+      "side": "away",
+      "desc": "MAHMOUD ALMARDI (in) comes off the bench to replace EHSAN HADDAD (out) (Jordan)"
+    },
+    {
+      "minute": "83'",
+      "side": "home",
+      "desc": "Patrick WIMMER (in) comes off the bench to replace Romano SCHMID (out) (Austria)"
+    },
+    {
+      "minute": "88'",
+      "side": "away",
+      "desc": "ALI AZAIZEH (in) comes off the bench to replace ODEH FAKHOURY (out) (Jordan)"
+    },
+    {
+      "minute": "88'",
+      "side": "away",
+      "desc": "MOHAMMAD ALDAOUD (in) comes off the bench to replace MOUSA ALTAMARI (out) (Jordan)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "77'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Marcel SABITZER (Austria) is booked by the referee."
+    }
+  ],
+  "lineup": {
+    "home": {
+      "tactics": "4-2-3-1",
+      "starters": [
+        {
+          "name": "Alexander SCHLAGER",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Stefan POSCH",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "David ALABA",
+          "number": 8,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "Philipp LIENHART",
+          "number": 15,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Phillip MWENE",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Xaver SCHLAGER",
+          "number": 4,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Nicolas SEIWALD",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Marcel SABITZER",
+          "number": 9,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Romano SCHMID",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Konrad LAIMER",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Sasa KALAJDZIC",
+          "number": 14,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "David AFFENGRUBER",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Kevin DANSO",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Marko ARNAUTOVIC",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Florian GRILLITSCH",
+          "number": 10,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Michael GREGORITSCH",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Florian WIEGELE",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Patrick PENTZ",
+          "number": 13,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "Carney CHUKWUEMEKA",
+          "number": 17,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Dejan LJUBICIC",
+          "number": 19,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Patrick WIMMER",
+          "number": 21,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "Alexander PRASS",
+          "number": 22,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Marco FRIEDL",
+          "number": 23,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Paul WANNER",
+          "number": 24,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "Michael SVOBODA",
+          "number": 25,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "Alessandro SCHOEPF",
+          "number": 26,
+          "position": "MF",
+          "captain": false
+        }
+      ]
+    },
+    "away": {
+      "tactics": "3-4-3",
+      "starters": [
+        {
+          "name": "YAZEED ABULAILA",
+          "number": 1,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "ABDALLAH NASIB",
+          "number": 3,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "YAZAN ALARAB",
+          "number": 5,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MOHAMMAD ABUALNADI",
+          "number": 16,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "EHSAN HADDAD",
+          "number": 23,
+          "position": "DF",
+          "captain": true
+        },
+        {
+          "name": "NOOR ALRAWABDEH",
+          "number": 8,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "MOHANNAD ABUTAHA",
+          "number": 20,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "NIZAR ALRASHDAN",
+          "number": 21,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "ALI OLWAN",
+          "number": 9,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "MOUSA ALTAMARI",
+          "number": 10,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "ODEH FAKHOURY",
+          "number": 11,
+          "position": "FW",
+          "captain": false
+        }
+      ],
+      "bench": [
+        {
+          "name": "MOHAMMAD ABUHASHEESH",
+          "number": 2,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "HUSAM ABUDAHAB",
+          "number": 4,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "AMER JAMOUS",
+          "number": 6,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "MOHAMMAD ABUZRAIQ",
+          "number": 7,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "NOUR BANIATEYAH",
+          "number": 12,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "MAHMOUD ALMARDI",
+          "number": 13,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "RAJAEI AYED",
+          "number": 14,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "IBRAHIM SADEH",
+          "number": 15,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "SALEEM OBAID",
+          "number": 17,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "MOHAMMAD ABUGHOUSH",
+          "number": 18,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "SAED ALROSAN",
+          "number": 19,
+          "position": "DF",
+          "captain": false
+        },
+        {
+          "name": "ABDALLAH ALFAKHORI",
+          "number": 22,
+          "position": "GK",
+          "captain": false
+        },
+        {
+          "name": "ALI AZAIZEH",
+          "number": 24,
+          "position": "FW",
+          "captain": false
+        },
+        {
+          "name": "MOHAMMAD ALDAOUD",
+          "number": 25,
+          "position": "MF",
+          "captain": false
+        },
+        {
+          "name": "ANAS BADAWI",
+          "number": 26,
+          "position": "DF",
+          "captain": false
+        }
+      ]
+    }
+  }
+}

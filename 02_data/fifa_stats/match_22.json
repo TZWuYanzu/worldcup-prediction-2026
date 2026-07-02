@@ -1,0 +1,130 @@
+{
+  "matchId": 22,
+  "fifaMatchId": "400021460",
+  "fetchTime": "2026-06-25 20:06:07",
+  "home": "Turkey",
+  "away": "Paraguay",
+  "score": "0-1",
+  "date": "2026-06-20",
+  "venue": "San Francisco Bay Area Stadium",
+  "attendance": "68827",
+  "tactics": {
+    "home": "4-2-3-1",
+    "away": "4-2-3-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        12,
+        20
+      ],
+      "away": [
+        4,
+        3
+      ]
+    },
+    "corners": {
+      "home": 12,
+      "away": 0
+    },
+    "fouls": {
+      "home": 13,
+      "away": 14
+    },
+    "offsides": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  "goals": [
+    {
+      "minute": "2'",
+      "side": "away",
+      "desc": "Matias GALARZA (Paraguay) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins Baris Alper YILMAZ (in) comes off the bench to replace Kerem AKTURKOGLU (out) (Türkiye)"
+    },
+    {
+      "minute": "",
+      "side": "away",
+      "desc": "Before the second half begins Damian BOBADILLA (in) comes off the bench to replace Isidro PITTA (out) (Paraguay)"
+    },
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "Can UZUN (in) comes off the bench to replace Ismail YUKSEK (out) (Türkiye)"
+    },
+    {
+      "minute": "60'",
+      "side": "home",
+      "desc": "Deniz GUL (in) comes off the bench to replace Yunus AKGUN (out) (Türkiye)"
+    },
+    {
+      "minute": "67'",
+      "side": "away",
+      "desc": "Gustavo VELAZQUEZ (in) comes off the bench to replace Diego GOMEZ (out) (Paraguay)"
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "desc": "Eren ELMALI (in) comes off the bench to replace Ferdi KADIOGLU (out) (Türkiye)"
+    },
+    {
+      "minute": "81'",
+      "side": "away",
+      "desc": "Alexandro MAIDANA (in) comes off the bench to replace Juan Jose CACERES (out) (Paraguay)"
+    },
+    {
+      "minute": "86'",
+      "side": "home",
+      "desc": "Orkun KOKCU (in) comes off the bench to replace Abdulkerim BARDAKCI (out) (Türkiye)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "away",
+      "desc": "Gabriel AVALOS (in) comes off the bench to replace Julio ENCISO (out) (Paraguay)"
+    },
+    {
+      "minute": "90'+1'",
+      "side": "away",
+      "desc": "Jose CANALE (in) comes off the bench to replace Matias GALARZA (out) (Paraguay)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "4'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Matias GALARZA (Paraguay) is booked by the referee."
+    },
+    {
+      "minute": "37'",
+      "side": "away",
+      "card": "yellow",
+      "desc": "Carlos GONZALEZ (Paraguay) is booked by the referee."
+    },
+    {
+      "minute": "45'+3'",
+      "side": "away",
+      "card": "red",
+      "desc": "Miguel ALMIRON (Paraguay) is sent off!"
+    },
+    {
+      "minute": "63'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Vincenzo MONTELLA (Türkiye) is booked by the referee."
+    },
+    {
+      "minute": "71'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "Eren ELMALI (Türkiye) is booked by the referee."
+    }
+  ]
+}

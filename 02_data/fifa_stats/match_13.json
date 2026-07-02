@@ -1,0 +1,117 @@
+{
+  "matchId": 13,
+  "fifaMatchId": "400021456",
+  "fetchTime": "2026-06-24 17:20:53",
+  "home": "Brazil",
+  "away": "Morocco",
+  "score": "1-1",
+  "date": "2026-06-13",
+  "venue": "New York/New Jersey Stadium",
+  "attendance": "80663",
+  "tactics": {
+    "home": "4-4-2",
+    "away": "4-2-3-1"
+  },
+  "stats": {
+    "shots": {
+      "home": [
+        6,
+        6
+      ],
+      "away": [
+        12,
+        2
+      ]
+    },
+    "corners": {
+      "home": 6,
+      "away": 2
+    },
+    "fouls": {
+      "home": 14,
+      "away": 14
+    },
+    "offsides": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  "goals": [
+    {
+      "minute": "21'",
+      "side": "away",
+      "desc": "Ismael SAIBARI (Morocco) scores!!"
+    },
+    {
+      "minute": "32'",
+      "side": "home",
+      "desc": "VINICIUS JUNIOR (Brazil) scores!!"
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins FABINHO (in) comes off the bench to replace CASEMIRO (out) (Brazil)"
+    },
+    {
+      "minute": "",
+      "side": "home",
+      "desc": "Before the second half begins DANILO (in) comes off the bench to replace ROGER IBANEZ (out) (Brazil)"
+    },
+    {
+      "minute": "61'",
+      "side": "home",
+      "desc": "MATHEUS CUNHA (in) comes off the bench to replace LUCAS PAQUETA (out) (Brazil)"
+    },
+    {
+      "minute": "61'",
+      "side": "home",
+      "desc": "LUIZ HENRIQUE (in) comes off the bench to replace IGOR THIAGO (out) (Brazil)"
+    },
+    {
+      "minute": "64'",
+      "side": "away",
+      "desc": "Chemsdine TALBI (in) comes off the bench to replace Brahim DIAZ (out) (Morocco)"
+    },
+    {
+      "minute": "64'",
+      "side": "away",
+      "desc": "Samir EL MOURABET (in) comes off the bench to replace Azzedine OUNAHI (out) (Morocco)"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "Anass SALAH EDDINE (in) comes off the bench to replace Noussair MAZRAOUI (out) (Morocco)"
+    },
+    {
+      "minute": "80'",
+      "side": "away",
+      "desc": "Ayoube AMAIMOUNI (in) comes off the bench to replace Bilal EL KHANNOUSS (out) (Morocco)"
+    },
+    {
+      "minute": "80'",
+      "side": "home",
+      "desc": "DANILO SANTOS (in) comes off the bench to replace BRUNO GUIMARAES (out) (Brazil)"
+    },
+    {
+      "minute": "89'",
+      "side": "away",
+      "desc": "Soufiane RAHIMI (in) comes off the bench to replace Ismael SAIBARI (out) (Morocco)"
+    }
+  ],
+  "bookings": [
+    {
+      "minute": "37'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "CASEMIRO (Brazil) is booked by the referee."
+    },
+    {
+      "minute": "43'",
+      "side": "home",
+      "card": "yellow",
+      "desc": "ROGER IBANEZ (Brazil) is booked by the referee."
+    }
+  ]
+}
