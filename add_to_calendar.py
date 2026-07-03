@@ -398,7 +398,8 @@ def run_add_knockout(args: argparse.Namespace) -> None:
     """Add knockout stage matches to the macOS calendar."""
     STAGE_CN = {
         "R32": "32强淘汰赛", "R16": "16强淘汰赛",
-        "QF": "四分之一决赛", "SF": "半决赛", "Final": "决赛",
+        "QF": "四分之一决赛", "SF": "半决赛",
+        "3rd": "三四名决赛", "F": "决赛", "Final": "决赛",
     }
     CAL_KNOCKOUT = ("世界杯-淘汰赛", (255 * 257, 165 * 257, 0))  # orange
 

@@ -15,6 +15,9 @@ downloaded_files/
 # Sensitive — API key
 02_data/api_football_config.json
 
+# Private betting analysis (local only)
+02_data/betting_rounds.json
+
 # OS / editor
 node_modules/
 *.swp

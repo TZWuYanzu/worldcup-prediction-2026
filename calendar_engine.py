@@ -76,6 +76,7 @@ def add_event(
     script = f'''tell application "Calendar"
     set targetCal to first calendar whose name is "{_escape(calendar_name)}"
     set startDate to current date
+    set day of startDate to 1
     set year of startDate to {sy}
     set month of startDate to {sm}
     set day of startDate to {sd}
@@ -84,6 +85,7 @@ def add_event(
     set seconds of startDate to 0
 
     set endDate to current date
+    set day of endDate to 1
     set year of endDate to {ey}
     set month of endDate to {em}
     set day of endDate to {ed}

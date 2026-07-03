@@ -206,7 +206,13 @@ def build_match_data():
         "scoreCorrect": score_correct,
     }
 
-    return {"stats": stats, "matches": matches}
+    betting_file = DATA_DIR / "betting_rounds.json"
+    betting_rounds = []
+    if betting_file.exists():
+        with open(betting_file) as f:
+            betting_rounds = json.load(f).get("rounds", [])
+
+    return {"stats": stats, "matches": matches, "bettingRounds": betting_rounds}
 
 
 HTML_TEMPLATE = r"""<!DOCTYPE html>
@@ -935,6 +941,99 @@ body {
   .bk-node { min-width: 130px; padding: 6px 8px; }
   .bk-row { font-size: 11px; }
 }
+
+/* Betting view */
+.betting-container { max-width: 900px; margin: 0 auto; padding: 0 16px; }
+.betting-round {
+  background: var(--card-bg); border-radius: 14px; padding: 20px;
+  margin-bottom: 20px; border: 1px solid var(--border);
+}
+.betting-round-header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 16px; flex-wrap: wrap; gap: 8px;
+}
+.betting-round-title { font-size: 18px; font-weight: 700; color: var(--text); }
+.betting-round-time { font-size: 12px; color: var(--text-dim); }
+.betting-section { margin-bottom: 18px; }
+.betting-section-title {
+  font-size: 13px; font-weight: 700; color: var(--accent);
+  text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;
+  padding-bottom: 6px; border-bottom: 1px solid var(--border);
+}
+.betting-table {
+  width: 100%; border-collapse: collapse; font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+.betting-table th {
+  text-align: center; padding: 6px 8px; font-weight: 600;
+  color: var(--text-dim); font-size: 11px; text-transform: uppercase;
+  border-bottom: 1px solid var(--border);
+}
+.betting-table th:first-child { text-align: left; }
+.betting-table td {
+  padding: 8px; text-align: center; border-bottom: 1px solid var(--border);
+}
+.betting-table td:first-child { text-align: left; font-weight: 600; }
+.betting-table tr:last-child td { border-bottom: none; }
+.edge-pos { color: #22c55e; font-weight: 700; }
+.edge-neg { color: var(--text-dim); }
+.edge-strong { color: #22c55e; font-weight: 700; background: rgba(34,197,94,0.1); border-radius: 4px; padding: 2px 6px; }
+.parlay-card {
+  background: var(--bg); border-radius: 10px; padding: 14px;
+  margin-bottom: 10px; border: 1px solid var(--border);
+}
+.parlay-card.recommended { border-color: var(--accent); }
+.parlay-header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 10px; flex-wrap: wrap; gap: 6px;
+}
+.parlay-name { font-weight: 700; font-size: 14px; }
+.parlay-badge {
+  font-size: 11px; padding: 2px 8px; border-radius: 6px;
+  font-weight: 600;
+}
+.parlay-badge.rec { background: var(--accent); color: #fff; }
+.parlay-badge.had { background: rgba(99,102,241,0.15); color: #818cf8; }
+.parlay-badge.crs { background: rgba(251,146,60,0.15); color: #fb923c; }
+.parlay-pick {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 4px 0; font-size: 13px; border-bottom: 1px solid var(--border);
+}
+.parlay-pick:last-child { border-bottom: none; }
+.parlay-pick-label { color: var(--text-dim); }
+.parlay-pick-value { font-weight: 600; }
+.parlay-stats {
+  display: flex; gap: 16px; margin-top: 10px; font-size: 12px;
+  color: var(--text-dim); flex-wrap: wrap;
+}
+.parlay-stats span { white-space: nowrap; }
+.parlay-stats .ev-positive { color: #22c55e; font-weight: 700; }
+.ev-card {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 8px 12px; background: var(--bg); border-radius: 8px;
+  margin-bottom: 6px; font-size: 13px; border: 1px solid var(--border);
+}
+.ev-card .ev-value { color: #22c55e; font-weight: 700; font-size: 14px; }
+.betting-glossary {
+  background: var(--card-bg); border-radius: 14px; padding: 16px 20px;
+  margin-bottom: 20px; border: 1px solid var(--border);
+}
+.betting-glossary-title {
+  font-size: 13px; font-weight: 700; color: var(--accent);
+  margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px;
+}
+.betting-glossary-grid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 8px 20px;
+  font-size: 12.5px; color: var(--text-dim); line-height: 1.5;
+}
+.betting-glossary-grid b { color: var(--text); }
+@media (max-width: 600px) {
+  .betting-round { padding: 14px; }
+  .betting-table { font-size: 11px; }
+  .betting-table th, .betting-table td { padding: 5px 4px; }
+  .parlay-stats { gap: 10px; }
+  .betting-glossary-grid { grid-template-columns: 1fr; }
+}
 </style>
 </head>
 <body>
@@ -953,6 +1052,7 @@ body {
     <div class="view-tabs">
       <button class="view-tab active" data-view="list">List</button>
       <button class="view-tab" data-view="bracket">Bracket</button>
+      <button class="view-tab" data-view="betting" id="bettingTab" style="display:none">Betting</button>
     </div>
     <button class="filter-btn active" data-filter="all">All</button>
     <button class="filter-btn" data-filter="group">Group</button>
@@ -973,6 +1073,7 @@ body {
 <div class="container">
   <div class="match-list" id="cardGrid"></div>
   <div class="bracket-container" id="bracketView"></div>
+  <div class="betting-container" id="bettingView" style="display:none"></div>
 </div>
 
 <script>
@@ -1457,17 +1558,96 @@ function onSearch(val) {
   applyFilters();
 }
 
+function renderBetting() {
+  var el = document.getElementById('bettingView');
+  var rounds = DATA.bettingRounds || [];
+  if (!rounds.length) { el.innerHTML = '<p style="text-align:center;color:var(--text-dim);padding:40px">No betting data</p>'; return; }
+  var html = '<div class="betting-glossary">'
+    + '<div class="betting-glossary-title">术语说明</div>'
+    + '<div class="betting-glossary-grid">'
+    + '<div><b>H / D / A</b> — 主胜(Home) / 平局(Draw) / 客胜(Away)，体彩竞彩以90分钟为准</div>'
+    + '<div><b>Odds</b> — 体彩赔率，数字越大代表市场认为该结果越不可能发生</div>'
+    + '<div><b>Model</b> — 我们的模型预测概率，基于xG+Elo+热身赛+赔率综合分析</div>'
+    + '<div><b>Edge</b> — 模型概率 - 赔率隐含概率。正值=模型认为市场低估了该结果，>5%为显著Edge</div>'
+    + '<div><b>EV (期望值)</b> — 模型概率 × 赔率。EV>1.0表示长期正收益（+EV），值越高越值得关注</div>'
+    + '<div><b>HAD</b> — 胜平负玩法 | <b>CRS</b> — 比分玩法 | <b>串关</b> — 多场组合，全中才有回报</div>'
+    + '</div></div>';
+  for (var r = rounds.length - 1; r >= 0; r--) {
+    var round = rounds[r];
+    html += '<div class="betting-round">';
+    html += '<div class="betting-round-header"><span class="betting-round-title">' + round.label + ' · ' + round.date + '</span>';
+    html += '<span class="betting-round-time">Updated: ' + round.updatedAt + '</span></div>';
+
+    // Odds table
+    html += '<div class="betting-section"><div class="betting-section-title">HAD Odds & Edge</div>';
+    html += '<table class="betting-table"><thead><tr><th>Match</th><th>H Odds</th><th>D Odds</th><th>A Odds</th><th>Model H</th><th>Model D</th><th>Model A</th><th>Best Edge</th></tr></thead><tbody>';
+    for (var i = 0; i < round.matches.length; i++) {
+      var m = round.matches[i];
+      var edges = [{k:'H',v:m.edgeH},{k:'D',v:m.edgeD},{k:'A',v:m.edgeA}];
+      var best = edges.reduce(function(a,b){return a.v>b.v?a:b});
+      var bestStr = best.v > 5 ? '<span class="edge-strong">'+best.k+' +'+best.v+'%</span>' : (best.v > 0 ? '<span class="edge-pos">'+best.k+' +'+best.v+'%</span>' : '<span class="edge-neg">none</span>');
+      html += '<tr><td>M' + m.matchId + ' ' + m.home + ' vs ' + m.away + '</td>';
+      html += '<td>' + m.oddsH.toFixed(2) + '</td><td>' + m.oddsD.toFixed(2) + '</td><td>' + m.oddsA.toFixed(2) + '</td>';
+      html += '<td>' + m.modelH + '%</td><td>' + m.modelD + '%</td><td>' + m.modelA + '%</td>';
+      html += '<td>' + bestStr + '</td></tr>';
+    }
+    html += '</tbody></table></div>';
+
+    // Parlays
+    if (round.parlays && round.parlays.length) {
+      html += '<div class="betting-section"><div class="betting-section-title">Parlay Strategies</div>';
+      for (var j = 0; j < round.parlays.length; j++) {
+        var p = round.parlays[j];
+        var recClass = p.recommended ? ' recommended' : '';
+        html += '<div class="parlay-card' + recClass + '">';
+        html += '<div class="parlay-header"><span class="parlay-name">' + p.name + '</span>';
+        html += '<span>';
+        if (p.recommended) html += '<span class="parlay-badge rec">Recommended</span> ';
+        html += '<span class="parlay-badge ' + (p.type === 'HAD' ? 'had' : 'crs') + '">' + p.type + '</span>';
+        html += '</span></div>';
+        for (var k = 0; k < p.picks.length; k++) {
+          var pk = p.picks[k];
+          html += '<div class="parlay-pick"><span class="parlay-pick-label">M' + pk.matchId + ' ' + pk.label + '</span>';
+          html += '<span class="parlay-pick-value">' + pk.pick + ' @' + pk.odds + '</span></div>';
+        }
+        var evClass = p.ev && p.ev.charAt(0) === '+' ? ' ev-positive' : '';
+        html += '<div class="parlay-stats"><span>Cost: ' + p.cost + '</span><span>Return: ' + p.returnRange + '</span>';
+        html += '<span>Hit: ' + p.hitProb + '</span><span class="' + evClass + '">EV: ' + p.ev + '</span></div>';
+        html += '</div>';
+      }
+      html += '</div>';
+    }
+
+    // EV highlights
+    if (round.evHighlights && round.evHighlights.length) {
+      html += '<div class="betting-section"><div class="betting-section-title">+EV Score Picks</div>';
+      for (var e = 0; e < round.evHighlights.length; e++) {
+        var ev = round.evHighlights[e];
+        html += '<div class="ev-card"><span>M' + ev.matchId + ' ' + (ev.label||'') + ' <b>' + ev.score + '</b> @' + ev.odds.toFixed(1) + ' (model ' + ev.modelProb + '%)</span>';
+        html += '<span class="ev-value">EV ' + ev.ev.toFixed(2) + '</span></div>';
+      }
+      html += '</div>';
+    }
+
+    html += '</div>';
+  }
+  el.innerHTML = html;
+}
+
 document.getElementById('filters').addEventListener('click', e => {
   if (e.target.classList.contains('view-tab')) {
     document.querySelectorAll('.view-tab').forEach(b => b.classList.remove('active'));
     e.target.classList.add('active');
     var view = e.target.dataset.view;
+    var isSpecial = view === 'bracket' || view === 'betting';
     document.getElementById('cardGrid').style.display = view === 'list' ? '' : 'none';
     document.getElementById('bracketView').classList.toggle('visible', view === 'bracket');
-    document.querySelectorAll('.filter-btn').forEach(b => b.style.display = view === 'bracket' ? 'none' : '');
-    document.querySelectorAll('.filter-sep').forEach(b => b.style.display = view === 'bracket' ? 'none' : '');
-    document.querySelector('.search-box').style.display = view === 'bracket' ? 'none' : '';
+    document.getElementById('bettingView').style.display = view === 'betting' ? 'block' : 'none';
+    document.querySelectorAll('.filter-btn').forEach(b => b.style.display = isSpecial ? 'none' : '');
+    document.querySelectorAll('.filter-sep').forEach(b => b.style.display = isSpecial ? 'none' : '');
+    document.querySelector('.search-box').style.display = isSpecial ? 'none' : '';
     if (view === 'bracket') renderBracket();
+    if (view === 'betting') renderBetting();
     return;
   }
   if (!e.target.classList.contains('filter-btn')) return;
@@ -1475,6 +1655,10 @@ document.getElementById('filters').addEventListener('click', e => {
   e.target.classList.add('active');
   renderAll(e.target.dataset.filter);
 });
+
+if (DATA.bettingRounds && DATA.bettingRounds.length) {
+  document.getElementById('bettingTab').style.display = '';
+}
 
 renderStats();
 renderAll('all');
