@@ -628,6 +628,25 @@
       "oddsProbA": 0.105
     },
     {
+      "matchId": 89,
+      "recordTime": "2026-07-03 16:21",
+      "probH": 0.08,
+      "probD": 0.18,
+      "probA": 0.74,
+      "predScore": "0-3"
+    },
+    {
+      "matchId": 90,
+      "recordTime": "2026-07-03 16:21",
+      "probH": 0.18,
+      "probD": 0.25,
+      "probA": 0.57,
+      "predScore": "0-2",
+      "oddsProbH": 0.169,
+      "oddsProbD": 0.267,
+      "oddsProbA": 0.564
+    },
+    {
       "matchId": 93,
       "recordTime": "2026-07-03 15:24",
       "probH": 0.3,
