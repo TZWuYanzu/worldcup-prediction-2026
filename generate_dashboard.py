@@ -1583,11 +1583,17 @@ function renderBetting() {
     html += '<table class="betting-table"><thead><tr><th>Match</th><th>H Odds</th><th>D Odds</th><th>A Odds</th><th>Model H</th><th>Model D</th><th>Model A</th><th>Best Edge</th></tr></thead><tbody>';
     for (var i = 0; i < round.matches.length; i++) {
       var m = round.matches[i];
-      var edges = [{k:'H',v:m.edgeH},{k:'D',v:m.edgeD},{k:'A',v:m.edgeA}];
-      var best = edges.reduce(function(a,b){return a.v>b.v?a:b});
-      var bestStr = best.v > 5 ? '<span class="edge-strong">'+best.k+' +'+best.v+'%</span>' : (best.v > 0 ? '<span class="edge-pos">'+best.k+' +'+best.v+'%</span>' : '<span class="edge-neg">none</span>');
+      var hasOdds = m.oddsH != null && m.oddsD != null && m.oddsA != null;
+      var bestStr;
+      if (hasOdds) {
+        var edges = [{k:'H',v:m.edgeH},{k:'D',v:m.edgeD},{k:'A',v:m.edgeA}];
+        var best = edges.reduce(function(a,b){return (a.v||0)>(b.v||0)?a:b});
+        bestStr = best.v > 5 ? '<span class="edge-strong">'+best.k+' +'+best.v+'%</span>' : (best.v > 0 ? '<span class="edge-pos">'+best.k+' +'+best.v+'%</span>' : '<span class="edge-neg">none</span>');
+      } else {
+        bestStr = '<span class="edge-neg">未在售</span>';
+      }
       html += '<tr><td>M' + m.matchId + ' ' + m.home + ' vs ' + m.away + '</td>';
-      html += '<td>' + m.oddsH.toFixed(2) + '</td><td>' + m.oddsD.toFixed(2) + '</td><td>' + m.oddsA.toFixed(2) + '</td>';
+      html += '<td>' + (hasOdds ? m.oddsH.toFixed(2) : '—') + '</td><td>' + (hasOdds ? m.oddsD.toFixed(2) : '—') + '</td><td>' + (hasOdds ? m.oddsA.toFixed(2) : '—') + '</td>';
       html += '<td>' + m.modelH + '%</td><td>' + m.modelD + '%</td><td>' + m.modelA + '%</td>';
       html += '<td>' + bestStr + '</td></tr>';
     }
@@ -1610,9 +1616,10 @@ function renderBetting() {
           html += '<div class="parlay-pick"><span class="parlay-pick-label">M' + pk.matchId + ' ' + pk.label + '</span>';
           html += '<span class="parlay-pick-value">' + pk.pick + ' @' + pk.odds + '</span></div>';
         }
-        var evClass = p.ev && p.ev.charAt(0) === '+' ? ' ev-positive' : '';
+        var evStr = p.ev || '';
+        var evClass = typeof evStr === 'string' && evStr.charAt(0) === '+' ? ' ev-positive' : '';
         html += '<div class="parlay-stats"><span>Cost: ' + p.cost + '</span><span>Return: ' + p.returnRange + '</span>';
-        html += '<span>Hit: ' + p.hitProb + '</span><span class="' + evClass + '">EV: ' + p.ev + '</span></div>';
+        html += '<span>Hit: ' + p.hitProb + '</span><span class="' + evClass + '">EV: ' + evStr + '</span></div>';
         html += '</div>';
       }
       html += '</div>';
