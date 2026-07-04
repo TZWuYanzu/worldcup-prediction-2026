@@ -419,6 +419,9 @@ _KNOCKOUT_RESULTS: dict[int, str] = {
     83: "3-0",   # Spain 3-0 Austria
     84: "2-1",   # Portugal 2-1 Croatia
     85: "2-0",   # Switzerland 2-0 Algeria
+    86: "1-1 (pen 2-4)",  # Australia 1-1 Egypt (90'+aet), Egypt wins 4-2 pen
+    87: "3-2 (aet)",      # Argentina 3-2 Cape Verde (aet)
+    88: "1-0",            # Colombia 1-0 Ghana
 }
 
 _ko_by_id = {m.match_id: m for m in KNOCKOUT_MATCHES}
