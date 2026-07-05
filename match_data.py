@@ -422,6 +422,8 @@ _KNOCKOUT_RESULTS: dict[int, str] = {
     86: "1-1 (pen 2-4)",  # Australia 1-1 Egypt (90'+aet), Egypt wins 4-2 pen
     87: "3-2 (aet)",      # Argentina 3-2 Cape Verde (aet)
     88: "1-0",            # Colombia 1-0 Ghana
+    89: "0-1",            # Paraguay 0-1 France
+    90: "0-3",            # Canada 0-3 Morocco
 }
 
 _ko_by_id = {m.match_id: m for m in KNOCKOUT_MATCHES}
