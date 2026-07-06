@@ -371,10 +371,10 @@ KNOCKOUT_MATCHES: list[Match] = [
           utc_hour=21, utc_min=0, team1="United States", team2="Belgium",
           venue="Lumen Field, Seattle"),
     Match(match_id=95, stage="R16", group=None, date_str="2026-07-08",
-          utc_hour=17, utc_min=0, team1="TBD", team2="TBD",
+          utc_hour=17, utc_min=0, team1="Argentina", team2="Egypt",
           venue="Mercedes-Benz Stadium, Atlanta"),
     Match(match_id=96, stage="R16", group=None, date_str="2026-07-08",
-          utc_hour=21, utc_min=0, team1="Switzerland", team2="TBD",
+          utc_hour=21, utc_min=0, team1="Switzerland", team2="Colombia",
           venue="BC Place, Vancouver"),
     # --- Quarter-finals ---
     Match(match_id=97, stage="QF", group=None, date_str="2026-07-10",
@@ -424,6 +424,8 @@ _KNOCKOUT_RESULTS: dict[int, str] = {
     88: "1-0",            # Colombia 1-0 Ghana
     89: "0-1",            # Paraguay 0-1 France
     90: "0-3",            # Canada 0-3 Morocco
+    91: "1-2",            # Brazil 1-2 Norway
+    92: "2-3",            # Mexico 2-3 England
 }
 
 _ko_by_id = {m.match_id: m for m in KNOCKOUT_MATCHES}
