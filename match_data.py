@@ -381,7 +381,7 @@ KNOCKOUT_MATCHES: list[Match] = [
           utc_hour=21, utc_min=0, team1="France", team2="Morocco",
           venue="Gillette Stadium, Boston"),
     Match(match_id=98, stage="QF", group=None, date_str="2026-07-11",
-          utc_hour=1, utc_min=0, team1="TBD", team2="TBD",
+          utc_hour=1, utc_min=0, team1="Spain", team2="Belgium",
           venue="SoFi Stadium, Los Angeles"),
     Match(match_id=99, stage="QF", group=None, date_str="2026-07-12",
           utc_hour=17, utc_min=0, team1="Norway", team2="England",
@@ -426,6 +426,8 @@ _KNOCKOUT_RESULTS: dict[int, str] = {
     90: "0-3",            # Canada 0-3 Morocco
     91: "1-2",            # Brazil 1-2 Norway
     92: "2-3",            # Mexico 2-3 England
+    93: "0-1",            # Portugal 0-1 Spain
+    94: "1-4",            # United States 1-4 Belgium
 }
 
 _ko_by_id = {m.match_id: m for m in KNOCKOUT_MATCHES}
