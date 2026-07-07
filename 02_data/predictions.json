@@ -721,6 +721,14 @@
       "predScore": "1-1"
     },
     {
+      "matchId": 98,
+      "recordTime": "2026-07-07 10:29",
+      "probH": 0.4,
+      "probD": 0.3,
+      "probA": 0.3,
+      "predScore": "1-1"
+    },
+    {
       "matchId": 99,
       "recordTime": "2026-07-06 16:16",
       "probH": 0.23,
