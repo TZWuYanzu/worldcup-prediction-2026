@@ -91,6 +91,10 @@ python3 sporttery_odds.py predict
 ================================================================
 ```
 
+### Step 5: 写入投注看板
+
+分析完成后，将赔率+Edge数据写入 `02_data/betting_rounds.json` 的对应轮次。如果该日期已有数据则覆盖 matches 部分。然后运行 `python3 generate_dashboard.py` 重新生成看板。
+
 ### 关键原则
 
 - **Edge > 5% 才有投注价值** — 低于5%被overround吃掉

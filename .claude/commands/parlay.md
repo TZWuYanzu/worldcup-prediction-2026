@@ -193,6 +193,16 @@ for m in GROUP_MATCHES:
   M75 3-2 @25.00 → 模型4.4%, EV=1.10 [+10%]
 ```
 
+### Step 6: 写入投注看板
+
+分析完成后，将本轮结论写入 `02_data/betting_rounds.json`。
+
+**数据结构：** 每轮一个 entry，包含 `date`、`label`、`updatedAt`、`matches`（赔率+Edge）、`parlays`（串关方案）、`evHighlights`（+EV比分）。
+
+**覆盖规则：** 如果该日期已有数据，替换（每轮只保留最后一次分析）。如果是新日期，追加。
+
+写入后运行 `python3 generate_dashboard.py` 重新生成看板。
+
 ### 关键原则
 
 - **HAD 串关需要所有场次都有 edge** — 否则串关只是在叠加劣势
