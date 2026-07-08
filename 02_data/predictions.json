@@ -735,6 +735,14 @@
       "probD": 0.3,
       "probA": 0.45,
       "predScore": "1-2"
+    },
+    {
+      "matchId": 100,
+      "recordTime": "2026-07-08 15:08",
+      "probH": 0.52,
+      "probD": 0.27,
+      "probA": 0.21,
+      "predScore": "1-0"
     }
   ]
 }

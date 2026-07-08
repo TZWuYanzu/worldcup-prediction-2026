@@ -387,7 +387,7 @@ KNOCKOUT_MATCHES: list[Match] = [
           utc_hour=17, utc_min=0, team1="Norway", team2="England",
           venue="Hard Rock Stadium, Miami"),
     Match(match_id=100, stage="QF", group=None, date_str="2026-07-11",
-          utc_hour=21, utc_min=0, team1="TBD", team2="TBD",
+          utc_hour=21, utc_min=0, team1="Argentina", team2="Switzerland",
           venue="Arrowhead Stadium, Kansas City"),
     # --- Semi-finals ---
     Match(match_id=101, stage="SF", group=None, date_str="2026-07-15",
