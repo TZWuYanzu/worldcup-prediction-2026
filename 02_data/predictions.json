@@ -730,10 +730,10 @@
     },
     {
       "matchId": 99,
-      "recordTime": "2026-07-06 16:16",
-      "probH": 0.23,
+      "recordTime": "2026-07-08 14:40",
+      "probH": 0.25,
       "probD": 0.3,
-      "probA": 0.47,
+      "probA": 0.45,
       "predScore": "1-2"
     }
   ]
