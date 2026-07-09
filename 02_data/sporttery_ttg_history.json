@@ -1,0 +1,78 @@
+{
+  "snapshots": [
+    {
+      "fetchTime": "2026-07-07 11:39:16",
+      "matches": [
+        {
+          "matchNum": "周二095",
+          "matchDate": "2026-07-08",
+          "matchTime": "00:00:00",
+          "homeCn": "阿根廷",
+          "awayCn": "埃及",
+          "homeEn": "Argentina",
+          "awayEn": "Egypt",
+          "ttgOdds": {
+            "0": 11.0,
+            "1": 4.9,
+            "2": 3.25,
+            "3": 3.4,
+            "4": 5.5,
+            "5": 11.0,
+            "6": 20.0,
+            "7+": 29.0
+          },
+          "updateDate": "2026-07-07",
+          "updateTime": "11:37:28",
+          "status": "Selling",
+          "wcMatchId": 95
+        },
+        {
+          "matchNum": "周二096",
+          "matchDate": "2026-07-08",
+          "matchTime": "04:00:00",
+          "homeCn": "瑞士",
+          "awayCn": "哥伦比亚",
+          "homeEn": "Switzerland",
+          "awayEn": "Colombia",
+          "ttgOdds": {
+            "0": 8.0,
+            "1": 4.0,
+            "2": 3.05,
+            "3": 3.75,
+            "4": 6.8,
+            "5": 14.0,
+            "6": 25.0,
+            "7+": 38.0
+          },
+          "updateDate": "2026-07-06",
+          "updateTime": "17:26:17",
+          "status": "Selling",
+          "wcMatchId": 96
+        },
+        {
+          "matchNum": "周四097",
+          "matchDate": "2026-07-10",
+          "matchTime": "04:00:00",
+          "homeCn": "法国",
+          "awayCn": "摩洛哥",
+          "homeEn": "France",
+          "awayEn": "Morocco",
+          "ttgOdds": {
+            "0": 10.5,
+            "1": 4.6,
+            "2": 3.25,
+            "3": 3.6,
+            "4": 5.7,
+            "5": 11.0,
+            "6": 18.0,
+            "7+": 29.0
+          },
+          "updateDate": "2026-07-07",
+          "updateTime": "09:24:59",
+          "status": "Selling",
+          "wcMatchId": 97
+        }
+      ]
+    }
+  ]
+}

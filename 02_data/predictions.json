@@ -714,11 +714,14 @@
     },
     {
       "matchId": 97,
-      "recordTime": "2026-07-06 16:16",
-      "probH": 0.43,
-      "probD": 0.3,
-      "probA": 0.27,
-      "predScore": "1-1"
+      "recordTime": "2026-07-08 20:42",
+      "probH": 0.48,
+      "probD": 0.28,
+      "probA": 0.24,
+      "predScore": "1-0",
+      "oddsProbH": 0.641,
+      "oddsProbD": 0.226,
+      "oddsProbA": 0.132
     },
     {
       "matchId": 98,

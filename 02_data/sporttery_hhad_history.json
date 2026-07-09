@@ -2711,6 +2711,62 @@
           "wcMatchId": 88
         }
       ]
+    },
+    {
+      "fetchTime": "2026-07-07 11:39:17",
+      "matches": [
+        {
+          "matchNum": "周二095",
+          "matchDate": "2026-07-08",
+          "matchTime": "00:00:00",
+          "homeCn": "阿根廷",
+          "awayCn": "埃及",
+          "homeEn": "Argentina",
+          "awayEn": "Egypt",
+          "goalLine": "-1",
+          "oddsH": 1.83,
+          "oddsD": 3.5,
+          "oddsA": 3.36,
+          "updateDate": "2026-07-07",
+          "updateTime": "11:16:09",
+          "status": "Selling",
+          "wcMatchId": 95
+        },
+        {
+          "matchNum": "周二096",
+          "matchDate": "2026-07-08",
+          "matchTime": "04:00:00",
+          "homeCn": "瑞士",
+          "awayCn": "哥伦比亚",
+          "homeEn": "Switzerland",
+          "awayEn": "Colombia",
+          "goalLine": "+1",
+          "oddsH": 1.55,
+          "oddsD": 3.5,
+          "oddsA": 5.05,
+          "updateDate": "2026-07-07",
+          "updateTime": "10:23:46",
+          "status": "Selling",
+          "wcMatchId": 96
+        },
+        {
+          "matchNum": "周四097",
+          "matchDate": "2026-07-10",
+          "matchTime": "04:00:00",
+          "homeCn": "法国",
+          "awayCn": "摩洛哥",
+          "homeEn": "France",
+          "awayEn": "Morocco",
+          "goalLine": "-1",
+          "oddsH": 2.45,
+          "oddsD": 3.32,
+          "oddsA": 2.38,
+          "updateDate": "2026-07-07",
+          "updateTime": "09:25:00",
+          "status": "Selling",
+          "wcMatchId": 97
+        }
+      ]
     }
   ]
 }
